@@ -1,0 +1,101 @@
+Lmnn 81:011an PRINCIPIA MATHEMATICA. 145
+
+cent in singulas. Ergo vires, quas singulae exercent in singulas secundum
+planum F G H in cubo majore, sunt ad vires, quas singulae exercent, in
+singulas secundum planum fg h in cubo minore, ut a b ad A B, hoc est,
+reciproce ut distantiae particularum ad invicem. Q. e. d.
+
+’ Et vice versa, si vires particularum singularum sunt reciproce ut dis-
+tantiae, id est, reciproce ut cuborum latera A B, a b3 summae virium
+erunt in efidem ratione, et pressiones laterum D B, db ut summae virium3
+et pressio quadrati D P ad pressionem lateris D B ut a b quad. ad
+A B quad. Et, ex aequo, pressio quadrati D P ad pressionem lateris db
+ut a b cub. ad A B cub. id est, vis compressionis ad vim compressionis ut
+densitas ad densitatem. Q. e. d.
+
+scholium.
+
+( ) Simili argumento, si particularum vires centrifugm sint reciproce in
+duplicat& ratione „distantiarum inter centra, cubi virium comprimentium
+erunt ut quadrato-quadrata densitatum. Si vires centrifugae sint reci-
+proce in triplicat& vel quadruplicat& ratione distantiarum, cubi virium
+comprimentium erunt ut quadrato-cubi vel cubo-cubi densitatum. Et
+universaliter, si D ponatur pro distantis, et E pro densitate fluidi com-
+pressi, et vires centrifugae sint reciproce ut distantiae dignitas quaelibet
+D ¹¹, cujus index est numerus n; vires comprimentes erunt ut latera cu-
+bica dignitatis E ¹² 4², cujus index est numerus n -Ι- 2: et contra. In-
+telligenda vero sunt haec omnia de particularum viribus centrifugis quae
+terminantur in particulis proximis, aut non longe ultra diffunduntur
+
+(‘) ⁴⁰ Simili argumento, &c. Sunto D et d
+particularum distantiae in spatiIs cubicis A C E
+et ac e quae sunt ut A B et a b, earumdem vires
+centrifugae ut D ¹¹ et d ¹¹ reciproce, fluidi den-
+&tage-{- P ete,n “tle-tzvires comprimentes erunt ut
+E ³ et e 3 .
+
+ 
+
+ 
+
+τ’·
+
+Nam ciim summae virium quas omnes simul
+particulae exercent in latera D B, db, sint ut
+ν singularum particularum vires erunt istae sum-
+mae virium ut D ¹¹ et d ¹² reciproce, seu ut a b ''
+et A B ¹¹ directe3 et pressio quadrati D P ad
+pressionem quadrati D B ut a b ² ad A B ²3
+unde ex aequo pressio quadrati D P ad pressio-
+
+nem quadrati d b, hoc est, vis comprimens in‘
+
+spatio A C E ad vim comprimentem in spatio
+aee‚utab¹¹÷² adA B ”÷². Sunt autem
+
+densitates, sive est E nde, utab³adA 13³,
+aidebnssaden'g'²utab¹²÷²adAB¹³÷².
+
+Von- ΙΙ.
+
+ 
+
+..42
+
+Quare vires comprimentes sunt ut Ε et
+
+’,ἶ-2. Q.e.d.
+
+Et vice versa, si vires comprimentes sunt ut
+n 2 ΙΙ 2
+
+densitatum dignitates E -ζ-ψ. e :3⁴-
+ει b ¹· ÷²‚ A Β ““ 423 erit pressio quadratiD P
+ad pressionem quadrati d b in eadem ratione, et
+pressio quadrati D B est ad pressionem quadrati
+D P, ut A B ² adab²; et, ex aequo, pressio
+quadrati D B ad pressionem quadrati d b, ut
+abnad AB ¹¹, seuutd¹’ad Dn. Suntautem
+vires particularum singularum ut summae virium,
+hoc est, ut pressiones laterum D B, d b; quare
+vires particularum centrifugae sunt reciproce ut
+distantiarum dignitates D ¹², dn. Q, e. d.
+
+Jam si loco n scribantur numeri 9, 3, δια, pa-
+tet veritas eorum quae initio scholii dixit New·
+tonus. ’
+
+K
+
+ 
+
+3
+
+e
+
+ 
+
+ 
+
+, seu ut
+

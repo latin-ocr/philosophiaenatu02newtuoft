@@ -1,0 +1,163 @@
+⁷ B D curva musica sic potest describi.
+
+ 
+
+Lrnnn Saeuum] PRINCIPIA MATHEMATICA.
+
+omnes conspirabunt, atque idem eveniet, si sit
+curvatura in P ad curvaturam in Q in minore
+’ ratione quam distantiae P S ad distantiam Q R.
+Quare quocumque modo percutiatur chorda mu-
+ssZ'u ἳ““ῗιὶὲῗῖξῗέ“ὲιῖζῖἒᾍῖἶὲῒὶἲοέἒὲᾝὲ
+ibidem descripto. Q. e. d.
+
+Caeterum inflexiones seu distantias admodum
+parvas ab axe motus tam in chordis musicis quam
+in laminis elasticis ex quibus corpora sonora
+compacta mse fingi potest, viribus acceleratricibus
+proportionales et proinde oscillationes esse iso-
+chronna experimentis ostendit clariss.
+Gravesaudius in Elem. Phys. et Mer-
+sennns ,in Harmonia Universali lon-
+giorum chordarum vibrationes isochro-
+nasoculis observavit. Si vero chorda
+nimia vi pulsetur, vis accelerati-ix in
+experimenfis cre-cit in majori ratione
+quam distantiae ab axe mmsis etoscit·
+lationes breviori tempore absolvuntur.
+
+301. Cor-ol. 1. Datis axibus A C et
+
+centro D et radio D B deso-ibatur
+circuli quadrans B N E 3 ducaturad
+B D, perpendicularis M N circulo
+occurrens in N, et producatur ad P,
+ut sit M P·ad D C, in ratione arcus
+Β N, ad arcum quadrat-talem B N E, dieo
+punctum P esse in curva musica A B C.
+
+Sit enim P punctum curvae musicae A B C,
+etdicantur B D.—=a‚ A C=L‚ DC= ξι,
+Β M=x, PM=y,arcusB P=s, PS=
+MD= z=a— x‚radiuscurvaturaeinB=r:
+et si fluxio d s sive P p constans sumatur, en't
+(126. Lib. 1.) radius curvaturae in P, seu. P 0
+
+= ‘'Es-(¹⁰35 2: - d-d⁵d‘¹y¹. Sed (ex dem.) Β D
+est ad P S ut curvatura in B ad curvaturam in
+
+P, id est, u-t. radius curvatura} in Pdadgadium
+s x
+
+dd Α.
+Quare radd5=xdxds—a d x dys, et
+sumptis fluentibus addita constante Qd ε, fit
+rady=-}xxds—axds-{-st. Eva-
+nescenteBMseux,fitdy:.=ds,seuBP=
+P Μ (per Cor. l. Lem. VH. Lib. Ι.) et aequa-
+tio in hanc abitr a d s = Qd ς, ideoque con-
+stans Q= ra. Quare in quovis curvae puncto
+Peritradysta-f-{xx—ax ds. Pona-
+turax—{xx=bb,utsitra =[ra—
+bb ds, etrraady²=[ra—bb]-⁰ds²
+= ra—bb]²dy²÷[ra—bb]²dx²;
+unde deducitur [2 r a b b--b ⁴] d y ²
+[ra—bb]²dx²; et quia curvaA B C fere
+coincidit cum axe A C (per Hyp.) ac idea
+quantitas b b minima est respectu quantitatis r a
+in qua radius curvatura! r maximus est, si con-
+feratur cum a vel x aequatio in hanc abibit
+
+ 
+
+curvaturae in B, seu a: a—x= —
+
+ 
+
+2rabbdy²=rraadx², ex qua eruitur
+
+ 
+
+ 
+
+d rga'kdx τὲ adx
+y=4l2ax—xx=;-{X4l2ax—xx'
+
+Ducatur in circulo altera ordinata m n priori
+M N proxima, et ex puncto (N demittatur ad
+
+263
+
+m n perpendiculum N t; evanescente M m, erit
+(ex natura circuli) NM: ND=Nt2 Nn,
+
+siveVan—-xx2a=dx:Nn= adx
+
+ 
+
+ 
+
+V2ax—-xx‘
+Est igitur d y= N n >< 4! ἑ, et sumptffs
+
+fluentibus y = B N χ γ -ἓ, cui aequationi
+
+nihil addendum vel subducendum est, cum arcus
+B N, evanescente P M seu y evanescat. Verum
+ubi P M coinciditcum C D, seuubi fity= ᾗ L,
+
+ 
+
+estBN=BNE‚etpropterea}k=BNE
+α
+
+ 
+
+ 
+
+Χ 4! -Ξ, atque ade& «Ι -Ξ-..τ Β N Ε. Qum-33
+⁵· - . BNx4L2
+m quolibet carvae puncto P, est y = B N E-,
+
+et proinde y: ἦ =BN2 BNE, hoc est,
+PM est ad C D ut arcus Β. N. ad quadrantem
+B N Ε. Q. e. d. ,
+
+302. Corol- 2. Quia P S est ad B D s'eu ad
+mutmdiusradradium P O, erit P O Χ P S
+= a r. Sit diameter circuli ad circumferentiam
+utladc et ideo aadBNEutl ad{c‚ seu
+
+BNE=saq etcum sit (801) νέξ ὲ L
+
+ 
+
+NE’
+, r L r LL —LL
+ΗΙῒμῖΞῆθῑῖΞπ,Εῑῐ-Γμς
+
+LL
+
+atqussPOXPs=ar= cc.
+
+PROPOSITIO.
+
+308. Si diameter circuli sit ad circumferentiam
+ut 1, ad c, et chorda musicoe uniformiter crassae
+lengitudo sit L, pondus P, pondus quo tenditur
+G et penduli in cycloide osculantis longitudo D ,-
+tempus quo chorda iun oscillationem unam perfi-
+cit, erit ad tempus unius osculationis penduli in
+ratione subduplicatd P L ad c c D G‚· numerus
+vera oscillationum chordae tempore unitis oscilla·
+tionis penduli erit c ς] ἲ Ξ.
+
+Nam vis quii particula P p in loco P, existens
+urgetur dicatur A, ejusdem pondus B et (per
+dem. 2992) erit A ad G, ut Pp ad P Ο, et ob
+uniformem chordae crassitudinem est P ad B, ut
+
+ 
+
+·R4
+

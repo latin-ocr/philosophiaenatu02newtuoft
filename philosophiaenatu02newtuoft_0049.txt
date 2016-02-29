@@ -1,0 +1,207 @@
+...n—...ru v
+
+ᾧ
+
+Lumn Saum] PRINCIPIA' MATHEMATICA. 35
+
+e-2c
+
+20-—30
+
+2 d = t - l-.—-.---D—El—Em—En--Et
+
+Harum tandem aequationum differentia per
+intervallum quatuor ordinatarum H M divisa
+dicatur e, et erit
+
+vr. e=d.-t²‘¹=E.
+
+Si plura fuissent puncta data, pluresque ide&
+fuissent aequatione& eodem modo pergendum
+esset usque ad differentiam ultimam: quae hic
+est differentia quarta, et sic mndem pervenitur
+ad valorem coiifficientis ultimi termini aequap
+tionis generalis assumptae, et deinde retrogre-
+diendo inveniuntur valeres aliarum co‘efficientium
+D, C, B, et A hoc modo.
+
+V·d= =-D-—E1-Em—1·:n
+
+ 
+
+ 
+
+ 
+
+VII. Quoniam e = E, et (V) d=-
+D—El—Em—En‚eritD=—d—
+el—em-—en3etquia tv.) aetc=C÷
+Dl4Dm†El2 Elm÷Em²
+ide6queC=c—D1—Dm—El²—
+Elm—Em28iloooEetDsubstituantur
+eorum valeres modo inventi, habebitur C = c
+†dl÷dm†elm÷enl†emm Et
+simili modo si i‘n aequatione (ΙΙΙ.) b = — B
+-cI-D12-E1³, substituantur coiiffi-
+cientium E, D, C valeres, invenietur B = —
+b—cl—dlm—elmn. ;
+
+VIII. Cum igitur sit (ΙΙ.) Α = a, aequa·
+ιίοειεειῐιιιῐκπιγτ-Α--ι-Βκ-ι-(ΣΧα st
+4Ex⁴, inhaucabit =n—x. οῙ-Ι-
+dlm÷elmu)÷x²·(c-{-dl-}-dm
+elm÷enl†emn)—x³·(d÷el
+
+em en)÷ex⁴=a—-bx—clx÷cx²
+—d mx÷dlx²÷dmx²—dx³—
+elmnx÷elmx²÷enlx²÷emnx²
+—elx2—e mx³—enx³-{-ex4‚ seu
+
+y=a÷b. (—x)÷c. (—x χ l—x) -Ι-
+d. (—x ><l-x>< m—x) -1-ε.(-ιχ
+l—xx m—·x><n'—‘x) -{-‚ διο. In qua
+aequatione patet terminorum progressus, et
+quomodo dau-⁴2 abscissa H S seu x inveniri
+compendiose possit correspondens ordinata S R
+seu y. Nam si dicantur — x seu — H S =
+
+P3—ISXp‚ seu—xxlTx-=q;÷
+
+ 
+
+ 
+
+ 
+
+ 
+
+Squ,seu-x><1-x><m—x=r·
+
+4- SLxr, seu—xxl—xxin—xx'
+n —-·x == S, ita scilicet pergendo ad usque per-
+pendiculum penultimum, quod hic est D L;
+
+Ξτὲι-ἒέεοεευ y=a÷ bp÷cq÷dr÷
+
+ 
+
+ 
+
+ 
+
+IX. Atque haec ipsa est regula quam New-
+tonus casu secundo Lemmatis V. Lib. 111.
+sic tradit: collige perpendiculorum A H, B Ι,
+C K, &c- differentias primas per intervalla
+perpendiculorum divisas b, 2 b, 8 b, 4 b, ἃς. ;
+secundas per intervalla bina divisas c, 2 c, 8 c,
+4 c, &c.; tertias per intervalla terna divisas d,
+
+2 d, 5 d, διο-ς quarm per intervalla quaterna
+
+divisas e, 2 e, &c- ‚Et sic deinceps. Inventis
+differentiis, dic Afl=a‚ —H S=p, p
+in-I S=q, qin÷SK=r,rin-}— SL
+= s, pergendo scilicet ad usque perpendicu-
+lum penultimum. Et erit ordinatim applica-
+ta RS=a4=bp÷cq ÷dr÷es÷‚
+διο. ubi observandum est, praeponenda esse sig-
+na negativa terminis H S, I S, ἃς. qui jacent
+ad partes puncti S versus A, et signa affirmativa
+terminis S K, S L, &c. qui jacent ad alteras
+partes puncti S.
+
+X. Per hanc igitur regulam, assumpta qui-
+libet abscissa H S, invenietur valor ordinatae
+con-respondentis S R, singulaque parabolae punc-
+ta determinabuntur. Si vero in aequatione po-
+natur y = o, et deinde quaeratur valor absciszae
+x, cognoscetur punctum X quo parabola rectam
+H N intersecat.
+
+77. XI. Si perpendimlomm H A, Ι Β,
+Κ C, L D, διο. aequalia sunt intervalla H 1,
+Ι Κ, K L. διε. ; caeteris ut supra (1) nomini-
+bus servati& positoque intervallo H I = l= 1,
+erunt H K=m=2‚ HL=n=3, HM
+=t = 4, διο. et perpendiculomm differentiae per
+intervalla, per intervalla bina. terna, quaterna,
+et divisae erunt (111., IV„ V„ VI.) quae se-
+cuntur.
+
+Differentiam primae per intervalla divisae, b =
+a—f‚ 2b=f—g‚3b=g—h,4b=
+h÷k·.
+
+Differentiae secundae per intervalla bina divi-
+a—2f-†-g 2 c = f—2g÷h
+
+2 ' 2 '
+g—-2h-k·
+2
+
+Differentiae tertiae per intervalla terna di-
+
+⁸-3f433-h, 2d=
+6
+
+sae‚c=
+
+ 
+
+8c=
+
+ 
+
+visoe, d =
+
+f—3g†3h÷k·
+6
+
+ 
+
+ 
+
+Differentioe quartae per intervalla quaterna di-
+a-4f4-6g-4h-k-
+24
+XII. Ponuntur a— f= β, 8-2 f÷
+g'=x,n—8f÷8g—h=3‚a—4 f÷
+
+visae, e =
+
+63—4h—k=⁸; et erit b=13, (ιε-ἓ,
+d=—³†‚ e=³ss Quare si hi κιαι-ες sub.
+
+ὁ 24
+stituantur in aequatione supra (VIII.) inventa,
+y=³÷b·(-¹)÷,g·-(-¹><s-—x)÷
+d(—x)<l—x><m-x)÷e. (—x><
+l—xxm—xXn—x) 4, &cqilla
+in hanc mutabitur y = a -1- β (- x) 4
+n(—x><1'—-i) ³·(—x><¹-x><2-x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 -Ι- 2><8
+.- - ‘2— —
+ψη( ι><12>κι>ἑχ4ι><5 x)-{-,&c.„
+
+C2
+

@@ -1,0 +1,68 @@
+1 12 PHILOSOPHIAE Ν ATURALIS [Mor. Conon.
+
+LEMMA 111.
+
+Sit P Q R spiralis quae secet radios omnes S P, S Q, S R, διο. in aequali-
+bus angulis. Agatur recta P T quae tangat eandem in puncto quovis P,
+sec-etque radium S Q in T 3 et ad spiralem erectis perpendiculis P O, Q O
+concurrentibus in O, jungatur S O. Dico quod si puncta P et Q accedant
+ad invicem et coeant, angulus P S O evadet rectus, et ultima ratio rectan-
+guli T Q >< 2 Ρ S ad P Q quad. erit ratio cequalitatiS.
+
+Etenim de angulis rectis O P Q, O Q R subducantur anguli aequales
+S P Q, S Q R, et manebunt anguli aequales O P S, Ο Q S. Ergo cir-‚
+culus qui transit per puncta
+O, S, P (5) transibit etiam
+per punctum Q. Coeant
+puncta P et Q, et hic cir-
+culus in loco coitfis P Q
+tanget spiralem, (²) ide6que
+perpendiculariter secabit
+rectam O P. Fiet igitur
+Ο Ρ diameter circuli hujus,
+et angulus O S P in semi-
+circulo rectus. Q. e. d. ”
+
+Ad O P demittantur per-
+pendicula Q D, SE, (a) et
+linearum rationes ultimae erunt hujusmodi: T Q ad P D ut T S vel P S
+adPE,seu2 POad2 PS3itemPDadPQutPQad2 PO3etex
+aequo perturbate T Q ad P Q ut P Q ad 2 P S. Unde fit P Qq aequab
+TQ >< 2PS. Q.e.d.
+
+ 
+
+ 
+
+ 
+
+· b a 2 , - (⁸) ὕ Et linearum ratio-nes ultima. Quoniam
+
+A y=⁸²emQ= 4a,eth1ncSPV- lineaePT‚pQ,ESadPO·normales. suut
+b ⁸ ⁸ ““ b y y· Quare ubi radius y = o, fiet ἓξὲξ 13, 5¹20?er 1:313, ξ. Ῑὲϋῄνειῖοξξέἷέ
+
+4 a· b a P S S T litudinem triangulorum P S Ο, P E S, P ὃς
+,ΥΕΒΒΡνΞ-ΞΔ-..Ξὲιήεηέ ΡΕ--Ροι Ps,seu21³0221›s‚id2⁶qoe
+
+4 4 TQzPD=2P022PS. Quisverdm-
+
+P S T. dii O P, Ο Q sunt ad arcum evanescentem P Q
+
+(Υ) ¹* Transihit etiam per punctum Q. (Per
+Prop. XXI. Lib. 111. Elem.)
+
+(¹⁶) Idedque perpendiculariter secabit rectam
+0 Ρ, quoe (per Hyp.) perpendicularis est ad ar-
+cum Q P, flet igitur Ο Ρ diameter circuli hujus
+(per Prop. XIX. Lib. 111. Elem.) et angulus
+Ο S P in semi-circulo rectus (per Prop. XX XI.
+Lib. III. Elem).
+
+perpendiculares, punctum Ο est centrum, P 0
+radius et 2 P Ο diameter circuli spirulem' oseu-
+lantis in P (121. Lib. 1.) et (per Lem. vn.
+Lib. Ι.) P Q hujus circuli arcus vel chous-23
+atque ade& ex natura circuli) abscissa P D est
+ad chordam Q ut P Q ad diametrum 21²0.
+Quare ετ «ique perturbate, διο.
+

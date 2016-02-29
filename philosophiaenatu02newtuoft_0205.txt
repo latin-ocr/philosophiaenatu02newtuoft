@@ -1,0 +1,43 @@
+Lmen Saeuum] PRINCIPIA MATHEMATICA. 191
+
+SECTIO VII.
+
+De ⁸motu fluidorum et resistentid prcy'ectilium.
+
+PROPOSITIO XXXII. THEOREMA XXVI.
+
+Si corporum systemata duo similia ex aequali particularum numero constent,
+et partic-alce correspondentes similes sint et proportionales, singulae in
+uno systemate singulis in altero, et similiter sitae inter se, ac datam
+habeant rationem densitatis ad invicem, et inter se temporibus propor-
+tionalibus similiter moveri incipiant (ece inter se quae in uno sunt syste-
+mate et eoe inter se quae sunt in altero) et sinon tangant se mutuo quae
+in eodem sunt systemate, nisi in momentis reflexionum, neque attrahant,
+velfhgent se mutuo, nisi viribus acceleratricibus quae sint ut particularum
+correspondentiam diametri inverse et quadrata velocitatum directe .· dico
+quod systematum particulae illae pergent inter se temporibus propm-tionaliss
+bus (¹²) similiter moveri. '
+
+‘Corpora similia et similiter sita temporibus proportionalibus inter se
+similiter moveri dico, quorum situs ad invicem in fine temporum illorum
+semper sunt similes: puta si particulae unius systematis cum alterius par-
+ticulis correspondentibus conferantur. Unde tempora erunt proportiona-
+lia, in quibus similes et proportionales figurarum similium partes a particulis
+correspondentibus describuntur. Igitur si duo sint ejusmodi systemata,
+particulae correspondentes, ob similitudinem incoeptorum motuum, pergent
+similiter moveri, usque donec sibi mutuo occurrant. Nam si nullis agi-
+tantur viribus, progredientur uniformiter (⁸) in lineis rectis per motfis
+leg. 1. Si viribus aliquibus se mutuo agitant, et vires illae sint ut particu-
+larum correspondentium diametri inverse et quadrata velocitatum directe3
+
+(¹') ’ Similiter moveri. Sumo A et a, Petp, atque S A B aequalis s a b. Et alite sibi mutuo
+S et s, διο. narticulae in duobus systematibus sibi correspondentes particulae quiescant vel simili
+mutuo correspondentes. Particula A in suo modo moveantur. His positis demonstrandum
+systemate tempore T, descrsbat spatium quam est, quod si sumantur tempora alia quae sint ut Τ
+minimum A B, et panicula correspondens a, in et t, particulae correspondentes erunt utrinque
+altero systemate 'tempore t, describat spatium a b, similiter posita». ’- ’
+priori A Β, simile similiterque situm, its ut sit (⁸) ⁸ In lineis rectis-per monis leg. 1. Ideoque
+A Β, ad a b, ut diameter particulae A, ad dia· ob velocitates uniformes et similes motuum di-
+metrum particulae a, sive ut A S ad a s, vel P S rectiones pergent similiter moveri temporibus pro-
+ad p s, et angulus Δ S Β aequalis angulo n s b, portionalibus usque ad occursus suos primos.
+

@@ -1,0 +1,90 @@
+Lmen Sitonum] PRINCIPIA MATHEMATICA. 147
+
+· SECTIO VI.
+
+De motu et resistentid corporum funependulorum.
+
+(Β) PROPOSITIO XXIV. THEOREMA XIX.
+
+Quantitates materiae in corporibus funependulz's, quorum centra oscilla-
+tionum α centro suspensionis oequaliter distant, sunt in ratione compositd
+ex ratione‘ ponderum et ratione duplicata temporum oscillationum in
+
+vacuo.
+
+Nam velocitas, quam data vis in data m-1terifi, dato tempore generare
+potest, est ut vis et tempus directe, et materia inverse. Quo major est
+vis vel majus tempus vel minor materia, eo major generabitur velocitas.
+Id quod per motus Legem secundam manifestum est. (¹¹) Jam verb si
+pendula ejusdem sint longitudinis, vires motrices in locis a perpendiculo
+aequaliter distantibus sunt ut pondera: ideoque si corpora duo oscillan-
+do describant arcus aequales, et arcus illi dividantur in partes aequales3
+(¹) cum tempora quibus corpora describant singulas arcuum partes corres-
+
+(ss) ⁸ Propositio XXI V. In hae Propositione pus acceleratur in prima cycloide in puncto D,
+
+et ejus Corollariis supponitur corpora funepen-
+dulc, quae comparantur, in cycloidibus aut sal-
+tem in exiguis¹ magni circuli arcubus oscillari.
+ὓ Pondera autem corporum hic duplici de causa
+a materia ipsorum distinguuntur3 primo, quod
+nondum assumi possit gravitatem agere secun·
+dum rationem massarum, cum id ipsum ex isto
+Theoremate postea deducatur, Cor. 7.; et se-
+cundo, in diversis locis gravitas diversa esse po-
+test (ut quidem ex experimentis constat) ideoque
+corporum ,duorum in diversis iis locis spectato-
+rum ratio materiae eadem manebit, non vero ra-
+tio ponderum.
+
+(¹¹) Jam verb si pendula ejusdem sint longitudi-
+nis, vires matrices in Iocis a perpendiculo aequa-
+liter distantibus sum ue pondera.
+
+” Nam si pendula ejusdem sint longitudinis,
+cycloides plane similes et aequales describent:
+in unaquaque autem cycloide‚ vires quibus cor-
+pora in locis quibusvis D, (vid. fig. pag. seq.)
+vel d accelerantur, sunt ad totum singuli corpo-
+ris pondus iu locis altissimis, ut arcus cycloidis
+inter loca proposita D, d et puncta infima C, c,
+
+ad totas semi-cycloides Cor. Prop. LII. Lib.
+
+Ι.) Ergo si semi-cycloi es sint aequales et loca y
+
+D et d a perpendiculo aequaliter distent, arcus
+D C et d c erunt aequales, ideoque vis qua cor-
+
+erit ad totum ejus corporis pondus, ut vis qua
+corpus acceleratur in altera cycloide in puncto
+d, ad totum ejus corporis ponduS. Unde vicis-
+sim, vis quii acceleratur primum corpus in puncto
+D, est ad vim qua alterum acceleratur in puncto
+d, ut totum prioris corporis pondus, ad pondus
+alterius corporis, ide6que si pendula sint ejusdem
+longitudinis vires motriccs, διο. Q, e. d.
+
+(ἰ) Cum tempora qulbus corpora describant
+singulas arcuum partes (aequales) correspondentes
+sint ut tempora oscillationum lotarum.
+
+ἢ* Sint arcus D C, d c aequales, secenturque
+in partes aequales infinite parvas D E, Ε F,
+&03 d e, e f, δια, ex punctis D, E, F et d, e, f,
+ducantur perpendiculares ad axem, D M, E N,
+F R; D m, e n, fr3 liquet lineolas M N et
+m n, M R. et m r ex hypothesi fore aequales3
+ex natura autem gravitatis, velocitas acquisita in
+E erit ad velocitatem acquisitam in F ut radix
+altitudinis M N ad radicem M R, et pariter ve-
+locitas acquisita in e, erit ad velocitatem acqui-
+sitam in fut 4lmn ad μ mr, cum ergo
+«Ι MN=4lmnet4l MR=4lmrve-
+locitas acquisita in E est ad velocitatem acquisi-
+tam in F, ut velocitas acquisita in e est ad velo-
+citatem acquisitam in f, et vicissim velocitas ac-
+quisita in E. est ad velocitatem acquisitam in e;
+
+ΚΩ
+

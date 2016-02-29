@@ -1,0 +1,201 @@
+met Saeuum] PRINCIPIA MATHEMATICA.
+
+scribantur ‚b et c ut aequatio sit y = b x — c x ²
+.- e x ³. Ut jam determinenturcoefficientes b,
+c, e, capiantur aequationis fluxiones, prima, se-
+cunda et tertia, facta d x constate, erunt illae dy
+=bdx—2cxdx—5ex²dx; ddy=
+—2cd12-6exdx²‚ d³y=—6edx·³.
+Coincidentibus punctis V et C, fit x = ο, et
+ideody=bdx,ddy=—2cdx2etd³y
+=-6edx³. Ex aequntione dy=b dx,
+deducitur proportio d xz d y= 1 z b; et coin-
+cidente C cum V, d x est ad d y ut sinus totus
+V Q ad tangentem Q S, anguli projectionis
+T V Q ; quare si sinus totus dicatur 1, erit b
+tangens anguli projectionis, et ide& dato hoc an-
+gulo datur b. Si velocitas cum qua corpus e
+
+loco V projicitur sit v, et f, altitudo ex quii cor-
+pus urgente vi constante g, in spatio non raeis-
+tente cadendo acquirit velocitatem illam v, erit
+2 g f= v v (18. 19. 20. hujusce Lib.) sed (30)
+
+⁴ g d.s ² g d s ²
+“ d d y2 d d y ’
+
+2r=-3;y;astantexfids2=dx²÷dy²
+
+'=dx²·÷bbdx², etddy=-²1⁰‡¹b¹b²
+
+,12c ’
+
+et
+
+ 
+
+ 
+
+vv= ,ideoque2gf=—
+
+ 
+
+in loco V, (ex dem). Quare erit 2 f =
+
+ 
+
+ 
+
+et hinc (τι- ¹ ’ΣΞ-ἒ b. cnm igitur quantitates b,
+
+et f, datae sint, data erit c. Invenietur quantitas
+tertia e, per aequationem ad³y=dsd dy
+(129) et per aequationes supra repertas d s :=
+dqut†bb,ddy=—2cdx²‚etd³y=—
+Ged¹³3exquibuseruitur—-6aedx³=—
+
+cffl÷bb
+58
+
+ 
+
+ 
+
+ 
+
+π’ᾱκεᾳ 1÷bb,ethince=
+
+= Q, Totaigitur aequa.
+l2af
+tio assumptay=bx—cx²—ex³fit55=
+
+bat—¹² ><(1-4}-fbb)—m¹³ χ(1-1ζὶ)8ὴὲ
+
+in qua datii velocitate terminali datur a, (130).
+Poterit etiam linea a, per experimentum repe-
+rir13 nam si eloco V sub angulo dato T V B
+dat& cum velocitate projiciatur corpus in medio
+supposito et observetur amplitudo jactus V B,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+91
+
+quae dicatur A, in aequatione ad trajectoriam
+
+¹ V P Β. loco x, scribatur A, etloco y, scribatur
+
+o, quia ordinata C P, seu y evanescit in B inve-
+nieturo=bA—AA>< Ω-’ξῖ-ΞΗ-Αὸχ
+
+ 
+
+5
+(1Ἑῖἓ)ἶ; unde deducitur a = A A χ
+οψυωῧ
+
+12fb--3Ax (1 ÷bb)‘
+1:32. Corol. 5. Jactfis amplitudo V Β, in-
+venitur, facti y = o, unde eruitur x x Χ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(¹ ss2‡){÷x><(¹‡tl'b)=b,etvss=
+1=-23„-{-³÷-5-b÷y (4222st
+
+-—.—.
+
+12afb
+
+ 
+
+(ι -ι- b b) a)
+
+188· Corol. 6. Maxima jactus altitudo
+D G reperitur, sumpta aequationis ad tra-
+jectoriam V P Β, fluxione et facta d y = o
+(48); fit enim o=b dx-2 x dx χ
+
+ 
+
+5
+Ῑῒΐδδ-διῑᾷιχυῑζ--Ξᾷἷ unde
+
+ 
+
+ 
+
+ 
+
+b deducitur VD=x=—Ml⁵-⁵÷bb-}-
+V l ⁸ ab -ι- -43-ξ-ὺ-Ξ. Quo valore loco x,
+'l' b (1÷bb)²
+
+in aequatione ad trajectoriam substituto, obtine-
+bitur y, seu maxima altitudo D G.
+
+184. σοι-οἱ. 7. Ut determinetur tangens an·
+guli T V B, sub quo corpus data celeritate pro-
+jectum, per datum punctum P transibit, loco x
+et y in aequatione ad trajectoriam scribantur da·
+tae V C et V P, atque hinc eruatur valor tan-
+gentisb3 dicaturV C= p, C P= q, et exit
+
+νῒῖῑῧ
+
+ 
+
+ 
+
+ 
+
+q=bp—pp>< Η, —1›³><
+5
+¹ ἓξὲξ. Si medii densitas infinite parva
+
+esset, altitudo a foret ἰΞί-ὶιίξῗ (130), et idcirco
+1
+f
+
+4 . Inveniatur per
+
+ 
+
+q=bp-ppx
+banc aequationem valor tangentis b qui dicatur
+k, et in aequatione superiori loco (1 ÷ b b) Ξ,
+scribatur (lq-bb) Χ V2†kk etilla in
+
+hanc abibitq=bp-pp Χ (l :ffb b)
+
+ 
+
+—1’,³><
+
+ 
+
+1÷bb><421¹2÷fssfi quae cumsitduamm
+
+dimensionum facile suppeditabit valorem ipsius
+b, quamproxime· .
+
+1:35. Corol- 8. Data celeritate jactus, inveni-
+tur angulus maximae omnium amplitudini con-
+veniens, si in aequatione Comuarii 5. in qua x
+

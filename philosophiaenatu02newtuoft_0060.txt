@@ -1,0 +1,104 @@
+46 PHILOSOPHIAE NATURALIS [Mo‘r. Commu.
+
+teribus A et B deerant momentorum dimidia ὲ a et ὲ b, fuit A —- ἐ a in
+B—3b‚seuAB--÷}aB—-{ b A ÷ {ab3 etquamprimum latera
+A et B alteris momentorum dimidiis aucta sunt, evadit A -Ι- a} ain B ÷
+{b seu A B -Ι- {a B -1- ibA ÷ {ab De hoerectangulo subducatur
+rectangulum prius, (¹¹) et manebit excessus a Β -ι- b A. Igitur latex-mn
+
+(ὓ) ¹¹ Et manebit emenus a B b A. momentis linearum Ο A, O B proportionales,
+
+1¹¹·- casus. Sit rectangulum A B C sub hoc est, proportionales velocitatibus quibus lineoe
+‹iu-hm vai-labilibus O A, Ο Β continue cres- Ο A, O B crescunt, sive, quod idemestfceleri-
+centibu53 sumantur hinc inde ab A partes tatibus quibus, dum rectangulum Ο A C B
+aequales A e, A f, et ὲ Β partes aequales Β g, crescit, lineae A C, Β C antron-sum feruntur,
+B h, ita ut, si a et b sint quantitates momen. rectangula A C Χ e f et B C >< g h, erunt ut
+tis linearum 0 Α, Ο Β proportionales sit e f linea· illae A C, B C et earum velocitates con-
+
+= a, et g h = b: compleantur recmngula jutffitilrtngtio antem geniti rectangun o Α C B
+proportionalis est eausae quae eam producit, ea
+autem causa est' motus linearum variabilium
+A C, B C quo antrorsum feruntur dum lineae
+O A. Ο Β crescunt, et quamvis dum illae linea
+A C, B C moventur, interim lineae 0 A, Ο Β
+crescant, incrementi hujus nulla habenda eet ra-
+tio dum rectanguli fluxionem sive incrementum
+nascens consideramus», etenim in ipso hujus *in-
+crementi nascentis ortu illae productiones linea·
+rum Ο Α, Ο Β nihil plane sunt. et cum primum
+sunt aliquid jam aliae A C, B C prioribus majo-
+res assumuntur, ergo momentum rectanguli
+Ο A C B sive ejus mutationis momentanea eati·-
+sa, ex lineis A C et B C etvelocitatibus quibus-
+cum feruntur, determinanda est.
+
+Sint vero rectangula M N n m, P R r p,
+quorum lineae M N, P R sint aequaleS, conei-
+piantur aliae lineae hisee etiam aequales quae ab
+M N et P R profectae motu uniformi et paral-
+
+l«
+
+ 
+
+OgEe, oh Ff, ducaturFE‚ quae transibit
+per C punctum concursus linearum A C, B C
+(ob parallelas, et lineas ef et g h similiter,
+nempe bifariam, sectas in A et Β). Dico quod
+summa trapeziorum E F fe et E F h g aequalis
+erit momento rectanguli O A C B; obtinetur
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vero trapeziorum summa, sumendo differentiam R
+' rectangulorum Ο e E G, Of F H, quae est Ο f Ν n R«
+
+χ oh—OeXOg. sive 0A÷Af><
+
+OB -Ι- Bh—oA-Xex OB—Bg,
+
+etvocandoO A, A;o B, B; Af= Ae=222a‚
+
+B h = B g = ἦ b differentia rect. erit
+
+A-l-{ax B÷‡b— A—{ax
+
+3-4b=AB÷÷ass÷{bA÷÷arM m P · P
+
+-AB-ff-{a ÷2gbA—‡ab=aB ·
+
+-Ι- b A. lelo secundum lineas M m et P p ferantur, ita
+Ut vero probetur summam tra· X ut eodem tempore ad m n et p r perveniant, ma-
+
+peziorum Ε F e f et E F g h Ζ nifestum est (per 1. 6¹· Elem.) areas M n, P r
+
+aequalem esse momento rectangu- T fore ut lineae Μ m, P p, et pariter velocitates
+
+li O A C B. observandum prime. linearum ab M N et P R profectarum in eadem
+
+Quod si lineae quaevis S T, V X, fore ratione ideoque areas M n, P r, fore in rn-
+
+utcumque inaequales, in lineam tione earum velocitatum. Quod si lineae N M,
+
+S V sint perpendiculares junga- P R sint inaequales, areae erunt ut lineae 311ae
+
+tui-que T X, et in medio lineae M N, P R et earum velocitates conjunctim, et
+
+S V erigatur perpendicularis Y Z, quaevis incrementa rectangulorum N M m n.
+
+erit trapezium S T X V aequale S Y 'V' P R ι· p aequali tempore facta in eadem ratione
+
+rectangulo S V >< Υ Ζ; imque erunt, ideoque et nascentiaincrementa erunt in
+
+trapezium Ε F f e erit aequale rectangulo A C eii ratione. Unde tandem sequitur quod incre-
+>< e f, et trapezium Ε F h g aequale rectangulo mentum rectanguli Ο A C B ex motu line'ae
+B C Χ g h. Praeterea quoniam ef et gh sunt A C natum, est ut illa linea A C et ejus velo-
+

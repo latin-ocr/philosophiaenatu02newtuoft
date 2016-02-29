@@ -1,0 +1,55 @@
+38 PHILOSOPHIAE NATURALIS ’ [Mor. coma.
+
+A B Χ Κ k; et ultimo, ubi co'e‘unt A B et K k, ut A B q. Et simili
+argumento erunt K k —- L l, L l — M m, &a ut K k quad. L l quad.
+διο. Linearum igitur A Β, Κ k, L l, M m quadrata sunt nt earundem
+differentiae3 et idcirco cum quadrata velocitatum fuerint etiam ut ipsarum
+differentiae, (Β) similis erit amba-
+rum progressio. (ὴ) Quo demon· H
+strato, consequens est etiam ut
+areae his lineis descriptae sint in
+progressione consimili cum spatiis
+quae velocitatibus describuntur.
+Ergo si velocitas initio primi tem-
+poris A K exponatur per lineam
+A B. et velocitas initio secundi
+K L per lineam K k, et longitudo
+primo tempore descripta per aream
+A K k B; velocitates omnes sub-
+
+sequentes exponentur per lineas subsequentes L l, M m, Sec. et longitu-
+dines descriptae per areas K l, L m, &c. Et composite, si tempus totum
+exponatur per summam partium suarum A M, longitudo tota descripta
+exponetur per summam partium suarum A M m B. Concipe jam tem-
+pus A M ita dividi in partes A K, K L, L M, &c. ut sint C A, C K,
+C L, C M, διο. in progressione geometrica ; (¹) et erunt partes illae in
+efidem progressione, (k) et velocitates A B, K k, L l, M m, &c. in pro-
+gressione eadem inversa, (¹) atque spatia descripta A k, K l, L m, διο.
+aequalia. Q. e. d.
+
+       
+
+C AKI. Μ Τ D
+
+Corol. 1. Patet ergo quod, si tempus exponatur per asymptoti partem
+quamvis A D, et velocitas in principio temporis per ordinatim applicatam
+A 133 velocitas in fine temporis exponetur per ordinatam D G, et spa-
+tium totum descriptum per aream hyperbolicam adjacentem A Β G D;
+
+(Β) ³¹⁵ Similis erit ambarum progressio ,- et ide& tricae, sunt in eddom progressione geometrica.
+velocitates singulis temporum aequalium A K, Nam cum sit C A·: C K = C K: C L==
+K L, L M, &a initiis exponi possunt per lineas C L : C M, δια, erit auferendo antecedenti· ex
+A B, K k, L l, διο. antecedentibus et consequentia ex consequenti-
+
+(ὴ) * Quo demonstrato, consequens est ue areae bus C A: C K = A K ι Κ L = K L: LM,
+ABkK‚Kle,leM,&c.sintinpro- διε.
+gressione consimili cum spatiis quae velocitatibus (¹¹) ⁸ Ee velocitates A B, Kk, L l, M m, 4⁶„
+A B, K k, L l, &c., tempusculis A K, K L, in 1mogressione eddem ι’πυονεᾶ. Siquidem (per
+L M, &c., describuntur (14). Theor. IV. de Hyp.) est A B ut C A, inverse,
+
+(¹) 78. ‘ Et erunt partes illae A K, K L, K k ut C K inverse.
+
+L M, διο. quae sunt differentiae linearum C A, (¹) * Aeque spatia descripta, A Β k K,
+C K, C L, C M, διο. ir· eadem progressione. K k 1 L, Ll m M, &c., oequalia (380. Lib.
+Differentiae enim cujusvis progressionis geome- 1.) ”
+

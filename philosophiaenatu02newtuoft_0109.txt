@@ -1,0 +1,81 @@
+Lim-:R Saeuum] PRINCIPIA MATHEMATICA. 95
+rum particularum E D d e uniformiter crescente, decrescit in eadem
+
+ 
+
+ratione cum velocitate. (⁰) Nam decrementum velocitatis est ut resisten-
+tia, hoc est (per Hypothesin) ut summa duarum quantitatum, quarum una
+
+est ut velocitas, altera ut quadratum velocitatis ; et ipsius GAED decremen-
+
+,Ξ- et C G
+G D G D q
+&LI-3- G—-CDG est ut 1 z proinde (‘¹) -—1—‚ ob analogum
+q G D q G D
+
+decrementum, est ut velocitas. Et si quantitas G D, ipsi G—ls) reciproce
+proportionalis, quantitate data C G augeatur3 summa C D, tempore
+A B E D uniformiter crescente, (Β) crescet in progressione geometrica.
+Q. e. d.
+
+Corol. 1. Igitur si, datis punctis A, G, exponatur tempus per aream
+hyperbolicam A B E D, (f) exponi potest velocitas per ipsius G D reci-
+
+1
+G—D'
+
+(ἕ) Corol. 2. Sumendo autem G A ad G D ut velocitatis reciproca sub
+initio, ad velocitatis reciprocam in fine temporis cujusvis A B E D, in-
+venietur punctum G. Eo autem invento, velocitas ex dato quovis alio
+
+tempore inveniri potest.
+
+tum est ut summa quantitatum , quarum prior est ipsa
+
+ 
+
+, et posterior
+
+ 
+
+procam
+
+(ο) Nam decrementum velocitatis, dato tempo- 1 — . . . . .
+ris momento, est ue resistentia (15). ““““ “- ⁰2 ”ve “¹⁰⁰¹OE ”uua ΠΜ G D em ω’
+
+G D
+
+(ὖ) ” Gsslj, ob analogum decrementum, est
+ut velocitas. Si enim duarum quantitatum fluen-
+tium incrementa vel decrementa dato tempuscu-
+lo producta anal-oga sint, eorum incrementorum
+vel decrementorum summae seu fluentes ipsae
+
+ab eodem initio sumptae, sunt analogae (per Cor.
+Lem. 1v. Lib. 1.).
+
+ng²)1:)Cr{scet in progressione geometrica (380.
+(f) '³ Ezponi potest velocitas per ipsius G D
+
+reciprocam U). Unde patet velocitatem non-
+
+nisi tempore infinito extingui posse, ³* erit enim
+
+finita. tunc autem area Β Α D E quae tempus
+exprimit infinita etiam est, ex natura hyperboiae.
+
+(⁸) e Corol. 2. Punctum A ad arbitrium as-
+sumitur in asymptoto C R. et assumpto etiam
+quovis puncto D ut area A B E D tempus da-
+tum exponat, ita. determinandum est punctum
+G, ut sit G A ad G D, ut velocitatis reciproca
+sub initio ad velocitatis reciprocam in fine tem-
+poris cujusvis A B E D, quod per Corol. 1.
+liquet. Invento autem puncto G, ex dato quo-
+vis alio tempore quod v. gr. sit ad tempus primo
+datum ut area A B S R, ad aream A B E D,
+dabitur velocitas quae erit reciproce ut* G R, seu
+
+quae erit ad velocitatem sub initio in A, ut G A
+ad G R datam.
+

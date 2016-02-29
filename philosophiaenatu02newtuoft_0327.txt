@@ -1,0 +1,126 @@
+anit Secum] PRINCIPIA · MATHEMATICA.
+
+PROPOSITIO LIII.
+
+313
+
+THEOREMA XLI.
+
+Corpora, quae in vortice delata in orbem redeunt, ejusdem sunt densitatis cum
+vortice, et eddem lege cum ipsius partibus quoad velocitatem et cursus de-
+
+terminationem moventur.
+
+Nam si vorticis pars aliqua exigua, cujus particulae seu puncta physica
+datum servant situm inter se, congelari supponatur} haec, quoniam neque
+
+difficile sit ab his aliisque contradictionibus hy-
+pothesim vorticum liberare, ex variis hac de re
+eruditorum dissertationibus satis manifestum est.
+Vide Leibnitii tentamen de Motuum coelestium
+Causis3 Villemotii opus de Vorticibus ; illustrissi-
+mi Marchionis Poleni dialogum de effidem ma·
+teria ; Dissertationes celeber. virorum Saurini
+in Comm. Acad. Reg. Scient. an. 1709„ Bulffin-
+geri de Causa Gravitatis, J oan- Bernoulli Cogita-
+tiones Novas de Systemate Cartesii, ejusdeml’hy.
+sicam Coelestem inter Academiae praemianomini
+
+i* de Molieres Lectiones Physica&
+
+Illustrium authorum qui vorticum hypothesim
+strenue vindicarunt, varias hac de tle disserta-
+tiones hic percurrere nimis longum foret, nec
+tantas componere lites nostrum est. Eani enim
+Newtonus sibi vel maxime impugnandam assu-
+mit vorticum hypothesim quam Cal-tesius ipse
+constituerat, natasque post primi autoris mortem
+hujus systematis emendationes quam plurimas
+saltem dIrecte non petit. At silentio praeter-
+mittere non licet dissertationem doctissimi viri
+Joan. Bernoullii ab Academia Regia Paris.
+praemio condecoratam, cui titulus est: Cogita-
+tiones Novae de systemate Cartesii. Existimat
+clariss. autor superiorum Propositionum demon-
+strationes mero sophismate laborare, eo quod
+Newtonus orbium contiguorum et sese mutuo
+atterentium'impressionem solum definierit ex
+superficierum magnitudine et velocitate relativa
+, qua ab invicem separantur3 earum vero superfl-
+cierum pressionem minime consideraverit, vim-
+que vectis neglexerit quae, caeteris paribus, major
+est in majoribus rotis et minor in minoribus-
+Verum licet in suis demonstrationibus pressionem
+ubique aequalern supposuerit Newtonus‚ hujus
+tamen pressionis inaequalitatem in scholio consi-
+detavit, et quid ex ina sequatur, generatim osten-
+dit. Vim quidem vectis prorsus neglexit, et
+merito quidem, quantum intelligere possumus·
+Quamvis enim in vecte regido cujus partes simul
+eodem motu angulari circa hypomoclion revol-
+vuntur, ed major sit efficacia quo caeteris paribus
+longior est vectis3 quod videlicet vectis partes eo
+
+celerius moveantur, quo major est earum ab hy. ,
+
+pomoclio distantia, id tamen ad partes medii
+fluidi quae circa centrum aliquod revolvuntur,
+non videtur transferendum. Et licet Newtonus
+orbes solidos. demonstrationis gratia, primum
+fingat, eos tamen divisos supponit ac deinde in
+particulas innumeras subdividit ut demonstratio
+
+ad naturam medii fluidi accommodetur. Quod
+si ob qualemcumque partium fluidi cohaesionum,
+aliqua habenda sit ratio vis vectis, certe ea non
+videtur assumenda distantiae a vorticis centro
+proportionalis, quemadmodum fit in vecte per-
+fecte rigido, seu cujus partes vi quasi infiniti
+connexae supponuntur et eodem motu angulari
+revolvuntur.
+
+Caeterum celeber. Joan. Bernoulli aliam usur-
+·pat hypothesim quae mechanicis perspecta non-
+dum est certdque explorata. Supponit enim
+cum D. Amontons in Monum. Paris. an. 1699.
+resistentiam quse oritur ex frictione superficierum
+contiguarum utcumque inaequalium, manente
+earumdem in sese mutud pressione, constantem
+esse ; verum hypothesis illa minus placuit clariss.
+Wolfio qui de es his verbis loquitur in Elemen-
+tis Mechanicis num. 965. Equidem Amontons
+regulam universalem dedit computandi vim ad
+frictionem In dato quolibet casu superandam,
+sed cum omnem frictionem a solii appressione ex
+pondere superincedentis derivet, ex antecedenti·
+bus satis apparet quod proposito satisfacere
+nequeat: veram frictionis legem accuratissimis
+experimentis tentarunt celeberrimi philosophi
+Desaguillier et M uschenbroek ; at eam haud satis
+constantem observarunt, ut patet ex iis quas
+Muschenbroek Tom. Ι. Physices descripsit ex-
+perimentorum tabulis. Nil erg& certi hac de re
+pronuntiari potest. Nevvtonus tamen conjectu-
+ram fecit resistentiam in minori esse ratione
+quam ea velocitatis est, eo forsan ductus argu-
+mento quod in Historia Acad. Reg. an. 1709.
+hoc fere modo exponitur: si concipiantur super-
+ficies innumeris eminentiis asperae, dum alia su-
+per aliam incedit, superficiei superioris eminen-
+tiae intra cavitates inferioris, dato tempore, pras·
+sionis vi penetrant, fitque resistentia major, si
+intra* superficiei inferioris cavitates altius ingre-
+(liantur superficiei superioris eminentiae, at vera
+si major sit velocitas, superior superficies intra
+inferiorem eodem dato tempore minus penetrat.
+Hinc si clariss. Parentii ratio valeat, satis patet
+resistentiam in minori osse ratione quam ea
+velocitatis est. Attamen clariss. Muschenbroek,
+factis experimentis, resistentiam velocitati pro-
+portionalem in motibus tardioribus invenit, in
+celerioribus vero eam in majori quim velocitatis
+ratione observavit.
+
+Assumit D. Bernoullius impressiones orbium
+contiguorum in se mutuo factas, esse in ratione
+

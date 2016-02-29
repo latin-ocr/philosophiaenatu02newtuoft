@@ -1,0 +1,71 @@
+«b
+
+110 PHILOSOPHIAE NATURALIS [Mor. Coaron.
+
+SECTIO IV.
+Decmponmt &euleu-imola in mediis resistentibus (Ἴ.
+
+(¹¹) Newwnu· in hic sectione praecipuas sup- fiunt propter latera circa aequales ad centrum
+ponit logarithmicae spiralis proprietateS, postulat angulos proportionalia (147) et idea alii anguli
+igitur instituti nostri ratio ut de illacurvfi aliquid vhomologi S P Ω, S Q R, S R X, δια, et P Q, S,
+praemittamus. · Q R S, R X S, aequales sunt.
+
+147. Circulus P A Ε L, centro S, et radio 150. Quoniam itaque spira quaelibetPQRZp,
+quovis>S P descriptus divisus sitin arcus quotli- p q ι· z π, &c., totidem triangulis P Q S et
+bet aequales P A, A Β, Β C, C D, &c., sintque pq S, Q R S et q r S, &c. similibus similiterque
+radiorum P S, A S, B S, C S, δια, partes P S, positis divisa est, spirae omnes quae a radio posi-
+Q S, R S, X S, &c. in continua progressione tione dato S P, ad eundem radium ductae aunt,
+
+geometrica, puncta P, Q, R, X, δια, erunt in inter se similes radiisque correspondentibus pro- .
+
+spirali logarithmicfi in qua proinde si radii Q S, portionales erunt, id est P S: p S = P Q R Zp
+
+ 
+
+R. S, X S, &c., sint numeri, arcus circuli P A, ι p q r z er, διο. vAtque hinc sequitur (147)tam
+P B, P C, δια, sicut et anguli P S Q, P S R, spiras omnes quam radios ipsis correspondentes
+P S X, &c., erunt ut illorum numerorum loga· ad centrum usque in progressione geometrici
+
+rithmi, prorsus ut in vulgari logarithmicfi axis
+gartes sunt ut lugarithmi ordinatarum correspon-
+entium.
+
+148. Quoniam autem progressio geometrica
+in infinitum decrescere et crescere potest, mani-
+festum est spiralem logarithmicam utrinque tam
+ad centrum S accedendo quam ab eodem versus
+M recedendo per gyros infinitos continuari posse,
+continuata progressione radiorum decrescentium
+vel crescentium circa centrum S, ad quod idcirco
+curva decrescentibus radiis proportionalibus, mae
+gis magisque accedit, licet numquam illud possit
+attingere, sive ut loqui amant, licet illud cen-
+trum non attingat nisi post infinitas revolutiones.
+
+149- Angulus S Q R, quem radius quilibet
+S Q. cum curvi ad easdem partes constituit con-
+stans est3 si quidem evanescentibus arcubus
+aequalibus P A, A Β, Β C‚&c., triangula eva-
+nascentia P S Q, Q S R, R S X, &c., similia
+
+decrescere, sunt enim P S, p S, a· S, &c- pm-
+gressionis geometricae termini aequidistantoe ob
+aequalem angulorum aequalium P S Q, Q S R.
+p S q, q S r, διο. numerum in singulis spiris
+comprehensum, unde radiorum quoque differen-
+tiae P p, p x, &c. in eadem geometrica progres-
+sione decrescunt.
+
+151. Ducta recta P Τ ερίηιῙεῐιι tangente in P,
+et rectfi P Ο ad eandem perpendiculari, per een-
+trum S erigatur ad radium S P perpendiculum
+T S Ο rectis P T et P Ο occurrens in T et 0,
+longitudo spiralis P Z p z a· S, ad centrum usqua
+S, aequabitur tangenti P T, eritque proinde ad
+radium S P in data ratione P T ad S Ρ, vel
+Ο P ad 0 S. Nam centro S, radiis S Q, S R,
+S X, S V, διο. infinite propinquis descripti sint
+arcus circulares Q F, R G, X H, V K, dcc.. et
+ob angulos QFP, RGQ, X H Rrecton.
+angulosque QP F, R Ω G, X R H, διο. aqu·-
+

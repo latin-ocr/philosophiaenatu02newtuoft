@@ -1,0 +1,95 @@
+Limen SEchn] PRINCIPIA MATHEMATICA. 48
+
+directe et resistentia inverse. Quare temporum particulis in ez'i ratione
+sumptis, corpora amittent semper particulas motuum proportionales totis,
+(5) ideoque retinebunt velocitates velocitatibus suis primis semper propor-
+tionales. (²) Et ob‘ datam velocitatum rationem, describent semper
+spatia, quae sunt ut velocitates primae et tempora conjunctim. Q. e. d.
+
+(⁵²) Corol. 1. Igitur si aequivelocibus corporibus resistitur in duplicata
+ratione diametrorum: globi homogenei quibuscunque cum velocitatibus
+moti, describendo spatia diametris suis proportionalia, amittent partes
+motuum proportionales totis. Motus enim globi cujusque erit ut ejus ve-
+locitas et massa conjunctim, id est, ut velocitas et ³cubus diametri 3 resis-
+tentia '(per hypothesin) erit ut quadratum diametri et quadratum veloci-
+tatis conjunctim 3 et tempus (per hanc Propositionem) est in ratione
+priore directe et ratione posteriore inverse, id est, ut diameter directe et
+velocitas inverse3 ideoque spatium, tempori et velocitati proportionale, est
+ut diameter.
+
+(b) Corol. 2. Si·aequivelocibus'corporibus resistitur in ratione sesquipli-
+cata diametrorum: globi homogenei quibuscunque cum velocitatibus moti,
+describendo spatia in sesquiplicata ratione diametrorum, amittent partes
+
+motuum proportionales totis.
+
+(Υ) · Ide6que retinebunt velocitates in ratione — m v; et composite fiet m c, ut m c — m y,
+Ρήὶῗῗ’·οέῗ““ἵῗῖφοὶἳέἲεέι“ῗ“ <ii-mm ¹32) {233‘’m¹¹¹c⁰3⁰22²¹ss{?{”213¹⁰.1⁰223'mmn12”m‘ ”⁰⁰:33⁵ {2}-
+853. Tota tivn-olilosi'tyionis bugu'gnde'inonstratii) per etiam c, ui: c -- v, id est, velocitas amissa c’—- v,
+analysim hoc modo exponitur. Sit globi cujus- ut velocitas prima c ; inde etiam erit c, ad c— c
+vis massa m, velocitas data initio motus c, in fine -Ι- v, seu v, hoc est velocitas prima c, ad resi-
+temporis t sit v, sesistentia data initio motfis r, duam v, in ratione data. Jam si spatium tem-
+et quia ejusdem corporis resistentiae in diversis pore t descriptum dicatur s, erit (13) ds= v d t,
+locis sunt ut velocitatum quadrata (per Hyp.) et quia v est ut data c, erit d s ut c d t,
+erit c c, ad v v, ut r, ad resistentiam elapso tem- sumptisque fluentibus ob datam c, fiet s ut c t.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pore t, quae proinde erit r—v-v. Sed (2) resisten- ρ’ ⁸⁴ d'
+
+,ην cc 90. Quoniamspatiumsestutcgettutm—c,
+tiaffaetutmotfisdecremennm—mdvdi· mcc ’-
+recte. et temporis momentum d t, inverse, boc erit edam ⁵ ιη ¹. ἶ ἕιοῦἰ cujus massa m dia·
+& Υ v '⁷ - ¹¹¹ d V ethincdt=-m ⁰ ed V meter sit D, et data globi densitate erit masa m,
+
+' c c ’τ d t ⁹ r v v ' ut volumen (2. Lib. 1.) hoc est, ut diametri cu-
+sumptisque fluentibus t = Q -ξ- ’,ἶ-03. Ροηεμ bus D ³; quare erit s ut D *2⁶ ε. Si praeterea
+
+I'V
+
+mrt=o,etfietv=c,ade6queQ=—¹¹-¹r—⁰‚
+
+mcc—mcv
+ι
+
+r
+Capiatur tempus t, ut motus primusm οἵ directe
+
+et resistentia prima r, inverse, hoc est t ut Ψ,
+
+ 
+
+quo valore substituto fit t =
+
+eteritm'cutmcc—mcv ' '
+-r- ἲν -—‚1dcoquemcv,ut
+
+mcc—mcv, etdividendopere, mvutmc
+
+ 
+
+data velocitate c, resistentia r est ut diametri D,
+dignitas cujus index n, hoc est r ut D ¹¹, et
+proinde velocitate non data, resistentia r, ut
+ΒΞΣΣ, seuutD³—¹¹. Ex
+
+quibus patent Corollaria quae sequuntur.
+
+(²) ¹ Corol. 1. Nam in hypothesi Corollarii
+hujus est n = 2, adeoque s ut D.
+
+(ι’) * Corol- 2. In hypothesi Corollarii hujus
+estn={-,ide(›quesutD³—{, sennan}-
+
+ 
+
+D¹¹cc‚eritsut
+

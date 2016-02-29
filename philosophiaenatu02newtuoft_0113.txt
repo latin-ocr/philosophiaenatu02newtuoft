@@ -1,0 +1,52 @@
+Limen Sisenna] PRINCIPIAx MATH-EMATICA. 99
+
+D F ipsi D B perpendicularis et aequalis, et per verticem F. describatur
+hyperbola F T V E, cujus semi-diametri conjugatae sint D B et D F,
+qumque secet D A in E,- et D P, D Q in T et V ; et erit tempus ascensus
+totius ut hyperbofae sector T D E.
+
+Nm velocitatis decrementum P Q, in data temporis particula factum,
+est ut summa resistentiaeAPq÷ 2BAPetg1-avitatis A Β q —BDq‚
+(q) id est, ut B P q — Β D q. Est autem area D T V ad-aream D P Q
+ut D Τ q ad D P q; ideoque, si ad D F demittatur perpendiculum G T,
+utGqueuGDq—DandBDq‚utqueGandBPq‚etdi-
+visim ut D F q ad B P q — B D q. Quare clim area D PQsitutP Q,
+id est, ut Β P q — Β D q3 erit area D T V ut datum D F q. Decrescit
+igitur area E D T uniformiter singulis temporis particulis aequalibus, per
+subductionem particularum totidem datarum D T V, et propterea tempori
+proportionalis est. Q. e. d.
+
+Cas. 3. Sit A P velocitas in descensu corporiS‚ et A P q 4- 2 Β Α Ρ
+resistentia, et Β D q —- A Β q vis gravitatis, existente angulo D Β A
+recto. Et si centro D, vertice principali B, describatur hyperbola rec·
+tangula Β Ε Τ V secans productas D A, D P et D Q in E, T et V; erit
+hyperbolae hujus sector D E T ut tempus totum descensfis. ¹
+
+Nam velocitatis incrementum P Q, eique
+proportionalis area D P Q, est ut excessus =
+gravitatis supra resistentiam, id est, ut
+B Dq-÷A Bq-2B A P-APq
+seu Β D q- BP q. Et areaDTV est
+ad aream DPQut DTq ad D Pq,
+ideoque (r)ut G T q seu G D q—BDq
+adBPq‚ utqueGandBDq‚ etdi—
+visim ut B andBDq—13 Pq. Quare
+cum area DPQ sit ut BDq—13 Pq,
+erit area D T V ut datum B D q. Crescit
+igitur anea E D T uniformiter singulis temporis particulis aequalibuS,
+per additionem totidem datarum particularum D T V, et propterea tem-
+pori descensus proportionalis est. Q. e. d.
+
+ 
+
+ut area D P Q ad D P2. Cinn igitur (ex (Π) * Id est ut B Pq— B q. Est enim
+dem.)maD PQsitutD 1³²‚e1itetiamarea APq-f-QB A P÷A Bq=B Pq.
+
+D T V ut D T 2, seu ut datum quadratum (') Ut G T q. Nam ob similitudinem trian-
+DB²3 ergq, tempore dam, dataestarea gulorumDGT,PBDestDTqadDPq
+D T V, et ideo temporibus aequalibus aequaliter ut G T q = G D q — B D q (ex conic. vid.
+decrescit area E D Τ, ad modum tempor-issum- not. in Cas. 2. Prop. IX.) ad B D q, utque
+7⁵2,sz GDq ad BDq, etdivisim, &c
+
+Gt.)
+

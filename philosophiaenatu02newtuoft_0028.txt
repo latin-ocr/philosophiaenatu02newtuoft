@@ -1,0 +1,70 @@
+l
+
+14· PHILOSOPHIAE NATURALIS [Mo-ncom’0x¹
+
+tas: (ἅ) erit decrementum velocitatis singulis temporis particulis ut eadem
+velocitas. Sunt ergo velocitates differentiis suis proportionales, et prop-
+terea (per Lem. Ι. Lib. ΙΙ.) continue proportionales. (θ) Proinde si ex
+aequali particularum numero componantur tempora quaelibet aequalia,
+erunt velocitates ipsis temporum initiis, ut termini in progressione con-
+tinua, qui per saltum capiuntur omisso passim aequali terminorum inter-
+mediorum numero. Componuntur autem horum terminorum rationes ex
+rationibus* inter se iisdem terminorum intermediorum aequaliter repetitis,
+et propterea eae quoque rationes compositae inter se eaedem sunt. Igitur
+velocitates, his terminis proportionales, sunt in progressione geometrica.
+Minuantur jam aequales illae temporum particulae 3 et augeatur earum nu-
+merus in infinitum, eo ut resistentiae impulsus reddatur continuus ; et ve-
+locitates in principiis aequalium temporum, semper continue propor-
+tionales, erunt in hoc etiam casu continue proportionales. Q. e. d.
+
+Cas. 2. Et divisim velocitatum differentiae, hoc est, earum partes sin-
+gulis temporibus amissae, sunt ut totae: spatia autem singulis temporibus
+descripta sunt ut velocitatum partes amissae (per Prop. I. Lib. ΙΙ.) et
+
+propterea etiam ut totae. Q. e. d.
+
+Corol. Hinc si asymptotis rectangulis A C, C H describatur hyper.
+bola B G, sintque A B, D G ad asymptoton A C perpendiculareS, et
+exponatur tum corporis velocitas tum resistentia medii, ipso motus initio,
+
+(⁶) * Erit decrementum velocitatis. (15) ut si ex aequali particularum numero componantur
+resistentia ob datum temporis momentum, ide6- tempora quaelibet aequalia, ut A E, Ε Η,
+que (per hyp.) ut velocitas. H K, &c. erunt velocitates A L, Ε Ρ, H S,
+
+(θ) 50. Proinde si er aequali, &a Linea recta δια, ipsis temporum mitiis ut termini qui e
+A Z in particulas aequales A B, B C, C D, διο. progressione geometrici per saltum capiun-
+
+tur, omisso passim aequali ter.
+
+Ι· ’ἒίῗέἷω ἰῖῐεῗεέοἳωῃῗ ⁸³?
+, c. e , c.
+numero. Componuntur autem
+
+horum terminorum A L, Ε Ρ,
+
+Η S, διο. rationes ex aequalibus
+. rationibus terminorum interme-
+
+diorum aequaliter repetitis; ni-
+
+mirum *ratio A L ad E P, mm-
+
+B M ad C N‚&c. quaetum mag-
+nitudine, tum numero aqu-les
+sunt rationibus E P ad F Q,
+F Q ad G R, διο. ex quibus
+ABC DE F G Η K z componitur ratioEPadsH,
+
+et ita porro. Quare ratio A 1.
+divisa, exponat tempus et perpendicula A L, ad E P aequalis est rationi E P ad H S, et hnc
+Β M, C N, διο. exponant velocitates ipsis singu- aequalis rationi H S ad K T. Manifestum ω-
+
+    
+
+lorum temporum A B, B C, C D, διο. initiis; tem est (88) curvam L M N S Τ, ad quam ta*-v
+
+erunt (ex Dem.) velocitates illae in continua minantur perpendicula omni· A L, B M, C N,
+progressione geometrica decrescente. Proinde &c- esse logasinhmicam.
+
+paniturex rationibus AL ad B M. ’
+

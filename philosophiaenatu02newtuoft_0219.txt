@@ -1,0 +1,189 @@
+Lux-:R Summa] PRINCIPIA MATHEMATICA.
+
+quovis N ad axem A B demittatur per-
+pendiculum N M, et a puncto dato G
+ducatur recta G R quae parallela sit rec-
+
+tae figuram tangenti in N, et axem pro-
+ductum secetin R, fuerit M N ad G R
+ut G Rcub.ad4BR >< GBq; soli-
+
+205
+
+DF
+
+ 
+
+dum quod figurae hujus revolutione circa
+axem A B facta describitur, in medio raro praedicto ab A versus B mo-
+vendo, minus resistetur quam aliud quodvis eadem longitudine et latitu-
+
+dine descriptum solidum circulare.
+
+sumi variantibus N r, et n s, dicanturque con·
+stantesMN=b,mn=c, nr=f, Ως
+'-.-·g et variabiles N n=v‚ ιι Q=z‚ N r
+= m, n s = ιι, et resistentia superficiei quam
+arculus Q n N circa C B rotando describit, ex-
+p a b f³ p a c g ³ .
+
+vv 4 zz ,sncurannN
+
+sit ea quae minimam resistentiam patitur, hujus
+quantitatis fluxio (40 et per Hyp.) nihilo aequan-
+
+daest, etindehabetur-Q—
+
+v 4
+
+2pacg³zdz
+4
+usque ald novum punctum h, ad quod ducuntur
+lineae N h, Q h, in has cadant perpendicula n e,
+3 &.“53255?33‘2521¹:z;2;52¹¹„-h ἑῖῑὶξὲἓιῖ 3ἶῖ
+ιιι· N, et ath, an, similia sunt; erit Nn
+(v): Nr(m)=nh:eh(-d·v),etsn
+(n v): Ωιι (z) =th(d z) :nh, ideoque ex
+ιιι z d z
+
+ιι v
+
+Loco — d v, scribatur hic ipsius valor in
+aequatione modo inventa, et illa in hanc mi-
+
+81,8ὴῆἈΖραῑιῖ-ἵιιίκινιὶι =2P⁸r⁰g³²d²‚ et
+
+ponetur per
+
+ 
+
+ 
+
+= ο. Ριοᾶιιειᾶ ergo linea s n,
+
+aeunnvzmz=dz:—dv=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nv5 2⁴
+hinc fit 2p⁸b4f³ m = 2 p ⁸ ‘23³⁰ seu
+2pa><MN><nlr³><Nr—2paxmlnxofflxns
+Nn⁴ - Ωῐι4 '
+
+MN><nr³><Nr
+
+N ιι 4
+pro quolibet curvae puncto N, datam seu constan-
+tem esse.
+
+'¹ Quae quidem curva D N F G (vide figuram
+textus) talis esse debet, ut angulus quem facit in
+G cum linea B G sit semi-recti complementum
+per notam 200. illic ergo linea B G data, est
+ipsa ordinata M N et triangulum ιι r N ωε
+rectangulum aequicrurum, ideoque N ι· = ιι ι·
+et N ιι ² = 2 ιι ι· ² ergo quantitas constans
+
+Μ N Χὶῗζίχ Nr inhancabit Gfuxrllr⁴
+
+. Talis ergo est hujus curvae natura ut
+
+ 
+
+Unde manifestum est quantitatem
+
+ 
+
+ 
+
+ 
+
+²²21—
+
+quovis in puncto ducatur ordinabo M N sit sem·
+
+per Q = -ε-ὶῇἒ» Sive ponendo
+
+proMN,yh;1¹1¹)r:›nr‚ dy3 pro Nr, dx3 pro
+
+. ydy³d¹
+Nn2, dx²4dy², ent d—f2—-s-dy2{²=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+G Β 2 sive adhibendo cuasa-actionem Newtooi‚
+si ducatur G R. tangenti pai-allelu, ob triangula
+G B R. n r N ubiquesimilia, erit g 32.-
+d y B R - d x
+ideoque G G ἐξῇ = (Πῖζ-ῇξη ²
+M-—NXg—-ssjx BR=G¹³ sive MN><
+
+GB2><4BR=GR⁴undeestMN2GR
+=GR³zGB2><4BR. 3331}
+
+Dimu‘ G Β = ⁸² fiet ῑᾱγῖαᾷῖῇιῑε =
+{mewa 4yaxdy³=afflx²÷dy²>3
+
+ex qua curvae L N D per logarithmicam con-
+
+structio eruitur. Ponatur d x = ss et hoc
+
+valore loco d x in aequatione ad curvam substituto,
+
+⁴ zz aa²d. ⁴
+habeturss=²ss4¹234ss
+
+unde invenitur y = QX———ff = ff} -Ι-
+
+ᾖ z ÷ ἰ-ἒ, et (sumptis fluxionibus) d y =
+
+³²²d²÷ffdz—
+
+luiz ²ipllius valor in aeqilaztizone assumpta d x =
+zdy . 52³dz zdz ada
+a’etmdx: 4a3'4—2-3-42'
+
+{36221434’243- {a ι’,
+
+aadz
+
+ 
+
+31000 dy scribatur
+
+ 
+
+ 
+
+ 
+
+ 
+
+sumptisque fluentibus 1.-
+
+ 
+
+-ff- Ω const. Porro si assumatur abscissae ini-
+tium in loco B, ubi ordinata B L est omnium
+minima, id est (⁴10) ubi d y = ο nun supposito,
+

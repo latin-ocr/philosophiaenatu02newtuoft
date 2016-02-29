@@ -1,0 +1,42 @@
+Lmu'n Saum] PRINCIPIA MATHEMATICA. 157
+
+constructa et demonstrata sunt, erit vis, qufi corpus oscillans urgetur in
+loco quovis D, ad vim resistentiae ut arcus C D ad arcum C O, (g) qui
+
+semissis est differentiae illius A a. Ideoque vis, qua corpus oscillans
+
+ 
+
+urgetur in cycloidis principio seu puncto altissimo, (¹¹) id est, vis gravita-
+tis, erit ad resistentiam ut arcus cycloidis inter punctum illud supremum
+et punctum infimum C ad arcum C 03 id est (si arcus duplicentur) ut
+cycloidis totius arcus, (¹) seu dupla penduli longitudo, ad arcum A a.
+
+Q. e. d.
+
+PROPOSITIO XXIX. PROBLEMA VI.
+
+Posito quod corpori in qycloz'de oscillantz· resistitur in duplic-atti ratione
+velocitatis : invenire resistentiam in locis singulis.
+
+Sit B a arcus oscillatione integr& descriptus, sitque C infimum cycloi-
+dis punctum, et C Z semissis arcus cycloidis totius, longitudini penduli
+aequalis3 et quaeratur resistentia corporis in loco quovis D. secetur
+
+resistit medium, in ascensu minus quem pro A a —- C Ο = C B —- Ο Β = C O, et hinc
+
+ratione velocitatis, et ex utreque causa tempus A a = 2 C O, ac C 0 = ἦ A a.
+
+producitur. Nam quo major est resistentia in (²¹) ὓ Id est, vis gravitatis. In cycloidis prin-
+
+descensu, et minor in ascensu, eo magis produ· cipio sive puncto altissimo tangens cycloidis est
+
+citur tempus, ut supra dictum ost. in directione gravitatis, et idcireo vis iu cycloide
+(⁸) ⁴ Qui semissis est defferemiae illius A α. aequalis est vi gravitatis in illo puncto, ut patet
+
+Nam (per Hyp.) arcus C A aequalis est arcui ex Cor. Prop. LI. Lib. Ι.
+
+C B· et (per Cor· Prop. xxv.) arcus o a , (1) ο seu dupla penduli longitudo (462. Lib.
+
+aequalis est arcui Ο B; quare C A — Ο a, seu' 1.)-
+

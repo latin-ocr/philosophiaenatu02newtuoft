@@ -1,0 +1,107 @@
+met Saevum] PRINCIPIA MATHEMATICA..
+
+sistentiae. Deci-emeritum resistentia data tem·
+poris partIculfi factum per lineolam K L et con-
+temporaneum velocitatis decrementum per li-
+neolam P Q. Quoniam a K est ut a P 2, erit hu-
+jus momentum K L, ut illius momentum 2 a P Q,
+id est, ut a P in K C. Nam velocitatis decre-
+mentum P Q, (per Mot- Leg. 11.) proportio-
+nale est vi generanti K C, quae est excessus resis-
+tentiae a K, supra- vim gravitatis a C. Compo-
+
+ 
+
+ὃ C &P
+
+natur ratio ipsius K L cum ratione ipsius K N,
+et fiet rectangulum K L><K N ut aP><
+K C Χ K N, hoc est, ob datum rectangulum
+K C >< Κ N, ut a P, ergo rectangulum evanes-
+cens K N >< Κ L, boc est, area hyperbolica
+K N Ο L, est ut a P. Componitur igitur area
+totahyperbolica A Β Ο L, ex particulis K N 0 L,
+velocitati a P semper proportionalibus, et prop-
+terea spatio velocitate ista descripto proportiona-
+lis est. Dividetur jam area illa in partes
+aequalesABMI, IMNK, KNOL,
+διο. et vires absolutae A C, 1 C, K C, L C,
+ἃς. erunt in progressione geometrici. si
+spatium descriptum exponatur per aream hy-
+perbolicam A B NK, exponi possunt vis gra-
+vitatis, velocitas corporis et resistentia medii
+perlineasaC,aP,aK.
+
+Propositionis 9¹²- constructio in hanc abit.
+Caeteris ut in figura et constructione supe-
+riori manentibus, capiatur a F media pro-
+portionalis inter a C et a A, et ideo veloci-
+tatem projectionis initialem exponens, com-
+pleto quadrato a C Ε Ι), centro D descri-
+batur hyperbola rectangula E G T V, se-
+miaxem transversum habens D E, verticem
+principalem E, et asymptotum D C. Jun-
+· gantur D F, D P hyperbolae occurrentes
+in G et T, et erit sector hyperbolicus G D T
+ut tempus descensus per spatium A B N K.
+Agatur enim D V Q abscindens turn secto-
+ris G D V tum trianguli F D Q particulas
+quam minimas T D V, P D Q, et erunt 11ae
+particulae ad invicem ut D T ² ad D P2, id est,
+si TXeta Pparallelae sint, ut DX² adDa2,
+vel ΤΧ2 ad aP2, et divisim ut T X² —
+D x2adaP2 —aD²;sed(ex natura Hyperb.)
+T X2-D X2 esta D²‚ et (perHyp.) a P²
+est aD Χ a K;erg6particu1ae T D V, P D Q,
+
+59
+
+sunt adinvicem utaD²‚ adaD >< ΒΚ.-
+aD²,idest‚utaDadaK—aD,seuutaC
+ach; ideoquesectorisparticulaTDV, est
+
+PD31>«LC,atqueide60bdatasacetao‚
+
+ut (ΡΞ-ἓ, id est ut decrementum velocitatis di-
+recte utque vis generans decrementum inverse,
+atque ideo ut particula temporis
+decremento =velocitatis respon-
+dens, et componendo, fit summa
+particularum temporis quibus
+omnes velocitatis F P particulae
+P Q extinguuntur, ut summa
+particularum sectoris G D T,
+id est, tempus totum ut sector
+totus. Q. e. d.
+
+loo. Corae. ¹1. Quo'riiam coin.
+cidente puncto P cum C, coin-
+cidit-etiam K cum‘C, et D T
+cum asymptoto D C, liquet cor-
+poris projecti velocitatem a P
+nonnisi descripto spatio infinito,
+elapsoque infinito tempore, fier:
+posse velocitati terminali a C
+aequalem.
+101. Ουτοι. 2. Si dignitas hyperbolae B N 0
+seu rectangulum C A χ A B, sit {a C ², spa-
+tium quod corpus tempore quovis describit, erit
+ad spatium quod corpus velocitate terminali a C
+eodem tempore uniformiter progrediendo deseri.
+bere potest, ut area A B N K quai spatium de-
+scriptum exponitur ad aream G D T qua tempus
+exponitur. Nam cum sit a C ad a P, ut a P ud
+a K, erit (per Cor. 1. Lem. II. Lib. 11.) L K
+
+LKIA
+
+ 
+
+ad PQuteaKadaP, hocest, nteaPad
+aC, etindeLKad{PQ‚ utaPadffiaC.
+(Ex natura Hyperb. et per Hyp.) K N Χ C K
+estcA>< A B,seu{ac2‚ ide6queKNad
+ac seu aD, utffaC ad CK. Itaque (ex
+31⁰⁰) Lss‘ss‘ff {31¹3 &6¹23 griffi?
+ergdffius (ex ω’(Ῑιῗο), L K N, estad D ⁷1· v:
+

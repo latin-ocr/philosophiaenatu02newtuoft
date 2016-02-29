@@ -1,0 +1,49 @@
+-ann stonum] PRINCIPIA MATHEMATICA. 267
+
+canalis, hic non considero. Designent igitur A B, C D mediocrem altitudi-
+nem aquae in crure utroque3 et ubi aqua in crure K L ascendit ad altitudi-
+nem E F, descenderit aqua in crure M N ad altitudinem G H. Sit autem P
+corpus pendulum, V P filum, V punctum suspensionis, R P Q S cyclois
+quam pendulum describat, P ejus punctum infimum, P Q arcus altitudini
+A E-aequalis. Vis, quii motus aquae alternis vicibus acceleratur et retar-
+
+datur, est excessus ponderis aquae in alterutro crure supra pondus in al·
+tero, ide6que‚ ubi aqua in crure K L ascendit ad E F, et in crure altero
+
+v K M
+
+ 
+
+ΖΒΕ)
+
+descendit ad G H, (¹) vis illa est pondus duplicatum aquae E A B F, et
+propterea est ad pondus aquae totius ut A E seu P Q (¹¹) ad V P seu P R.
+Vis etiam, qua pondus P in loco quovis Q acceleratur et retardatur in
+cycloide (per Corol. Prop. LI.) est ad ejus pondus totum, ut ejus distan-
+tia P Q a loco infimo P, ad cycloidis longitudinem P R. Quare aquae et
+penduli, aequalia spatia A E, P Q describentium, vires motrices sunt ut
+pondera movenda3 (¹) ideoque, si aqua et pendulum in principio quiescunt,
+” vires iflae movebunt eadem aequaliter temporibus aequalibus, efficientque
+
+ut motu reciproco'simul eant et redeant. Q. e. d.
+Corol. 1. Igitur aquae ascendentis et descendentis, sive motus intensior
+
+sit sive remissior, vices omnes sunt isochronae.
+Coroz. 2. Si longitudo aquae totius in canali sit pedum Parisiensum 61}- ·
+
+(ἰ) ⁸ Vn illa est pondus duplicatum, διε. Est et in cycloide aequantur respective. Sed obser-
+enim vis illa pondus tam aquae E A B F, quam vandum est superficiem A B, esse locum-aequili-
+nquae aequalis C G H D. brii, ad quem cum aqua pervenit, nulla amplius
+
+(ἱ) ⁴* Aa V 1² seu P R. Semi-cyclois P R, vi accelerati-ice urgetur, sed velocitate tantum
+aequalis est longitudini penduli, (per Cor. Prop. acquisiti}³ ulterius descendit vel ascendit; sicuti
+L. Lib. L). corpus pendulum P dum pervenit in locum cy-
+
+(¹) 318· ⁷* Ide6q2oe, si aqua et pendulum, ἃς. cloidis infimum P soli velocitate acquisita mo.
+Id evidentissimum fit si pondus P quod, ma- vetur. Unde quo tempore aqua descensum
+nente oscillationis unius tempore potest ad arbi- unum absolvit in crure alterutro oenalis, eodem
+trium assumi, capiatur aequale ponderi aquae tempore‘ pendulum oscillationem unam ex dee-
+totius in canali ; tum enim vires metrica, massae censu et ascensu compositam perficit, duas vero
+movendae, et spatia describenda, ideoque et tem- oscillationes absolvit inter-eadum aqua e loco Ε
+pora quibus spatia illa deseribuntur, in canali descendit et ad eundem redit.
+

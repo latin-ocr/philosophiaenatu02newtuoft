@@ -1,0 +1,114 @@
+  
+
+Lmen Βέᾶ’ ¹ Ὦ·
+
+19
+
+Corol. 1. Igitur velocitas maxima, quam corpus cadendo potest acqui-
+rere, est ad velocitatem dato quovis tempore acquisitam, ut vis data gra-
+vitatis, qufi corpus illud perpetuo urgetur, ad vim resistentiae, quii (q) in fine
+
+temporis illius impeditur.
+
+Corol. 2. Tempore autem aucto in progressione arithmetica, summa
+velocitatis illius maximae ac velocitatis in ascensu, atque etiam earundem
+differentia in descensu (Γ) decrescit in progressione geometrice.
+
+Corol. 3. (³) Sed et differentiae spatiorum, quae in aequalibus temporum
+differentiis describuntur, decrescunt in efidem progressione geometricfi.
+
+&sumpta sit A L subtangenti aequalis, est area
+ALSH, aequalisoectanguio A L Χ Ρ S;
+Quare in hac hypothesi, erit spatium prius ad
+posterius ut L P, ad P S.
+
+(¹¹) * Inflne temporis illius impeditur. Est
+enim velocitas dato tempore, A B r L acquisita,
+ad velocitatem alio quovis tempore A B t N ac
+quisitam, ut rectangulum Al ad rectangulum
+An, sive ut linendataAL,ndlineam AN, (ex
+
+  
+
+,Αἐι ΚΣ ΧΜΝ
+
+dem.), et ideo velocitas corporis cadentis cum
+arefi A Β t N, seu cum tempore continuo crescit.
+Sed coincidentibus puncto N cum puncto C et
+ordinata N t cum asymptoto C H, area A B t N
+infinita evadit, hoc est, tempus fit infinitum et
+velocitas maxima3 Quare velocitas maxima quae
+etiam terminalis dicitur, est ad velocitatem dato
+quovis tenipore AB r L, acquisitam ut A C ad
+A L, seu ut rectangulum A H, ad rectangulum
+Al, hoc est, (ex dom.) ut vis gravitatis ad vim
+resistentie in fine temporis A B r L.
+
+(¹) * Deo-escit in progressione geometricd. In
+ascensu corporis temporibus D G q K,D G rL,
+D G s M, διο. in arithmetice progressione cres-
+centibus, aiscissae C D. C K, C L, &c in pro-
+gressione geometricae‘i decrescunt (580. Lib. 1.)
+sed singulae abscissae inae sunt (ex dem.) ut
+summa velocitatis maximae quam exponit linea
+C A, et velocitatis residuae quam exponit linea
+A K vel A L, vel A M, δια, in fine temporis
+D GqK,vel DGrL, vel DGsM, διε.
+
+    
+
+Quare tempore aucto in progressione arithmetica,
+summa velocitatis maximae ac velocitatis in ascen-
+su residuae decrescit in progressione geometrice.
+Simili modo in descensu corporis patet quod
+crescentibus temporibus (vid. fig. notae super.)
+A BqK‚A BrL, A B sM, εἶα, in progres-
+sione arithmetica, abscissae C A, C K, C L.
+C Μ, &c.‚ decrescunt in progressione geometri-
+εἰ (380. Lib. 1.), sed abscissas illae sunt ut dif-
+ferentiae velocitatis maximae quam exhibet
+lium A C et velocitatis acquisitae quam
+exponit linea A K, vel A L, vel A M,
+, δια, crescente igitur tempore in progres-
+sione arithmetice, differentia *velocitatis
+maximae, et velocitatis dato quovis tem-
+pore in descensu acquisitae, decrescit in
+progressione geometrica. Hinc si summa
+ina in ascensu et differentia in descensu
+numeris exprimantur, erunt tempora ut
+eorum numerorum logarithmi.
+
+(⁸) ⁶ Sed et differentia muliorum.
+Nam si in ascensu corporis capiantur
+tempora D GqK, quL, LrsM,
+M s t-N, ἃς. (vid. fig. prim. pag. prae-
+
+C ced.) aequalia, erit spatium primo tem-
+
+pore descriptum ut G Ε k q = D K Χ
+
+D E—DGq K; spatium tempore secun-
+do descriptum ut qklr=KL >< D Ε -
+quL (sive quia quL=DGqK)=
+KL>< DE—DGqK, et itu de caeoeris.
+Quare differentia spatiorum primo et secundo
+tempore descriptorum est ut D K χ D Ε -
+KL>< DE, idest, ob datam DE,utDK
+— K L; et simili argumento differentia spatio-
+rum secundi et tertii temporis ost ut K L.—
+L M ; differentia spatiorum tertii et quarti tem-
+poris ut L M —· M N. Erunt igitur differen-
+tiae spatiorum quae in aequmlibus temporum dif-
+ferentiis describuntur ut differentiae D K -—
+KL, KL— LM, LM—MN‚ δια, sed
+(ex dem.) termini D K, K L, L M, M N,
+&c.‚ decrescunt ut termini progressionis geome-
+tricae D C, K C, L C, M C, &c- Ergo differ-
+entiae DK—KL, KL—LM‚ L M —
+Μ N, δια, decrescunt ut D K, K L, L M,
+M N, &c., seu ut termini progressionis geome-
+tricae D C, K C, L C, M C. διο. Eadem est
+demonstratio pro descensu.
+
+'32
+

@@ -1,0 +1,211 @@
+280
+
+velocitas puncti C expritnitur per T X =
+
+area denique F T X = Β ² Χ ⁵
+
+Punctum-um sequentium nmotus determinari
+possent simili ratione; etenim vires motrices
+punctorum B, C, D, Ε, &c- sunt ut A a—
+213 b, B b— 2Cc‚ Cc—2Dd‚ Dd—
+2 E e, δρα. vis enim cujusvis puncti* ut C est
+ad vim puncti E utdeadcdsiveutA B÷
+
+Αὲ 1'31'2 όὲ ι’)«ἰ 1⁵:e
+
+Ee— DdadA B4Dd—Ccetdividen-
+do vis motrix puncti D ad vim puncti E ut C c
+-2Dd-}- Eeadcd; vis puncti E estad
+vim elasticam naturalem ut A Β ad ed, ergo vis
+motrix puncti D ad vim clasticam naturalem ut
+
+Cc—2Dd÷Ee} d{cd
+a
+
+A'B e dsiveuth—-‘..>Dd
+
+-1- Ε e ad c dAde--e, ergo alternando est vis
+
+motrprunctiDadCc—2 Dd÷Eeutvis
+
+c d >< d e . , . s
+
+A Β , 1deoque m paulo
+majori ratione quam vis elastica ad A Β quia
+tam c d quam d e paulo minores sunt quzim A Β,
+sed vis motrix puncti D est ad C c -— 2 D d in
+majori ratione quam eadem vis motrix ad C c—
+2 D d -1- E e, ergo vis motrix puncti D est
+semper ad C c — 2=D d in majori ratione quam
+vis elastica ad A Β, cumque id verum sit in om-
+nibus punctis et haec ultima ratio sit constans,
+ratio vis metricis puncti cujusvis ad spatium a
+praecedenti puncto descriptum dempto duplo
+spatii abipso hoc puncto descripti, erit semper
+major ratione constante, non tamen multo, ideo
+physice pro constante assumi potest, hinc alter-
+nando vires illae monices, punctorum successi-
+vorum, sunt in ratione indicaui.
+
+Sed calculum pro illis punctis instituere ne-
+cesse non est, per analogiam euim ex motu duo-
+rum priorum punctorum B et C reliquorum
+motum statuere, sufficiens videtur.
+
+ 
+
+ 
+
+elastica naturalis¹⁴ ad
+
+10. Si, missis caeteris casibus, quaeratur inter-
+vallum temporis quo velocitas data 'm‚ in punctis
+successivis B, C, generetur, ut et ratio spatiorum
+A a, B b, C c eo tempore descriptorum ς Ίξὶαι
+
+a ² a ² V
+
+T V == m, et utroque ducto in ἶ, erit s
+
+. a2Tv
+3 ,dicatur s Β
+
+S
+
+ponatur ubique z—n: loco 87,
+
+ 
+
+a²m
+
+2
+Β m · =z²etinserie
+
+ 
+
+ 
+
+ 
+
+³²¹4
+
+2><3><4 m a 4 4 3><4><5 m ις’
+
+ 
+
+Wstmfimxsxm
+
+hoec series in hanc ( --
+
+PHILOSOPHIAE NATURALIS' [Mor. Conpon.
+
+s²x5 s²x⁶
+
+s x
+
+ 
+
+⁵2¹⁶ -3x42x5x6m2a0 ,
+s 1⁷
+,δια
+
+- 2s³x⁷ '⁴
+
+¹4
+4a2
+
+x 3
+ἴα
+
+fonnem migrabit z ² = ἕ -1-
+
+ 
+
+————.—
+
+Juxta analyseos Newtonianae methodum su-
+mantur omnes termini in quibus differentiae ex-
+
+ponentium x et z minimum efficiunt valorem,
+
+fiantque aequalae z ² reliqui termini seriei μ Τ v
+
+ 
+
+xixegligi possunt, quia per dignitates quantitatis
+
+a
+plicantun (in hypothesi quae velocitatem m aii·
+cujus momenti assumeret hi termini negligendi
+non-forent. sed in casu praesenti velocitatem m
+minimam supponere nobis licet οὔτί de tali
+tantum in futurum simus acturi) erit ergo >
+x ² 2 x ⁴ 5 x ⁶
+
+- ’ἶ “ 2.3.4z²÷2.5.4.5.oz4
+14 x ⁸ 41 x ¹⁹
+
+“ 2.5.4.5.6.7.8 2 ⁶ 4 2.5.4.5.6.7.8.9. 10 z ⁸
+
+122 x ¹²
+
+- 2. 5. 4. 5. 6. 7. 8. 9. 10. ιι. 12 z 10’ ἃς·
+(qui termini continuata serie-T V inveniuntur)
+et aequatlone per approximationem soluta inve-
+3. 57 a ² m
+
+Jam vero in area F T V quiz spatium B b
+
+nieturx²=5.57z²=
+
+ 
+
+exprimit, loco ἐξ ponatur ut prius ἒ et assu-
+
+mantur termini in quibus differentia exponentium
+m x 3
+
+quantitatum x et z minima evadit, ii sunt 2><3 z 2
+
+ 
+
+— 2mx5 ÷ 5mx⁷
+Ξῖῖἷῖῖ m-
+
+14 x ⁸
+2. 5. 4.5.6.7. 8. 92⁷
+&57 z ² substituatur, fiet haec series m x?
+Q—exzfflxaffl 4 5><3.57><3.57><5.5
+2><5 2. 3. 4.5 ''-
+
+igi-3< 3.57 >< s.57 χ 32⁵⁷ {852215‘327473
+‘zafflsszae ⁹
+
+B b = m x χ .428.
+Eodem modo valor C c invenietur ex
+
+. ’ *¹²¹5 2mx⁷
+¹¹³⁰ ξἊῃθκχε.«ι.5ι4“ἶῑΐ<“4ἮἯῖῖ
+
+in qunms si'valorx 2 ις.
+
+ 
+
+ 
+
+' sive substituto valore x 2, erit C c = m x χ
+
+ΕΞ.57 >< 3.57 - 2 Χ 5.57 Χ 3.57
+
+'‘3. 4. 5. εἷ”ΓἻ ⁸⁶²)
+
+ 
+
+ 
+
+2275. 4. 5
+
+— respectu eorum qui assumpti fuerunt multi· =
+
+ 
+

@@ -1,0 +1,127 @@
+met Saeuum] PRINCIPIA MATHEMATICA, 33
+
+utDNseuDRathseuET,ide6que ET
+—DRx DZ
+““ DP
+
+ter transvena, E M abscissa, et M H ordinata
+
+‚ et propterea E T semidiame-
+
+ 
+
+ 
+
+byperbolae T H 0, cujus semidiameter conjugata
+aequatur D R. Haec itaque hyperbola occursu
+suo cum logarithmica D H ο determinabit punc-
+tum Η, ex quo si demittatur ad D P perpendi-
+culum H V secans D Z in L, dabuntur D V et
+Η L aequaliS V r, ideoque dabitur etiam V R =
+V r 4 R. r. His autem datis, datur an-
+gulus elevationis P D C, cujus sinus est
+vmpositosinutownv.
+
+73. Si* vero quaeratur angulus projec-
+tionis P D C, ut corpus per punctum R
+in horizontali D C datum transeat, fiet
+R r= e = ο, et aequatio ad hyperbolum
+
+b b x x
+
+4 e =z. In constructione vero coinci- X
+det punctum E cum puncto D, et T cum
+t, caeteris manentibus ut supra. Et quia
+ε’ per hyperbolae et logarithmicae intersec-
+tionem H ducatur recta D H secans ΡΟ
+ἰιιὨ, at Q Z = P C (71.); liquet in eo
+casu esse Ω Ζ sinum anguli elevationis
+P D C, existente radio seu sinu toto D P.
+Observandum porro est, quod siin his con-
+structionibus hyperbola logarithmieam nus-
+quam attingat, problema est impossibile,
+quod si eam bis secet, anguli duo satisfa,
+ciunt· Patet quoque datam semper esse
+rationem ‹ti-mmmm hyperbolae, ubicumque
+situm sit punctum r, vel R3 est enim D R ad
+
+¹³¹¹* Dzinratione‘dataDPadDz.
+
+evadet =cc-}-zz,oby=z
+
+ 
+
+ 
+
+D P
+Vox.. 11. s C
+
+74. Angulus elevationis P D C maximae om-
+nium amplitudini horizontali conveniens ita de-
+terminatur. Per punctum D dueatur D X ipsi
+D P perpendicularis quae sit ad D P ut est D P
+ad P Z; jungatur Z X logarithmicam secans in
+H, etex D peerucamrrecta DH secans
+P Ο in Ω; 'erit Q Z ainus anguli quaesiti, exis-
+tente sinu toto D P. sit enim D R. amplitudo
+
+’ hon'zontnlis maxima = c, D V = v, V R =
+
+Vr=z, et eritob angulum Derectum
+vv—zz=cc‚etsumptisfluxionihusevdv
+—azdz=2cdc=o(48)‚ide6quevdv=
+
+και. Sed(69.r)z=aL ¹³ -ἒειιιι-
+
+b—v b
+
+ 
+
+ 
+
+a 12. b — v — δ-ἔ, et sumptis fluxionibus d z =
+
+adv adv avdv
+
+b-v b =bb-bx{’
+
+baszdva=vdw etide6 az=bb—-
+
+v‚acproinde DPtb):PZ(a)=I-1L(z):
+
+Quareerit zdz
+
+ 
+
+ 
+
+ 
+
+ 
+
+P V (11- v); verum ob triangulum D V L,
+DPZsimilitudinemestDP: DZ=PV=
+Z L; unde per compositionem rationum et ex
+aequoDP²zPZ><DZ= H L:ZL, et
+quia D P² = D X Χ Ρ Ζ (per consum), erit
+D xa D Z= HL : L Z. Quapropterpuno-
+tum H per aequationem a z = b b— b v deter-
+minatum perpetuo tangit lineam rectam X Z;
+cumque idem punctum in logarithmica esse
+oporteat ut determinetur maxima amplitudo
+D R, si per intersectionem H rectae X Z et lo-
+garithmicae D H o ducatur recta D Q secana
+P oin Q, habebitur Q Z sinus anguli P D C
+
+εὖ) ιᾶἶαιίαιω amplitudini D R convenientis.
+e.
+
+     
+
+R, c
+
+75. Jam si oporteat curvam regularem deseri.
+bere per data quotlibet puncta transeuntem, uti
+possumus generali methodo, quam Newtonus in
+arithmetica universali tradidit, quamque deinde
+

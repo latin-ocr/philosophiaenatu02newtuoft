@@ -1,0 +1,119 @@
+6 PHILOSOPHIAE NATURALIS [Mo'r. Commu.
+
+Si quaedam ex ordinatis logaritbmicae, ut A B!
+sit equalis unitati, punctum axeos A cui insistit
+censetur abscissurum origo, et abscissae a parte
+A M sumpno, sunt positivae, a parte A O ne-
+gotivae et abscissa pertinens ad ordinatam A B
+sive nd unitatem est ipsum ο.
+
+  
+
+0 F E Dc t Μ m
+
+eos-01. 1. Differ-entier, quamminimae ordinatarum
+Iogart'tlzmicae aqualibus tempusculis genitae, sunt
+ut illae ordinaeae.
+
+In quovis enim puncto logan-ithmicae velocitas
+axi perpendicularis qua ordinatae crescunt vel
+decrescunt, est ordinatae proportionalis (ex def. )‚
+sed durante tempusculo infinite parvo illa velo-
+citas uniformis est censenda. et aequalibus tem-
+pusculis incrementa vel decrementa linearum
+sunt ut velocitates uniformes quibus generantur,
+ergo incrementa vel decrementa ordinatarum
+h. e. earum differentiae aequalibus tempusculis
+genita-,sunt ut illae ordinatae.
+
+συνοί- 2. Sint ordinatae quaem‘k
+PM, Q N, ducantur duae alioe or-
+dinatae p m, q n ipsis quamproxi-
+mae et ab iis aequolitcr distantes,
+p m et q nerunt prioribus ordinatis
+proportionales : Velocitas enim
+qud ordinata motu sibi parallelo
+fertur est uniformis, ideoque eo-
+dem tempore ordinata P M ad
+p m perveniet ac Q N ad q n ob
+aequales distantias, ergo, per Cor.
+Ι. differentiae ordinatarum P M
+et Q N dum perveniunt ad p m
+et q n erunt iis ipsis ordinatis
+proportionales, sed adjectis vel
+detractis iis differentiis a lineis
+P M et Q N fiunt ordinatae p m, q n, et adjec-
+tis vel detractis ex terminis rationis cujusvis,
+correspondentibus terminis rationis ipsi aequalis
+non mutatur prior ratio, ergo ordinatae p m et
+q n erunt inter se ut P M nd Q N, et etiam
+alternando PM :pm= QN: qn.
+
+Cor-ol. 3. Si sumantur in aoeeptmcto C, D, E, F
+ad distantias (equales et quamminimas, in iisque
+punctis erigamur ordinatoe, {11ae ordine comti-
+ruent progressionem geometricam. Nam, quin ex
+Hyp. ordinotae G C et H D, H D et K E sunt
+
+    
+
+ABCDENFG H
+
+quamproxime et aequalioer distantes, est per
+octonarium praecedens G C ι Η D = H D t
+ΚΕ, εαάεωζηῑίουεεςῐΗΒι KE= KE:
+L F, 'sieque deinceps, unde liquet ordinatu
+Gc=HD=KE=LF‚ &menseinprogres-
+sione geometrice.
+
+33. Theor. 1. Sumuntur t‘n
+axe logarithmicae quatuor-puncta,
+ita ut duo priora aeque a se mu-
+tuo distent ac duo posteriora, or·
+dinatoe in iis punctis erecta erum
+in proportione geometrica. ‘
+
+Et εἰ sumantur in ace quotli-
+bet puncta oeque distantia ordine
+continuo, ordinata iis insistentes
+erunt in progressione geometrica.
+
+Sumuntur in axe duo puncta
+(ΙῙὲιωνίῙε. A ξι 132, {aga (1υὲΗέ
+
+ta la u sit =
+erigantur-que in illa punct·v or-
+, dinataeAL, EP,HS,KT;
+ε dico illas ordinatas sore et pro-
+÷ N n portione geometrica. ’
+Dividetur tam A E qum
+vH K, in partes infinite parvas aequales inter se,
+totidem erunt divisiones in utroque intervallo3
+erigantur in illa puncta ordinatae. fient duae pro-
+gressiones geometricae, in quibus totidem erunt
+termini, et rationes terminorum successivos-um
+aequales erunt, quia ordinatae in utrique pro-
+gressione oequaliter distant; ergo ex aequo. pri·
+inus terminus A L prioris progressionis erit od
+E Pultimum terminum ejus progressionis, ut
+H S primus terminus alterius progressionis nd
+
+ejus ultimum terminum K T. Q. e. d.
+Et si sumantur in axe plum‚puncta mque diu-
+
+tantia ordine continuo sibi succedentia, ordinm·
+
+   
+
+iniis punctis erectae erum in progressione geo·-
+met-rica: probatur utin Cor. 3. defin* ’
+Corol. Ε converso, si in linea qudm's mmmm
+plura maneta, oeque distantia ordine continuo„ et
+in iis erigantur Jaerpendiculores qm rint ἰπ pro-
+gressione geometrica, legavitkmica aliqflta por
+earum pmaendicularium ean-eremitam transibit.
+Sint enim A, D, G, διο. ea puncta aqu& dis-
+tantia dividanturque eorum intervalla in pones
+oequales quamminimas, totidem erunt in quovis
+intervallo, assumantur mcdioe proportionale· in-
+

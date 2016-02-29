@@ -1,0 +1,106 @@
+Lmen Saeuum] PRINCIPIA MATHEMATICA. 31
+
+quam invenire oportuit. (b) Ex hac ratione colligenda est longitudo D F
+per calculum3 et longitudo quae sit ad assumptam longitudinem D Ρ, ut
+longitudo D F per experimentum cognita ad longitudinem D F modo
+inventam, erit vera longitudo D P. Qua inventa, habetur tum curva li-
+nea D r a F quam corpus describit, tum corporis velocitas et resistentia
+in locis singulis.
+
+Scholium.
+
+Caeterum, resistentiam corporum esse in ratione velocitatis, (†) hypo-
+thesis est magis mathematica quam naturalis.
+omni vacant, resistentia} corporum sunt in duplicata ratione velocitatum.
+
+In mediis, quae rigore
+
+(⁶) Etenim actione corporis velocioris communicatur eidem medii quanti-
+tati, tempore minore, motus major in ratione majoris velocitatis3 ideoque
+tempore aequali, ob majorem medii quantitatem perturbatam, communi-
+catur motus in duplicata ratione major3 estque resistentia (per Motfis
+
+sistentiae ad gravitatem recte assumpta fuit (65).
+
+(†) 67. Ex supra demonstratis determinari
+Quare cum S M assumptam illam rationem ex· ”
+
+possent motus corporis in medio quod resistit par-
+
+ponat‚ et evanescatM N ubi S M fit S Χ, patet
+in hoc casu rationem resistentia: ad gravitatem
+recte exponi per lineam S X. Itaque si innu-
+merae abscissae S M assumptae fuissent, et innu-
+merae ordinatae N M per experimenta determi-
+natae, curva quam punctum N perpetuo tangit,
+rationem accuratam resistentiae ad gravitatem
+determinaret per ejus intersectionem X cum li-
+nea S M; ideoque si multa fiunt tentamina,
+sicque plura obtineantur puncta N, et per ea du-
+catur curva regularis N N X N. illa quam
+proxime punctum X quaesitum determinabit3
+methodum autem ducendi curvam regularem per
+plura nuncta data mox in Scholio sumus tradituri·
+
+(ὓ) *Ex Ιιαο ratione colligenda est, 8ιο- Sit,
+exempli eausa, ratio assumpta resistentiae ad
+
+gravitatem 1 ad 10, seu S M = 1¹53 inventa
+
+autemsitSX=2SM=17⁹5={;Aeritre-
+x
+
+sistentia ad gravitatem ut l ad 5. hac ra-
+tione et assumpti longitudine D P colligenda
+est longitudo D F seu amplituda jactas (64);
+et quoniam inventii vera ratione resistentiae ad
+gravitatem, trajector-ia per calculum vel per cou-
+structionem inventa similis est trajectoriae quam
+corpus inmedio resistente, reversi describit (65),
+erit amplitudo D F per calculum inventa ad
+amplitudinem D F per experimentum cognitam,
+ut assumpta longitudo D P ad veram longitudi-
+nem D P pro n-ajectoria in medio resistente de-
+scripta. Hac autem longitudine inventii, habe-
+tur (per Cor. 4.) tum curva linea D r a F quam
+corpus reipsfi describit, tum corporis velocitas et
+resistentia in locis singulis (per Cor. 5.)
+
+tim uniformiter, partim in ratione velocitatis, Et
+quidem si corpus sola vi insita in hoc medio fe-
+ratur, pars illa resistentiae quae est uniformis,
+tanquam vis constans gravitatis qui eorporis
+ascendentis motus retardatur, consideranda est,
+et in superioribus constructionibus pro corporis
+
+ascensu, non gravitas, sed ea resistentia unifor- “
+
+mis data per lineam A C, vel per rectangulum
+A H exponi debet. Si vero corpus in praedicto
+medio vi gravitatis etiarn urgeatur. linea A C
+gravitatem et resistentia} partem uniformem si-
+mul junctaS‚ si corpus ascendit, et excessum gra-
+vitatis supra eam resistentiae partem uniformem,
+si corpus descendit, exponet. Qua ratione cae-
+teris manentibus, determinabuntur motus cor-
+poris tum sola vi insita moti, tum vi gravitatis
+urgente ascendentis et descendentis in medio
+quod resistit partim in ratione datii, partim
+in ratione velocitatis, tum etiam corporis pro-
+jecti.
+
+(⁰) Etenim ‹ze-timue, &a Haec patent per de.
+monstrata (8).
+
+68. Scholium. Ex tione ad curvam
+D r a F, quarn (57) invenimus, deducitur hu-
+jus curvae per logarithmicam satis elegans con-
+structio, qua usi sunt Varignonius et Herman-
+nus. Eam hic exponemus breviter. Deinde
+cum in superioris propositionis Corollario ultimo
+et alibi postea describenda sit curva regularis
+quae per data puncta transeat, hoc problema,
+quod Newtonus in Epistola ad oldenburgum
+anno 1676. data unum fere ex pulcherrimis dicit
+quod solvere desideraverit, solvemus.
+

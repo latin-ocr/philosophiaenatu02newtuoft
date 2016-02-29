@@ -1,0 +1,53 @@
+Luam Saeuum] PRINCIPIA MATHEMATICA. 815
+
+rediens. Et eodem argumento si rarius sit, accedet ad'centrum. Igitur
+non redibit in eundem orbem nisi sit ejusdem densitatis cum fluido. Eo
+autem in casu ostensum est, quod revolveretur eadem lege cum partibus
+
+fluidi a centro vorticis aequaliter distantibus. Q. e. d.
+Corol. 1. Ergo solidum quod in vortice revolvitur et in eundem orbem
+
+semper redit, relative quiescit in fluido cui innatat.
+Corol. 2. Et si vortex sit quoad densitatem uniformis, corpus idem ad
+quamlibet a centro vorticis distantiam revolvi potest.
+
+Scholium.
+
+Hinc liquet planetas a vorticibus corporeis non deferri. Nam planetae
+secundum hypothesin Copernicaeam cirea Solem delati revolvuntur in
+ellipsibus umbilicum habentibus in Sole,
+et radiis ad Solem ductis areas descri-
+bunt temporibus proportionales, At
+partes vorticis tali motu revolvi ner
+queunt. Designent A D, B E, C F,
+orbes tres circa Solem S descriptos,
+quorum extimus C F circulus sit Soli
+concentricus, et interiorum duorum
+aphelia sint A, B et perihelia D, E.
+Ergo corpus quod revolvitur in orbe
+C F, radio ad Solem ducto areas tem· μ
+poribus proportionales describendo, (⁰) movebitur uniformi cum motu,
+Corpus autem quod revolvitur in orbe B E, tardius movebitur in aphelio
+B et vel'ocius in perihelio E, (Ρ) secundum leges astronomicas3 cum
+tamen (¹1)secundum leges mechanicas materia vorticis in spatio angus-
+tiore inter A et C velocius moveri debeat quam in spatio latiore inter D
+et F; id est, in aphelio velocius quam in perihelio. Quae duo repug-
+
+ 
+
+. (⁹) ὓ Μουὶὁὶιιιν αηῇἶη-ηιί cum motu· AEqua- locitas in B, est ad velocitatem in E, ut distantia
+libus enim temporibus aequales areae et proinde S E, ad distantiam majorem S B.
+aequales arem, hoc est, aequalia spatia descri- (q) ⁶ Secundum leges mechanicas. Namcum
+buntur. vortex supponatur esse in statu permanenti,
+· (Ρ) ’ ‚Secundum leges astronomicas. Quo- {equales materiae quantitates per spatium angus-
+tiiam axis ellipseos per aphelitim B et 'perihe- tius A C, et per spatium latius D F, ut sit in
+lium E transit, estque ellipsi normalis, area fluviis, eodem tempore transeunt, et propterea
+quam-radius vector s·B tempore quam minimo materia vorticis in spatio angustiore inter A et
+describit, erit aequalis rectiangulo ex distantia C, velocius movetur qua in spatio latiore inter
+S B ’in arcum quam-minimum a coi-pore in B D et F. Quantitas aut materiae, quae dato
+descriptum5 et Similiter area aequahs quam ra- tempore transit per spatium A C, vel D F, est
+dius vector S E eodem tempore quum minimo ut spatium hoc directe et matexiae velocitas me-
+describit, aequatui· rectiangulo ex distantia S E dicei-is inverse, et ide& mediocris velocitas ma-
+ducta ¹.¹¹ arcum a corpore ¹¹¹. E descriptum, et teriae intei- A et C, est ad mediocrem velocitatem
+ideo prior arcus est ad posteriorem, hoc est, ve- materia inter D etz F, ut 1²· D ad A C.
+

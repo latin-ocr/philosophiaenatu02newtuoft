@@ -1,0 +1,51 @@
+96 PHILOSOPHIAE NATURALIS [Mo‘r.CoRPon.
+
+PROPOSITIO XII. THEOREMA IX.
+
+Iisdem positis, dico qued si spatia descripta sumantur in progressione arith-
+meticd, velocitates datd quddam quantitate auctae erunt z'n progressione
+
+⁸ geometricd.
+
+In asymptoto C D detur punctum R, et erecto perpendiculo R S ς
+quod occurrat hyperbolae in S, exponatur descriptum spatium per aream
+hyperbolicam R S E D ; et velocitas erit ut longitudo G D, quae cum
+date C G componit longitudinem C D in progressione geometrice de-
+crescentem, interea dum spatium R S E D augetur in arithmetice.
+
+(¹²) Etenim ob datum spatii ¹
+incrementum E D d e, lineola
+D d, quae decrementum est ip-
+sius G D, erit reciproce ut ED,
+ideoque directe ut C D, hoc
+est, ut summa ejusdem G D
+et longitudinis datae C G. Sed
+velocitatis decrementum, tem· 2
+pore sibi reciproce proportio· c G 'A D d R
+nali, quo data spatii particula
+D d e E describitur, (¹) est ut resistentia et tempus conjunctim, id est di-
+recte ut summa duarum quantitatum, quarum una est ut velocitas, altera
+ut velocitatis quadratum, et inverse ut velocitas3 ideoque directe ut summa
+duarum quantitatum, quarum una datur, altera est ut velocitas. Decre-
+mentum igitur tam velocitatis quam lineae G D, est ut quantitas data et
+quantitas decrescens conjunctim, et propter analoga decrementa, (¹¹) ana-'
+logae semper erunt quantitates decrescentes; nimirum velocitas et linea
+Gn oea
+
+Corol. 1. Si velocitas exponatur per longitudinem G D, spatium de-
+scriptum erit ut area hyperbolica D E S R.
+
+Corol. 2, Et si utcunque assumatur punctum R, invenietur punctum G
+capiendo G R ad G D, ut est velocitas sub initio ad velocitatem post spa-
+
+     
+
+(h) *⁶ Etenim ob datum spatii incrementum, adeoque dato spatii incremento ut velocitas in-
+per hypothesim que spatia supponuntur in arith· verse. Quare dato spatii incremento, velocitatis
+meticfi progressione crescere. decrementum est ut resistentia directe et veloci-
+
+(ἰ) * Est ut resistentia et tempus conjunctim. tas inverse, id est, directe ut summa duarum
+velocitatis decrementum est ut resistentia et quantitatum, &c-
+tempus conjunctIm (15), ternpus vero est ut in· (Κ) *² Analogae semper erunt, διο. (Per cor.
+crementum spatii directe et velocitas inverse, Lem. IV. Lib. 1.).
+

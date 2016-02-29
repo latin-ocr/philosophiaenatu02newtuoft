@@ -1,0 +1,41 @@
+'1
+
+ann succum] PRINCIPIA MATHEMATICA. 137
+
+ligi poteSt ejus densitas in alio quovis loco Q. Centro S, asymptotis
+rectangulis S Q, S X describatur hyperbole secans perpendicula A H,
+E M, Q T in a, e, q, ut et perpendi· ·
+cula H X, M Y, T Z, ad asymptoton
+S X demissa, in h, m et t. Fiat area
+YmtzadareamdatamYthut
+area ‘data E e q Q ad aream datam
+EeaA; et linea Zt producta ab·
+scindet lineam Q T densitati propor-
+tionalem. Namque si lineae S A,
+S E, S Q sunt continue proportiona-
+les, (¹) erunt areae E e q Q, E e a A
+aequales, et inde areae his proportio-
+nales Y m t Z, X h m Y etiam aequa-
+les, et lineae S X, S Y, S Z, id est,
+A H, E M, Q T (¹¹³) continue pro· S Ζ Y X
+portionaleS, ut oportet. Et si lineae
+
+S A, S E, S Q obtinent alium quemvis ordinem in serie continue pro-
+portionalium, lineae A H, E M, Q T, ab proportionales areas hyperbo-
+licam, (¹²) obtinebunt eundem ordinem in alia serie quantitatum continue
+proportionalium.
+
+ 
+
+(1)· ΜΜΜΕεᾳ QEeaA equales, proportionales πνεῖς E ea A, Q q aA, illae'
+per not. 879. Lib. Ι. areae Y m t Z, X h t Z per doctrinam loga-rith-
+
+(¹¹¹) · Coneimae proportionales, (379. Lib. Ι.) morum (n. 88.) poterunt esse logarithmi lomen-
+
+(¹²) r⁸ Obtinebunt eumdem ordinem, &c- rum S E, S Q; cum ergo eaedem quantitates
+‘ Etenim areae hyperbolicae E e a A, Q q a A possint esse logarithmi tam quantitatum S E,
+sunt logarithmi linearum S E, S Q, et pariter S Q. quium quantitatum S Y, S X, oportet ut
+areae Y m t Z, X h t Z sunt logan'thmi linea- istae quantitates S E, S ἱ et S Q& S X corre-
+rum S Y, S X, (579. 389. Lib. 1.) sed cum spondentia loca occupent in progressmnibus geo-
+mae Y m t Z, X h t Z sint per constructionem metricis ad quas pertinent.
+

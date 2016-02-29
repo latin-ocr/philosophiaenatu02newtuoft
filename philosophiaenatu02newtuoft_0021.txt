@@ -1,0 +1,145 @@
+ 
+
+Lmnn Suetium] PRINCIPIA MATHEMATICA. 7
+
+terperpendicularesALetDQ D OetGll,
+&c- tot quot sunt divisionum puncta, et in sin-
+gulis punctis erigentur perpendiculares· iis mediis
+proportionalibus ordine sumptis eq3uales De-
+curva tangat tam perpendiculum datas
+AL,DO, Gunamhascemedias, dicoeam
+curvam esse logarithmieem.
+Facile enim liquet ex naturai ’onum,
+qnodcumn'tAiL: Do=D02 Gkac.
+et totidem mediae proportionales assumantur iu-
+ter ALetDo.quotusumunmr inter DOet
+
+G R, sieque deinoeps, formari progressionem eon- ganum.
+
+tinum commutem ex omnibus illis perpendicu
+laribus tam datisqnam inventis, ideo quamlibet
+exilhsutA LeseadsibiproximamBM, ιιι
+alia quaevisDo, estad proximamPR niele
+dividendqesta Lsdsuam differentiamapro-
+xims, utestetiam DOadsnamdifferentiama
+proxirna, ideoque perpendicularium proximi-um
+differentiae erunt ubique eis perpendimlaribus
+proportionales3 Evanescentibus' ergop punctorum
+in axe sum interval! is, et perpendiculari-
+bus ad vicinas equali ubique edei-itate latis et
+:equali tempusculo (ob aequalitatem intervallo-
+rnm)‚ velocitates quibus crescunt vel decresmnt
+perpendiculares erunt iis ι bus
+proportional0s3 Ergo (exe ἕωιιὶιίοιιε logaritltmi-
+ee) ᾳ curva quae tanget ess perpendiculares erit
+·.³⁴ near-11. Abstine ιιι-ἑο ΙοεανίιΙιπιίοσ,
+aaut ingorammi ordis-aurum in earum extremo
+intrim annu hinc inde ab origineaxis
+puteanuales quamminimae, in extremo singu-
+larum erigantur ordinate, illoe omnes ordinate
+constituent progressionem geometricam inter cu-
+jus terminos occurrit unitas, esrum vero abscisse
+erunt in progressione arithmetica propter partium
+in uie sumptas-um equalitatem, et abscisa quae
+unitati respondet est 0, Jam sutem cum termini
+progressionis arithmetidae inter quos est o ita ap-
+tantur terminis progressionis geometricae ut 0
+respondeat unitati et reliqui termini sibi respon-
+deant, tum termini progressionis arithmetice
+
+sunt lagarithmi terminorum correspondentiam
+
+Eithmiquntiogsmhmi &amuda-ragam&
+entium
+
+Ceret-1. Fortia aeis qua iruercipitw inter
+duas ordinatas est legar-illumin minna qua iw-
+tercedit inter illae ordinatas. Quotiens enim
+duarum quantitatum exprimit retiens- que in·
+ter illas intercedit, et differentia logarithmorum
+earum quantitatum, est logarithmus quotientis
+earunn, sed abscisse sunt lugaritbmi ordinatarum,
+“mfflffiflim ,affl ·¹¹¹‘i‘0gsfi‘³¹¹”ffim0⁰¹⁶¹¹¹⁸
+ad ees αιιῖῐίιιῗζ pertinentiuiisxneergo ma pori-¹3>
+est legarithmus quantitatis quae exprimit ratio-
+nem quae inter ordinatas intercedit.
+
+rithmi «equales, logum aliqtta per emunt v
+
+raam ammaum transibit·
+
+InrectaOAN(vid..fig mim-pag. weced.)
+sumatur punctum A· ιιι quod erigatur perpendi-
+cularisAB unitati aequalis, sitqueAMloga-
+rithmus quantitatis cui aequalis est perpendicu-
+laris M P, sit A a differentia progressionis arith-
+meticae ex qua desumuntur loger-ithmi, quae ideo
+accurate continebitur in intervallo A Μ toties
+quot sunt termini in progressione geometrica ex
+qua desumuntur quantitates quarum habentur lo-
+snm Α”Β ffiffimguz‘z‘fflffltdjizsffiffifflss
+inter A et M, et in illa puncta erigantur per-
+pendimlsres illis mediis proportionalibus ordine
+aequales, fiet progressio geometrica, quae est ipsa
+progressio quantitatum quarum abscissae lineae
+OAN quantitate Assueeessip auctae sunt
+logariffimi, siquidem ιιι utraque progressione oc-
+currunt termini A Β ει M P eodem intervallo
+in utraque dissiti, sed si in punct's aequidistan-
+tibus lineae cujusvis erigantur perpendicularesea- ιιι
+progressione geometrica, logsritbmieu ali
+rumverticestanget(Cor.Theo¹-· 1.) rgosi
+dentur numeri cum suis logari concipi sem-
+per poterit legaritbmics cujus thesim sint illi
+legaritbmi et cujus ordinatae sint quantitates qui-
+bus mpondent.
+
+85. steor- ΙΙΙ. Am legarickmicae est qius
+asympeotas ad quam ab unci parte aceedit prop-‘ue
+data quavis quantitate numquam tanen eam at-
+tingit, etaqua'abalterciparteloagimreoeditda-
+αἱ quavis quantumc-
+
+Sint duae ordinate A B, Μ Ρ quarum una
+sit alterius dupla vel plusquam dupla, fentm por-
+tio ex-is A Μ hinc inde secundum axem sine tine,
+ordinaroe ιιι ea puncta erecta crescentab una
+et ab altera decrescent· ιιι ratione dupla vel plus-
+quam dupla (per Cor. Tbeor. Ι.) sed ex principiis
+Archimedeis quantitas crescens inp progressione
+dupla vel plusquam dupla omnem quantitatem da-
+tam tandem excedet, et ex prIneipiis Euclideis
+
+aevis decrescens ιιι ratione dupla vel
+ῙιΙιιειῙιιιιιιιἜυ pla minor fit quavis quantitate data·
+Ergo logarithmica longius ab axe recedit, aut
+propius ad eum accedit quivis quantitate data,
+numquam tamen eum attinget, attingat enim
+eum si θαι potest in quodam puncto X, ferendo
+distantiam A Μ secundum axem, fiet tandem ut
+cadat proxime citra X, puts in Y, tum proxime
+ultra, utin Z; in puncto Y nondum attinget
+ιιιειιι ex Hypothesi, et aliquo intervallo Y V ab
+eo distabit, sed quia Y Ζ- - A M debetiteese
+AB: MP=qu adordinatemin Z, quoe
+
+ideo dabitur, sc per conzsequens logan-ithmica
+nondum attinget axem inz ‚nedum eum attige-
+
+ritinX. Qe. d.
+
+36.Τ1ιεον. IV Subiungens legar-immittet est
+constane. Capiantur enim ubivis ιιι axe
+
+Ceret-281· dentur duarum aut plurium culae aequales quamminimae M m, N ιι, erectis-
+quantumin logan-imm, et a puncto dato rectae que ordinatis M P, mp, et N Q, n q, per-punem
+alicujus sumantur· krngicudims eie logaritltmis P et Q concipiantur tangentes P T, Q t axi oc·-
+
+aequaks, et in canam esti-emo erigantur perpen-
+dicata-es quantitatibus quarum sumuntur loga-
+
+currentesin T, t; due-umrefiam’ rectae Pr,
+Q s, ordinatis m p, n q perpendiculares. Evan-
+
+Δ4
+

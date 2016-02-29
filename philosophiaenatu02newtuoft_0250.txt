@@ -1,0 +1,108 @@
+236 PHILOSOPHIAE NATURALIS [Mor. Conon.
+
+in ratione quae componitur ex, duplicata ratione velocitatis, et duplicata
+ratione diametri, et ratione densitatis mediorum.
+
+Corol. 2. Velocitas maxima quacum globuS, vi ponderis sui comparativi,
+in fluido resistente potest descendere, ea est quam acquirere potest globus
+idem, eodem pondere, sine resistentia cadendo et casu suo describendo
+spatium quod sit ad quatuor tertias partes diametri suae ut densitas globi
+ad densitatem fluidi. Nam globus tempore casus sui, cum velocitate
+cadendo acquisita, (¹¹) describet spatium quod erit ‘ad octo tertias diametri
+suae, ut densitas globi ad densitatem fluidi ; et vis ponderis motum hunc
+generans, erit ad vim quae motum eundem generare possit, quo tempore
+globus octo tertias diametri suae eadem velocitate describit, (¹) ut densi-
+tas fluidi ad densitatem globi: ideoque per hanc Propositionem, vis
+ponderis aequalis erit vi resistentiae, et propterea globum accelerare non
+potest.
+
+(s) Coroz. 3. Data et densitate globi et velocitate ejus sub initio motus,
+
+. (¹²) ³* Describet spatium quod erit ad octo ter-
+tias partes diametri suoe, &c. Describet enim
+spatium duplum illius quod vi ponderis sui com-
+
+citatem initio motus simulque resistentiam ipsi
+competentem, designetur-que per A B illud tem-
+pus quo ea velocitas per resistentiam uniformem
+
+parativi sine resistentia cadendo descripsit (30.
+Igib. 11. ), id est, spatium quod erit ad octo ter·
+tva-{¹131 ζιεῧίἃάῒηείιω fluuii ad densitatem globi.
+Sit D diameter globi, 2 F spatium quod slt ad
+
+8
+
+-3- D ut densitas globi ad densitatem fluidi ; et
+
+Ι tempus quo globus uniformiter describit spatium
+
+{- D, erit ad tempus quo eidem uniformi velo-
+
+citate describit spatium 2 F, ut -Ξ- D ad 2 F (5.
+
+Lib. 1.)‚ id est, ut densitas fluidi ad densitatem
+globi. cum igitur ¹vires uniformes sint reci-
+proce ut tempora quibus motus aequales generant
+(279), patet propositum.
+
+(Υ) 282. Cor. 8. Daui et densitate globi et
+velocitate ejus sub initio motus et densitate fluidi
+datur ad omne tempus et velocitas globi, et ejus
+resistentia et spatium ab eo descriptum. '⁶ Pri-
+mum, ex data densitate globi, et densitate fluidi,
+invenietur, per Cor. 2, vis aequalis resistentiae
+cum velocitas ea est quam acquirere potest is
+globus, cadendo in vacuo per vim sui ponderis
+comparativi et describendo spatium quod sit ad
+quatuor tertias diametri suae ut densitas globi ad
+densitatem fluidi.
+
+Secundo. ex data bac resistentia invenietur
+resistentia quae competit velocitati globi de quo
+agitur sub initio ejus motus, quia resistentia! hic
+supponuntur esse ut quadrata velocitatum3 ista
+autem resistentia cognita dabitur tempus quo si
+haec resistentia uniformiter ageret, totam veloci-
+tatem quam habet globus sub initio motus de-
+struere posset, sicque si B C designet eam velo-
+
+destrui potest, et erecto perpendiculo A D, »
+
+asymptotis A D, A B per punctum C describa-
+tur hyperbolii, ex ejus hyperbolae constructione
+dabitur ad quodlibet tempus (quod designabitur
+per B E) velocitas residua E F, resistentia B H,
+et spatium descriptum C B E F; qua autem
+ratione haec singula ad calculum revocentur,
+dicendum.
+
+1. vis illa quae resistentiae aequalis esse debet
+cum corpus habet velocitatem maximam quam
+lapsu suo in fluido dato acquirere potoet, est ip-
+sum pondus comparativum corporis· sit ergo A
+ejus pondus, densitas data corporis estvad denui-
+tatem fluidi, ut A ad pondus aequali· volumin‘u
+fluidi, quo invento, den-ahstur illud ex pondere
+A, relinquitur pondus comparativum globi in
+fluido quod dicatur Β.
+
+Ut praeterea determinetur tempus quo copon-
+dere B corpus percurret cadendo spatium quod
+sit ad quatuor tertias diametri suae ut ejus denai-
+tas ad densitatem fluidi, sive, si dicatur D di·-
+meter et dicatur F spatium quod sit ad {- D ut -
+densitas globi ad densitatem medii, ut determi-
+netur tempus quo globus pondere B cadendo
+percurret epatium F posito quod grave cadendo
+in vacuo pondere A tempore unius minuti- ⁸·-
+cundi pedes Parisienses 15—12 percurrit, et cum
+spatia diversis viribus acce eran-icibus desoxipu
+
+eodem tempore sint ut illae vires, spatium 1⁵15·
+pedum pondere A uno minuto secundo percur-
+sum est ad spatium eodem tempore pondere B
+percursum ut A ad Β. Ut autem est illud apa-
+tium‚ ad spatium F, ita quadratum minuti unius
+secundi ad quadratum temporis quo eo pondere
+

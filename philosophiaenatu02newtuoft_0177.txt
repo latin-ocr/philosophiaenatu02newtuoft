@@ -1,0 +1,122 @@
+Lumn Sanum] PRINCIPIA MATHEMATICA. 163
+
+(²) Caeterum ob difficilem calculum quo resistentia et velocitas per hanc
+
+propositionem inveniendae sunt, visum est Propositionem sequentem sub-
+jungere.
+
+PROPOSITIO XXX. THEOREMA XXIV.
+
+Si recta a B aequalis sit cycloidis arcui quem corpus osculando describit, et
+ad singula ejus puncta D erigantur perpendicula D K‘, quae sint ad lon-
+gitudinem penduli ut resistentia corporis in arcus punctis correspondenti-
+bus ad vim gravitatis .· dico quod dgff'erentia inter arcum descensu toto
+descriptum et arcum ascensu toto subsequente descriptum dueta in arcuum
+
+eorundem semisummam, aequalis erit areae B K a a perpendiculis omnibus
+D K occupatae.
+
+Exponatur enim tum cycloidis' arcus, oscillatione integr& descriptus, per
+rectam illam sibi aequalem a B, tum arcus qui describeretur in vacuo' per
+longitudinem A B. Bisecefur A B in C, (f) et punctum C repraesentabit
+
+02⁸)ss ssoetss'ssssfflssffss‘kz‘,⁶3²⁶me,2'325532 similiter habetur area 1 L Τ = b a L. -Ξ -ι-
+
+8ΤΞΞΞ. SP=L1=a-x,etLT= bx—ba. Sed (per constr.) area IEFest
+
+x adareamlLTutoQados,seuutzadx:
+Pii—b. Deinde0Q=2‚ethianE= quarezzx=baL.{-†bz—ba;baL-{-
+-Ι- bx -b a, et dividendo per b, ac loco zscri-
+
+b—a, am÷1
+² badz bendoipsiusvalorem ¹⁸¹³ ‚fit-am-isttxm-ld.
+² ' =aL.¹-:÷⁸m4¹
+
+a
+
+P Q=F1=z-a, ,ειΕΕΞὴ-ΞΞ.
+
+ 
+
+ 
+
+Et erit areae P 1 E Q, elementum =
+
+ 
+
+...atah —ax--l-x—a3
+
+ 
+
+areaePITSelementum=—b³d¹;etinde xm a
+areaP 1 E Q—-ba L. z -ff- chiist.;etquia undehabeturam÷²L.3÷a¹¹²÷¹x-a¹”÷²
+
+area illa evanescit ubi est P Q = z — a = o,
+
+m
+seuubiz=a0inveniturconstansQ=—baL.a, =²²¹m 4 ¹ L· :543m 4¹ ¹-⁸¹ “¹4¹3
+
+atqueadeoareaPI E Q=baL.z—baL.a
+=baL÷ Sinnin modo reperitur areaPITs
+
+=ba L. ἶ. Sit jam arcus B C ad arcum
+
+C a, ut m' ad 13 et erit (per constr.) m ε
+
+1=ba1,‚-².;b31„„2=1,‚3.214‚2‚ ac
+
+ 
+
+a x a x
+¹ m
+proinde L. Ξ- = m L. 2- = L. a-—ffl atque -Ξ-
+a ¹¹¹ a ¹²¹ -ἶ- ¹ Χ ¹ a
+= 'x-ffi, e z = x m ι
+Porro ex superioribus denominationibus inve-
+badz
+
+nitur areae 1 Ε F elementum = b d z —
+
+ 
+
+etindeareaipsalEF=bz—baL.z-{z-Q
+const. quae cum sit o ubi F 1 = z —aeva-
+
+nescitfitquez=a,estQ=--ba-}-baL.a,
+ide6que 1EF=baL.÷÷bz—ba; et
+
+et‘indeemiturmxm 4¹ Lx—m 1³4¹ La÷
+
+a¹¹¹÷¹Lx—x¹¹¹÷¹=a¹¹¹÷¹ L.a—a¹¹¹-l-¹.
+
+Si itaque ex hz‘ic aequatione per serierum re
+
+sum, vel quacumque alia methodo, determinetur
+
+valor x per arbitrariam lineam a, et deinde per
+a ¹¹¹ ÷ ¹
+
+ 
+
+aequationem z = inveniatur valor ipsius
+
+x
+z 3 Newtoniana constructio ad calculum logatith- ·
+morum revocabitur.
+
+Scholion. Hermannus Prop. LX XIII. et
+LXXIV. Lib. 11. Phoronomiae geminam con-
+structionem dedit, qufi corporis in curvi qualibet
+oscillantis resistentia velocitatis quadrato propon.
+tionalis definitur, et Newtouianam pro cycloide
+constructionem ope logarithmicae simpliciorem
+reddidit. Difficile autem non est (44) hanc
+Newtoni constructionem revocare ad logarithmi-
+cam per punctum N et asymptow K O ad partes
+Ο producta describendam.
+
+(f) ⁸¹ Et punctum C reprcesentabit infimum
+cycloidis punctum· Nam cycloidis puuctum in-
+
+1⁴2
+

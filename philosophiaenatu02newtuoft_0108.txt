@@ -1,0 +1,58 @@
+91· PHILOSOPHIAE NATURALIS [Mor. Coum
+
+SECTIO ΙΙΙ.
+
+De motu corporum quibus resistitur partimin ratione velocitatis,
+partim in ejusdem ratione duplicatd.
+
+PROPOSITIO XI. T HEOREMA VIII.
+
+Si corpori resistitur partim in ratione velocitatis, partim in velocitatis ra-
+tione duplicate, et idem sotei vi insita in medio similari movetur: suman· 4
+tur autem tempora in progressione arithmetica ,- quantitates velocitatibus ‘
+reciproce) proportionales, datd quddam quantitate auctae, erunt in progres-
+sione geometricoi.
+
+Centro C, asymptotis rectangulis C A D d et C H, describatur hyper-
+bola B E e, et asymptoto C H parallelae sint A B, D E, d e. In asymp- ·
+toto C D dentur puncta A, G: et si H
+tempus exponatur per aream hyper-
+bolicam A B E D uniformiter cres-
+centem3 dico quod velocitas exponi Q
+potest per longitudinem D F, cujus
+reciproca G D unit cum data C G
+componat longitudinem C D in pro-
+gressione geometrice crescentem.
+
+Sit enim areola D E e d datum c G Α
+temporis incrementum queim mini-
+mum, (ὃ) et erit D d reclproce ut
+
+D E, ideoque directe ut C D. Ipsius autem ,ᾶ-Ῑῑ). decrementum, quod
+
+, eritut CD seuCG÷GD,id
+Dq GDq GDq
+
+Igitur tempore A B E D per additionem data-
+
+ 
+
+(ὓ) (per hujus Lem. ΙΙ.) est GD d
+
+ 
+
+ 
+
+ 
+
+¹÷CG
+G‘D‘G‘fffi'
+
+(²) ” Et erit D d νθσίρνοεέ ut D E. Est enim proce ut D E3 sed (per Theor. IV. de Hyperb.)
+areola evanescens D E e d aequalis rectangulo datum est rectangulum C D >< D E, proinde
+D E >< D d, quod, ob datum temporis incre· C D, cst reciproce ut D E; quare erit D d di-
+mentum, erit ut quantitas data, et idea D d, est recte ut C D.
+ut quantitas data divisa per D E, id est, reci- (δ) *b Per lmjus Lemma ΙΙ. Cas. 4.
+
+est, ut
+

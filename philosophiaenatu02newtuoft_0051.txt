@@ -1,0 +1,47 @@
+- Lumn smum] PRINCIPIA MATHEMATch. 37
+
+SECTIO II.
+
+De motu corporum quibus resistitur in duplicata* ratione ve-
+locitatum.
+
+PROPOSITIO V. THEOREMA III.
+
+Si- corpori resistitur in velocitatis ratione duplicatd, et idem sold vi insitd
+per medium similare movetur‚· tempora vero sumantur in progressione
+geometricd a minoribus terminis ad mqjores pergente .· dico quod velocita-
+tes initio singulorum temporum sunt in eddem progressione geometrice? in-
+verse ,· et quod spatia sunt aequalia, quce singulis temporibus descri-
+huntur.
+
+· Nam quoniam quadrato velocitatis proportionalis est‘resistentia medii,
+(ἀ) et resistentiae proportionale est decrementum velocitatis3 si tempus„ in
+particulas innumeras aequales divi-
+’ datur, quadrata velocitatum singu-
+lis temporum initiis erunt velocita-
+tum earundem differentiis propor-
+tionalia. sunto temporis particulae
+illae A K, K L, L M, διο. in recte
+C D sumptae, et erigantur perpen-
+diculaAB, Kk, Ll, Mm, &c-
+hyperbolae B kl m G, centro C
+asymptotis rectangulis C D, C H
+descriptae‚ occurrentia in B, k, l,
+m, διο. (²) et erit A B ad K k ut
+CKadCA‚ etdivisim A B—-KkadeutA Kad CA, etvicissim
+AB-KkadAKuthadCA,ide6queutAB Χ KkadAB Χ
+C A. (¹) Unde, cum A K etA B >< C A dentur, erit A B— Kk ut
+
+ 
+
+AKLM T D
+
+(ἁ) ‘¹' Ee resisteruiaeproporeiomle est decremen- (Γ) ' Unde, nim ΑΚ, et AB Χ Cf! dentur.
+tum velocitatis ,- dam nempe temporis momento, A K quidem (ex Hyp. tempus emm m panucu-
+
+(1. 15.). ' las innumeras aequales dividitur quae per hneas
+(Ε) ‘ Ee erit AB ad Κλ· ut CKach‚ aequalae ΔΚ, K L, &c- exponuntur) et ABx
+(per Theor. lv. de Hyp). - C A (per Theor. lv. de Hyp).
+
+Css
+

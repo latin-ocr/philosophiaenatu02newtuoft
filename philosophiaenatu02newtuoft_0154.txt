@@ -1,0 +1,87 @@
+[Mo'r. Conron.
+
+140 PHILOSOPHIAE NATURALIS
+
+argumentoiest aequale‘B b, &c. (⁸) Sunt autem A a, B b, C c,
+
+ 
+
+B1><ui
+B
+
+acc. continue proportionales, et propterea differentiis suis Aa —- Β b,
+B b -— C c, δίο. proportionales 3 ideoque differentiis hisce proportionalia.
+’ sunt rectangula t p, u q, δίο. ut et summis differentiarum A a — C c vel
+A a —D d summae rec-
+tangulorum t p ÷ u qvel
+tp÷uq÷wr. Sunto ejus· F
+modi termini quam plu 13
+rimi, et summa omnium
+differentiarum, puta A a
+— F f, erit summae om- Β
+nium rectangulorum, puta
+z t h n, proportionalis.
+Augeatur numerus termi-
+norum et minuantur dis- s
+tantiae punctorum A, B,
+
+C, &c. in infinitum, (t) et rectangula illa evadent aequalia areae hyperbolicae
+z t h n, ideoque huic areae proportionalis est differentia A a — F f.
+(¹¹) Sumantur jam distantiae quaelibet, puta S A, S D, S F, in progres-
+sione musica, et differentiae A a — D d, D d — F f erunt aequales ; et
+propterea differentiis his‘ce proportionales areae t h l x, x l n z aequales
+erunt inter se, et densitates S t, Sx, S z, id est, A H, D L, F N, (¹) con-
+tinue proportionales. Q. e. d.
+
+Corol. Hinc si dentur fluidi densitates duae quaevis, puta A H et B I,
+dabitur area t h iu, harum differentiae t u respondens3 et inde invenietur ”
+densitas F N, in altitudine quacunque S F, sumendo aream t h n z ad
+aream illam datam th iu ut est differentia A a — F f (5) ad differentiam
+
+Aa—Bb.
+
+  
+
+(”) Sum autem A a, B b, Cc, ‹gc- continu& (y) 176. *⁸ Ad differentiam A α —· B b.
+proportionales. = Nam (per Hyp.) S A, S B, Quoniam vero area t h i ιι est ad aream t h n z
+
+S C sunt continue proportionales, et (per Theor-
+IV. de Hyp.) A a, B b, C c sunt reciproce
+ut S A, S Β, S C, ide6que etiam continue pro-
+portionales.
+
+(ί) ” Et rectangula evadent aequalia areoe hy-
+perbolicae z t Ιι π , per Lemma 111. Lib. 1.
+
+(¹¹) * Sumuntur jam distantiae quaelibet, puta
+
+S A, S D, S F in progressione musica, et earum
+
+reciprocae A a, D d, F f erunt in progressione
+
+gizrmetilssa} idet'nllue differentia A a — D d.
+— aequa es.
+
+lxx
+x Ι
+
+1.)
+
+Ψ Οοηείηιιὲ proportionales. (379. Lib.
+
+ut logarithmus lineae S t vel A H ad logan-ith-
+mum lineae S z seu F N (379 et 380 Lib. 1.)‚
+densitas F N per tabulas logarithmorum inveniri
+poterit. Et vice versa, data densitate F N in-
+venietur altitudo S F: nam per Prop. superio-
+rem dabitur A a — F f, et inde dabitur F f,
+“ S A >< A a
+F f
+IV. de Hyp. ). Quia νει-ὂ fluidi elastieim, cn-
+teris paribus, vi comprimenti, ideoque densitati
+(per Hyp.) proportionalis est, patet per hoc Co-
+tonarium ex datis altitudinibus inveniri ponte
+elasticitatec, et vice versa.
+
+unde invenietur F S = (per Theot-
+

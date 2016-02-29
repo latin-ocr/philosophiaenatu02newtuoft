@@ -1,0 +1,49 @@
+256 PHILOSOPHIAE NATURALIS [Mor.Com²on.
+
+SECTIO vm.
+
+De motu per fluida propagato.
+
+PROPOSITIO XLI. THEOREMA XXXII.
+
+Pressio non propagatur per fluidum secundum lineas rectas, nisi ubi parti·
+culae fluidi in directum jacent.
+
+Si jaceant particulae a, b, c, d, e in linea recta, potest quidem pressio
+directe propagari ab a ad e 3 at particula e urgebit particulas oblique
+
+positas f et g oblique, et particulae illae f et g non sustinebunt pressionem e
+
+illatam, nisi fulciantur a particulis ulterioribus&
+h et k3 quatenus autem fulciuntur, premunt
+particulas fulcientes 3 et hae non sustinebunt
+pressionem nisi fulciantur ab ulterioribus l et
+m easque premant, et sic deinceps in infinitum.
+Pressio igitur, quam primum propagatur ad
+particulas quae non in directum jacent, divari-
+care incipiet et oblique propagabitur in infini-
+tum 3 et postquam incipit oblique propagari, si
+inciderit in particulas ulteriores, quae non in directum jacent, iterum
+divaricabit3 idque toties, quoties in particulas non accurate indirectum
+’ jacentes inciderit. Q. e. d.
+
+ 
+
+Corol. Si messionis, a dato puncto per fluidum propagatae, pars aliqua
+obstaculo intercipiatur3 pars reliqua, quae non intercipitur, divaricabit {in
+spatia pone obstaculum. Id quod sic etiam demonstrari potest. A
+puncto A propagetur pressio quaquaversum, idque si fieri potest secundum
+lineas rectas, et obstaculo N B C K perforato in B C, intercipiatur ea
+omnis, praeter partem coniformem A P Q, quae per foramen circulare
+B C transit. Planis transversis d e, fg, h i distinguatur conus A< Ρ Q
+in frusta3 et interea dum conus A B C, pressionem propagando, urget
+
+frustum conicum ulterius d e g f in superficie d e, et hoc frustum urget .
+
+frustum proximum f g i h in superficie fg, et frustum illud urget frustum
+tertium, et sic deinceps in infinitum3 manifestum est (per‘motfis Leg‘em
+
+tertiam) quod frustum primum d e g f, reactione frusti secundi fg i h,⁴
+
+tantum urgebitur et premetur in superficie fg, quantum urget ct premit
+

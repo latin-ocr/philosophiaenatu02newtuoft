@@ -1,0 +1,88 @@
+tumn sacam] ἣ 'PRINCIPIA MATHEMATICA. 39
+
+, necnon spatium, quod corpus aliquod eodem tempore A D, velocitate
+prim& A B, in medio non resistente describere posset, (¹²¹) per rectangu-
+
+lumAB Χ AD.
+
+Corol. 2. Unde datur spatium iu medio resistente descriptum, capien-
+do illud ad spatium quod velocitate uniformi A B in medio non resistente
+
+simul describi posset, ut est area hyperbolica A B G D ad rectangulum
+A B >< A D.
+
+Corol. 3. Datur ,etiam resistentia medii, statuendo eam ipso motus ini-
+tio aequalem esse vi uniformi centripetae, quae in cadente corpore, tem-
+pore A C, in medio non resistente, generare posset velocitatem 'A Β.
+Nam si ducatur B T quae tangat hyperbolam in B, et occurrat asymptoto
+in T 3 (¹¹) recta A T aequalis erit ipsi A C, (⁰) 'et tempus exponet, quo re-
+sistentia prima uniformiter continuata tollere posset velocitatem totam A B.
+
+Corol. 4. (Ρ) Et inde datur etiam proportio hujus resistentiae ad vim gra-
+vitatis, aliamve quamvis datam vim centripetam.
+
+(¹¹¹) 79. ’ Per rectangulum A B >< A D. Si dem uniformiter continuata temporis momento
+enim velocitas A B, manet eadem, tempore K L, sive A K, tolleret etiarn velocitatem k f
+A K, describet corpus spatium A B >< Λ Κ, = B e. et temporis momento L M, seu A K,
+dum in medio resistente 'describit spatium velocitatem g h = B e, atque its deinceps3
+A Bk K, tempore K L velocitate A B describet quare resistentia prima uniformiter continuata
+spatium A B >< K L, dum in medio resistente tempore A T tolleret velocitatem totam A Β,
+describit spatium K k l L, et ini deinceps (14.
+Lib. 1.); quare tempore A M velocitate primii
+A B in medio non resistente describet corpus
+spatium ΑΒΧ(Α K÷K L-}-L M) =
+AB>< AM; ettemporeA D, spatiumA B
+>< A D. Et quoniam ipso motus initio, est
+area A B k K, aequalis rectang'ulo A B χ Κ k,
+atque spatia in medio resistente et in medio non
+resistente desei-ima temporis momento A K,
+sunt etiam aequalia, liquet spatium in medio re-
+sistente descriptum tempore quovis A D, esse ad
+spatium eodem tempore in medio non resistente
+descriptum velocitate A B, ut est area hyperbo-
+lica A B'GDadrectangulum AB >< A D.
+
+80: Ex corollario primo sequitur tempore in·
+finito spatium infinitum describi in medio quod
+
+κ resistit in ratione quadrati velocitatis. N on enim
+
+ 
+
+evanescet G D, hoc est velocitas tota extincta
+non erit, pisi infinita evadat recta A D, hoc est
+nisi tempus motus sit infinitum, tuncque infinita
+fit area A B G D, seu spatium descriptum est
+infinitum.
+
+(³) ⁶ Recta A Toequalis erit ipsi A C. (Per
+Tineor. 1. de Hyp.)
+
+ἵ) ⁸ Et tempus caponel. Ordinatae K k,
+L M m, διο. rectae Β Τ, occurrant in k, h, i,
+&a ex punctis k, h, i, demissa sint ad A B,
+K k. L l, διε. perpendicula K e, h f, i g, &c- et
+sumptis temporibus quam minimis AK,KL‚
+L Μ, aequalibus erunt B e, k f, h g aequales,
+sed resistentia prima temporis momento A K,
+tollit velocitatem A B — K k, seu B e, et ea·-
+
+quia A B aequalis est omnibus differentiis B e,
+k f, gh, διο. usque ad T; vis autem centripeta
+quae tempore A K, producit velocitatem B e,
+aequalis est vi quae eodem temporis momento
+eandem velocitatem B e extinguit, seu :equalis
+est resistentiae primae, et illa vis centripeta uni-
+formis manens toto tempore A T, totam ve'loci-
+tatem A B. produceret, quam resistentia prima
+uniformis manens eodem tempore extingueret;
+ergo resistentia prima aequalis est vi uniformi
+centripetae quae in cadente corpore, tempore A Τ
+sive A C, in medio non resistente generare pos-
+set velocitatem A B.
+
+(Ρ) ³* Et inde? datur etiam proportio. Sunt
+enixu vires centripetae uniformes ut velocitates
+
+C4
+

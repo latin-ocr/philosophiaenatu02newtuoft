@@ -1,0 +1,121 @@
+Lmen Saeuum] PRINCIPIA MATHEMATICA.
+
+237
+
+ut et densitate fluidi compressi quiescentis in quo globus movetur3 datur
+ad omne tempus et velocitas globi et ejus resistentia et spatium ab eo de-
+scriptum, per Corol. 7. Prop. XXXV.
+
+¹ (⁸) Corol. 4. Globus in fluido compresso quiescente ejusdem secum
+densitatis movendo, dimidiam motus sui partem prius amittet quam lon-
+gitudinem duarum ipsius diametrorum descripserit, per idem Corol. 7.
+
+B spatium F percurretur, quod tempus dicatur
+G, cumque velocitate per lapsum aequisita du-
+plum spatii lapsu percursi uniformiter describa-
+tur ipso lapsus ternpore, ideo velocitate p ndere
+B tempore G acquisita, eodem tempore G de-
+scriberetur 2 F, cumque velocitas omnis expri-
+matur per spatium divisum per tempus, erit ea
+
+velocitas maxima {E quae in posterum dicatur
+
+G
+H.
+1 Ι. Data autem quavis alia ejusdem globi ve-
+locitate in eodem fluido eaque dicatur M, resis-
+tentia ipsi competens ita obtinetur, ut quadratum
+
+velocitatis H ad quadratum velocitatis hujusce
+M, ita est resistentia adversus velocitatem H cui
+
+ 
+
+pondus B aequipollet, ad resistentiam ad'versus
+velocitatem M, quam vocabo 123 curn ergo prius
+data sit ratio A ad B dabitur etiam ratio A ad
+R. ideoque dabitur spatium quod actione vi R.
+uniformi supposita per unum minutum secundum
+describeretur, siquidem spatia per diversas vires
+uniformes aooelemtrices descripta iisdem tempo·
+ribus sunt ut 511ae vires, ideoque A ad R ut Ιὸᾗ
+ped. ad spatium uno minuto secundo descrip-
+tum, cujus spatii duplum per unum minutum
+secundm divisum exprimit velocitatem vi R per
+unum minutum secundum productam. Unde
+invenietur tempus quo per eam vim R uniformi-
+ter agentem velocitas M produci vel etiam de-
+strui posset, velocitates enim per eamdem vim
+acquisita sunt ut tempora quibus acquiruntur3
+ergo velocitas tempore unius minuti secundi ae-
+quisita est ad velocitatem M, ut unum minutum
+secundum ad tempus quo vis R. velocitatem M
+generare vel tollere posset. Unde tandem in
+hyperbolae constructione datur valor temooris
+per lineam A B designati.
+
+Sumaturergo B E quodsitad A B uttempus
+quod assumere lubetad tempus illud quo vis R
+velocitatem M quae per B C exprimitur gene-
+
+rare vel tollere potest uniformiter agendo, et
+ducatur ordinata E F, ω, designabit velocitatem
+globi eo tempore superstitem quae ex natura hy.
+perbolae habebitur, est enim A E, ad A B, sicut
+B Csive Mad EF, unde cumsitAE=
+A B -Ιι- B E; sitque A B tempus mox inven-
+tum, B E tempus assumptum, B C sive M ve-
+locitas data, datur etiarn E F.
+
+Datur pariter resistentia B H, est enim B C ²
+adE F²utR ad hancce novam resistentiam,
+quae, prioribus datis, etiam dabitur.
+
+Denique datur spatium a corpore descriptum,
+datur enim spatium quod velocitate constanti M
+tempore B E percurritur ; est vero area B C G E
+ad spatium hyperbolicum B C F E. ut spatium
+velocitate constanti M tempore B E percursum,
+ad spatium percursum curn velocitate per resis-
+tentiam decrescente, at exnaturii logarithmorum
+hyperbolicorum spatium hyperbolicum B C F E
+
+est legarithmus quantitatis et quia loga-
+
+-2
+rithmi earumdem quantitatuss iil d1versis loga-
+
+rithmorum seriebus sumpti sunt proportionales,
+sumatur logarithmus illius quantitatis 2—{1} in
+tabulis vulgaribus, fiatque ut logarithmus de-
+narii numeri in tabulis (sive unitas)ad 2. 30258509
+qui est logarithmus hyperbolicas ejusdem denarii
+numeri, ita logatith. quantitatis ἓξ ex tabulis
+desumptus ad logarithmum hyperbolicum ejus
+quantitatis, habebitur area B C F E, sitlergo
+
+dignitas hyperbolae=j 1, erit Bc=Het
+
+areaBCGE=X¹33><Bnid26queut
+BE
+
+ff, ad logarithmum quantitatis A ξ e tabulis
+desumptum et multiplicatum per 230258509.
+Ita spatium velocitate constanti B C tempore
+Β E pei-cursum, ad spatium percursum cum ve-
+locitate per resistentiam decrescente. Q. e. ἰ.
+(²) ¹* corel. 4. ; ¹⁶ cum globus et fluidum ejus-
+dem densitatis supponantur, resistentia isto in
+casu erit aequalis vi qua totus motus globi gene-
+rari vel tolli posset quo tempore octo tertias dia-
+metri suae uniformiter describeret. itaque sit
+Β C motus globi, erit A B tempus quo unifor-
+miter percurreret octo tertias suae diametri, sit
+Ε F, dimidium B C, quoniam E F exprimit
+residuum motum, B E erit tempus quo dimidia
+pars motus amissa fuerit, sed B eadE F ut
+A EadA BetestB CadDFutsadl, per
+const. ergoetiamAE=2ABetB E= A B,
+
+ 
+

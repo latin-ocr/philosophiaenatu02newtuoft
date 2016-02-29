@@ -1,0 +1,140 @@
+Lmen Saeuum] PRINCIPIA MATHEMATICA.
+
+149
+
+porum, et propterea quantitates materiae sunt ut vires motrices et quadrata
+
+temporum, id est, ut pondera et quadrata temporum.
+
+Corol. 1.
+gulis corporibus erunt ut pondera.
+
+(ῆι Q. e. d.
+
+Ideoque si tempora sunt aequalia, quantitates materiae in sin-
+
+Corol. 2. Si pondera sunt aequalia, quantitates materiae erunt ut qua-
+
+drata temporum.
+Corol. 3.
+quadrata temporum.
+Corol. 4.
+
+Si quantitates matefiae sequantur, pondera erunt reciproce ut
+
+(Κ) Unde cum quadrata temporum, caeteris paribus, sint ut
+
+longitudines pendulorum3 si et tempora et quantitates materiae aequalia
+sunt, (¹) pondera erunt ut longitudines pendulorum.
+
+(ἢ) Quod erat demonstrandum. ¹* In de-
+monstratione probatum est quod si describantur
+arcus aequales D C, d c quantitates materiae
+sunt ut pondera et quadrata temporum, sumatur
+jam arcus b c major vel minor arcu d used quan-
+titates materiae et pondera utrinque maneant
+eadem quae prius, et pariter ob isochroneitatem
+cunae b d c, tempus oscillationis per b c, aequale
+erit tempori oscillationis per d c, ide6que qui-
+cumque sint arcus descripti si modo maneat pen-
+duli longitudo, eademque sit utrinque cyclois,
+pariter verum erit quod quantitates materiae sunt
+ut pondera et quadrata temporum oscillationum.
+
+(Β) Unde cum quadrata temporum coeten‘s
+parthus sint ut longitudines pendulormn. ⁸ F in
+gatur L C, lc inaequalia esse, et arcus D C,
+d c non sumi aequales ut prius, sed similes sive
+proportionales longitudinibus L C, lc, secetur
+D Cinpartesaequalesinter se, et dcinpartes
+similes, ita ut sit DE ad de ut L C ad lc
+ductisque perpendiculis D M, E N, d m, e n,
+διο. liquet ex similitudine figurarum altitudines
+MNetmn‚ M Retmr, &a esseetiam inter
+se in ratione L C ad 1 c, velocitates ver& quibus
+describuntur arcus E F, F G sunt ut ς] M N
+ad 4! M R, et velocitates quibus describuntur
+arcus ef, fg sunt ut anadffmr, sed
+quia M N et ιιι ιι, M R etmr, suntin eadem
+ratione ideoque et earum radices, vicissim, velo-
+citas quii describitur E F est ad velocitatem qua
+describitur e f, ut velocitas qua describitur F G
+ad velocitatem qua describitur fg ; et sic ordine
+perpetuo demonstrabitur velocitates quibus suc-
+cessivae partes correspondentes utriusque curvae
+percurruntur fore semper in eadem ratione 3 tem-
+pora vero quibus arcus similes describuntur sunt
+directe ut illi arcus et inverse ut velocitates ; ergo
+cum ratio arcuum con-respondentium sit semper
+eadem, nempe ratio L C adl c, ut et ratio velo-
+citatum quibus percurruntur illi arcus, singula
+tempuscula quibus describuntur particulae arcus
+D C eamdem rationem habebunt ad tempuscula
+quibus correspondentes particulae arcus d c per-
+curruntur; ideoque tempora tota oscillationum
+per D C et d c erunt directe ut longitudines
+L C etlc, et inverse ut velocitates in punctis
+
+quibusvis correspondentibus arcuum D C et d c,
+puta in punctis infimis C et c, sed quia ex hypo-
+thesi quod pondera sunt aequalia et quod quanti-
+
+tates materiae sunt aequaleS, velocitates sunt pro-
+portionales radicibus quadratis altitudinum, ve-
+
+locitates in punctis C et c erunt ut 4! M C ad
+4! m c: sed ex similitudine curvarum et arcuum
+est mc ad M C sicut lc ad L C, ergo velo-
+citates in punctis C et c sunt ut ν L C ad
+4! 1 c, ideoque tempora oscillationum inte-
+
+grarum in arcubus D c,‘ d c erunt ut L c
+
+ 
+
+ 
+
+4! L C
+ad ἑὲ, unde quadrata temporum erunt ut
+L C ² l c 2
+
+sive ut L C ad lc, hoc est ut lon-
+
+ 
+
+ 
+
+L C adl
+gitudines pendulorum. Q. e. d.
+
+(¹) ¹* Pondera erunt ut longitudines pendulo-
+rum, et universaliter quantitas materiae pendulae
+est ut pondus et quadratum temporis dir-ecl& el
+longitudo penduli inverse. ἢ* Sint duo pendula
+A et B, quae materia, pondere et oscillationum
+temporibus discrepent, sed aequalis sint longitu-
+dinis ; ex Theoremate, erit quantitas materiae
+pendula> in A ad quantitatem materiae pendulae
+in B, ut pondus et quadratum temporis oscilla-
+tionum penduli A conjunctim ad pondus et qua.
+dratum temporis oscillationum penduli B con-
+junctim3 sit tertium pendulum C, cujus materia
+et pondus eadem sint cum materia et pondere
+penduli B, diversa vero sit utriusque longitudo,
+longitudo penduli C erit ad longitudinem penduli
+B (sive penduli A, perinde enim est ex hypothesi)
+ut quadratum temporis in pendulo C ad quadra-
+tum temporis in pendulo B, quod itaqueaeq uale
+erit quadrato temporis in pendulo C, per longi-
+tudinem penduli multiplicato et per longitudinem
+penduli C diviso; unde quantitas materiae in A
+erit ad quantitatem materiae in B sive in C, ut
+pondus et quadratum temporis in A conjunctim
+ad pondus iu Β, sivein C, cum quadrato tem·
+poris in C et longitudine penduli A directe et
+longitudine penduli C inverse: unde liquet
+quantitatem materiae in A esse ad quantitatem
+materiae in C, ut pondus et quadratum temporis
+
+ΚΕΖ
+

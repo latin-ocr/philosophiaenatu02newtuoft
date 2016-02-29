@@ -1,0 +1,63 @@
+Luam secum] PRINCIPIA MATHEMATICA. 165
+
+vim generantem C D. Sed et (¹) ob similia triangula F m f, F g h, F D C,
+estfmadFmseuDdutCDadDF: etexaequo FgadDd-utDK
+ad D F. Item Fh ad Fg ut D F ad C F; et ex aequo perturbate
+(¹¹²) Fh seuMNadDdutD KadCFseu CM3 (¹²)ide6que summa
+omnium M N >< C M aequalis erit summae omnium D d κ D K. Ad
+punctum mobile M erigi semper intelligatur ordinata rectangula aequah‘s
+indeterminatae C M, quae motu continuo ducatur in totam longitudinem
+A a; et trapezium ex illo motu descriptum sive huic aequale rectangulum
+A a Χ ᾗ a B (⁰) aequabitur summae omnium M N Χ C M, ideoque sum-
+mae omnium D d Χ D K, id est, areae B K V T a. ’ Q. e. d.
+
+Corol. Hinc ex lege resistentiae et arcuum C a, C B differentia A a
+colligi potest proportio resistentiae ad g1avitatem quam proxime.
+
+Nam si uniformis sit resistentia D K, figura B K T a rectangulum erit
+sub B a et D K 3 et inde rectangulum sub ᾗ Β a et A a erit aequale rect-
+angulo sub B a et D K, et D K aequalis erit ᾗ Α a. Quare cum D K
+sit exponens resistentiae, et longitudo penduli exponens gravitatiS, erit
+resistentia ad gravitatem ut ᾖ Α a ad longitudinem penduli3 omnino ut
+in Prop. XXVIII. demonstratum est. ’
+
+Si resistentia sit ut velocitas, figura B K T a ellipsis erit quam proxime.
+Nam si corpus, in medio non resistente, oscillatione integra describeret
+longitudinem B A, velocitas in loco quovis D‘ foret ut circuli diametro
+A B descripti ordinatim applicata D E. Proinde elim B a in medio re-
+
+(¹) ὓ Ob similia triangula, διο. Sunt enim punctum A perpendiculmn A P = A C, jun·
+anguli ad m, h. et D recti, angulus C F D duo- gatur P C, et ductis per M et N ac a perpendi-
+bustriangulis F D C, F h g communia et an- culis M H. N L, a b; erit semper M Nx C M
+gulus f F m aequalis angulo C F D, quia si ex = M N >< H M 5 ideoque si ordinata variabilis
+angulis rectis m F D, f F C subdu-
+catur communis angulus m F C,
+remanebunt anguli aequalee f F m, P
+C F D. Tria igitur triangula F m f,
+F h g et F D C aequales angulos ha-
+bem, suntque proinde similia.
+
+(¹¹¹) *Fla seuMN. cumsitCM
+aequalis C F, et C Naequalis Cgseu
+C h, lo h C g evanescente, est
+ghN=C M-—C N=C F·—
+
+(“) ” Ide6que summa omnium
+M ΝΧ CM, διο. Quoniam (per
+modo demonstrata) MN>< CM= “
+
+D d >< D K, erit summa omnium Α. Μ Ν a B
+Μ N >< C Μ aequalis summae om-
+
+nium D· d Χ D K, modo simul incipiant simul- H Μ ducatur in tomm longitudinu- A a, erit
+que desmant. Incipit autem summa omnium trapezium A P b a aequale summm omnium
+Dd >< D K in B et desinit in a, et summa M N >< C M ab Aada; sed trapezium illud
+omniumMNX CMincipit in A, et ideosi est C A P-c a b={ C Αῑ-ξῦ a²
+deS1natina,eruntsummaeillaeaequales. ={(CA÷Ca)><(CA-Ca)={aB
+
+(⁰) ¹⁵ AEquabatur summae, &c. Erigatur ad >< A a, ob C B = C A. Ergo, &a
+
+L3
+
+  
+

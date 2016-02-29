@@ -1,0 +1,121 @@
+Lim-:n Saeuum] PRINCIPIA MA-THEMATICA.
+
+25
+
+Cor-ol. 2. Unde si capiantur innumerae C R, vel, quod perinde est, in-
+nmnerae Z X in progressione geometricfi3 erunt totidem X r (¹) in pro-
+
+gressione arithmetice.
+morum facile delineatur.
+
+, ⁸ In
+Lss(2'.›1.)teufggffius seu areis R D G Tin pro-
+gressione arithmetica crescentibus, abscissae R C
+in progressione geometrica decrescunt, et vice
+versa. Quare verticalibus X r, quae sumt ut
+areae R D G T, in progressione arithmetica
+crescentibus, correspondentes abscissae R C de-
+crescent in progressione geometrici, et contn-
+Sed ob triangulorum D R X, D C Z similitu-
+dinem, est DCad DZutDRad DX. et
+divisim ut R C ad Z X: quare ob datas D C et
+D Z, estZ Xad R C in data ratione, etideo
+Z X crescit vel decrescit in eadem ratione cum
+
+mimae* arithmeticd. Nam (380.
+
+(¹²) 58. Per tabulam logarithmorumfhcil& ‹le-
+lineatur. Dicantur enim, ut supra n. 56. D C
+=e‚ CP=f, AC=g, a=
+
+effg’DR=x²R‘=5³“ffst
+(56)y={g{ -a L 22¹· ob
+triangula D A Y, Y P Z similia,
+estDAseue-gadAYvelCP
+seuf,utYPvclACseugadPZ,
+
+fg
+
+ 
+
+ 
+
+ideoque P Z = = a. Trian-
+
+gula simnia D {3113 Y P z dant
+etiam YP seu gad PZaeua, ut
+D R‘seu x nd R Χ, et propterea
+
+Rx=?-¹. Unde cum sit Rc
+
+—e πε . -ax
+... — ‚aequauoy—E-—flx
+ejxfieth=RX—P‘z><
+
+L. Ρ-ἓ. veram cum ΡΖ. 1,.139
+
+sit lffgafiffimus rationis D C ad ᾖ g
+in logarithmiea cujus subtangens est
+a sive P Z, dicendo ut subtangens D
+
+tabularum& Pz,ita1,. ῙΙΞ-ἓρω.
+
+lis desumptus ad ejusdem quantitatis logarith.
+mum in logarithmioii eujus subtangens est P Ζ.
+
+Invenietur itaque P Z χ L. “lg—{ope tabulae
+
+vulgaris logarithmomm, et iude obtinebitur R r
+ordInate ad trajectoriam D r a F, et sic punc-
+tum quodlibet r in illa determinabitur.
+
+59. Ex his simplicissima deducitur trajecwriae
+D ι· a F per legarithmicam constructio. Iisdem
+enim positis quae in Comum-io 1⁰ hujus prae-
+scripta sunt, asymptoto C Z et subtangente P Z
+describatur per punctum D logarithmica D K k G
+necarisRXinK. CapiaturXr=RK,seu
+
+ 
+
+L.
+
+ 
+
+ 
+
+Et hinc curva D r a F (¹) per tabulam logarith-
+
+Rr= X K, etpunctum ι· erit in unjectoria
+quaesiu'i D r a F. Nam si ex puncto K dueatur
+ad C Zperpendiculum KE,erit C Eseu RK
+logarithmus rationis D C ad K E vel R C (34),
+ideoque erit (58) R r= ΒΧ- RK=XK,
+ethinc RK= Rx—Rr=xr. aad.
+
+60. Haec constructio hoc etiam commodi ha-
+bet, quod statim inveniantur altitudo maxima Α a
+et horizontalis amplitudo D F. Est enim A a
+= Yk; etsi ex puncto G intersectionis loga-
+rithmicae cum linea D Z demittaturad D C per-
+pendIculum G F, erit D F amplitudo Jaotus ·
+nam coinddente X cum G fit X K seu R r= o,
+et ideo coincidit punctum r cum R in horizontali
+D C. Pariter punctum r, quo tmjectoria D r a F
+tecumqumnlibet D cexpunotoD adCZduc-
+
+tam secet, invenitur, si capiatur C H aequalis cz,
+jungatur D H logarithmicam secans in K, et ex
+puncto Κ demittatur ad D C perpendiculum
+K R, quod lineam D c secabit in puncto quaesito
+r3eritenimRK: CHsech=Dr= Dc
+=sz Zc,ffle‹‘›queXr=RK.
+
+61. Quoniam velocitas projectionis est nd ve·
+locitaoem terminalem, quae dm est, ut D P ad
+P Z (58); si manet velocitas projectionis et linea
+D P, manebit quoque lognrithmicae subtangens
+P Z ; et ideo una eademque logan-ithmicae spe-
+cies describendae trajecmriae D ι- a F sufficiet, ut-
+cumque mutetur projectionis angulus P D C.
+

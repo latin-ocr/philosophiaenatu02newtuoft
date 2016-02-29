@@ -1,0 +1,114 @@
+PRINCIPIA MATHEMATICA. 83
+
+met Saeuum]
+
+hyperbolae in ascensu corporis ab A, et minus accuratae in ejus descensu
+ad K; et contra. Hyperbola conica mediocrem rationem tenet, estque
+caeteris simplicior. Igitur si hyperbole sit hujus generiS, et punctum K,
+ubi corpus projectum incidet in rectam quamvis A N per punctum A
+
+transeuntem, quaeratur: occurrat
+Ἰ producta A N asymptotis M X, N X
+in M et N, et sumatur N K ipsi
+A M aequalis. >
+
+Reg. 7. Et hinc liquet methodus
+expedita determinandi hanc hyper-
+bolam ex phaenomenis. Projician-
+tur corpora duo similia et aequalia,
+efidem velocitate, in angulis diver-
+sis H A Κ, h A k, incidantque in
+planum horizontis in K et k; et no-
+’ tetur proportio A K ad A k. Sit‘
+¹ ea d ad e.
+
+        
+
+ν’ Ξ ’- “-
+,ει = =.·
+,τ’ ἶ Ξ
+,κ μ’, ι
+.· .=·· ' ἵ ”““-. ‘
+:¹ ........
+,ἧιζζςςιεῖῖ ............ . N ἡ
+
+M iil< N
+
+Tum erecto cujusvis longitudinis perpendiculo A I, assume
+
+utcunque longitudinem A H vel A h, (¹) et inde collige graphice longi-
+
+tudines A K, A k, per Reg. 6.
+
+Porro cum numerus n possit esse quilibet inte-
+ger ,vel fractus, et in hyperbola conica sit u
+aequalis unitati, quae veluti medium locum tenet
+iuter numeros omnes integros et fractos, satis
+manifestum est hyperbolam conicam inter supe-
+riores omnes et inferiores hyperbolas mediocrem
+rationem tenere, et quia etiam caeteris simplicior
+ost, posse loco verae trajectoriae in medio unifor-
+miter denso adhiberi. Si igitur hyperbola A G K
+sit hujus generiS, et punctum K, ubi corpus pro-
+jectum incidet in rectam quamvis A N, horizon-
+talem vel horizonti obliquam, per punctum A
+transeuntem, quaeratur: occurrat producta A N
+asymptotis M X, N X, in M et N, et sumatur
+N K ipsi A M aequalis et habebitur punctum
+K (per Theor. 1. de conicis.).
+
+(¹) ⁹ El inde collige graphice, dcc. Data enim
+tangente A H, tum magnitudine tum positione,
+datur verticalis H N cum puncto N ; et quiaas-
+sumitur etiam A Ι, et est H X = 2 A Ι (per
+dem. Reg. 12) ob n = 1; dabitur hyperbolae
+centrum X, et inde ob datum punctum 1 dabi-
+tur asymptotus altera X I M cum puncto M in
+horizontali vM N; et capiendo N K aequalem
+datae M A, dabitur punctum K, et hinc longi-
+tudo A K obtinebitur. Eodemque modo in-
+venietur altera longitudo A k.
+
+(¹⁷³) ⁸ Longuudo A H recte} assumpta suit.
+Data medii densitate in A cum velocitate cor-
+
+Si ratio A K ad Ak sit eadem cum ra-
+tione d ad e, (¹¹¹) longitudo A H recte assumpta fuit.
+
+Sin minus cape in
+
+poris sub diversis angulis H A K, h A k pro- -
+
+jecti, manet perpendiculum A Ι, et tangens
+
+A H aequalis est tangenti A h (per Regulam
+1²¹⁰). Datis tangente A H, angulo H A K et
+perpendiculo A Ι, hyperbola A G K describi
+potest (per Reg. 6²⁰²· et notam praeced.) et ideo
+data est tum specie, tum magnitudine. Unde
+si dentur tantum angulus H A K et ratio tan-
+gentis H A ad A 1, hyperbola A G K specie
+tantum dabitur, id est, omnes hyperbolae, quae
+ex his duobus datis describentur, similes erunt.
+Quare si in hyperbola A G K, quae in charta⁸
+descripta supponitur, tangens assumpta A H sit
+ad perpendiculum A Ι, ut tangens hyperbolae
+quam corpus sub angulo aequali H A K projee-
+tum in medio resistente describit, est ad suum
+perpendiculum A 1 ; hyperbola A G K in charta
+descripta similis erit hyperbolae quae in medio
+resistente describitur. Et eodem argumento al-
+tera hyperbola, cujus est amplitudo A k, et tan*
+gens A h, manente perpendiculo A 1, similis
+erit hyperbolae illi quam corpus sub angulo
+aequali h A k, projectum in secundo experimen-
+to describit. Qua propter, ob figurarum in
+charta et in medio resistente descriptarum simi-
+
+litudinem, amplitudines A K, A k eruut inter
+
+se ut homologae amplitudines hyperbolarum quae
+ig {xffriinieptis descriptae sunt, id est, A K ε
+
+Ἐξ.)
+

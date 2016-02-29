@@ -1,0 +1,155 @@
+Lumn smum] PRINCIPIA MATHEMA‘TmA.
+
+ad eam distantiam pervenit, ergo ea velocitasoet
+constans. Ergo in eodem medio omnes pulsus
+sunt aequiveloces ; quod de sono per experimen·
+ta verum esse demonstravit Der-hamus.
+
+29. Quod si medium diversum sit, velocitates
+pulsuum erunt inverse in ratione subduplicata
+densitatis et directe in ratione subduplicata vis
+ela-sticae, quippe (n. 17. hujusce) deprehendimus
+quadratum temporis quo celeritas puncti A tran·
+3.57fA B designante A Β
+particularum intervallo et f vi elasticfi, et uni-
+formiter procedere motum in pulsu ab una par-
+ticuli ad sequentem, sumantur ergo totidem par-
+tes iu utroque medio, tempora quibus motus
+pulsus a prima ad ultimam perveniet erit ut
+VVAfB (neglecta quantitate constanti 3.57.)
+velocitas νεῖ-ὂ pulsus est directe ut spatium quod
+occupant illae omnes particulae et inverse ut tem-
+pus quibus motus a prima ad ultimam transit,
+spatium vero quod occupant iilae particulae cum
+sint totidem est ut intervallum AB singulae parti-
+
+272} ²
+§l KB Χ V? Intervallum particularum est
+inverse ut densitas medii (rem considerando ut
+in n. 25. hujusce) ergo velocitas pulsus est iu-
+verse in ratione subduplicata densitatis medii, et
+directe in ratione subduplicata vis elasticae (quod
+Prop. XLVHI. statuit Newtonus).
+
+30. His de toto pulsu dictis, nunc de motu
+singulae particulae pulsus observandum est, in
+singula particula omnes velocitatis successivos
+gradus quos habuit prima particula A produci, et
+tantumdem temporis in ea particula durare,
+quantum in ω particula A, boc cum discrimine
+quod tardius eos velocitatis gradus suscipiat quam
+particula A, et quidem ed tardius quo ab ea re-
+motior est3 Primus Casus. Dividatur, ut prius,
+vibi-ationis tempus in tempuscula, et durante uno
+tempusculo aequabilis manere censeatur velocitas
+impressa ‘particulae A, fingamus singulo tem-
+pusculo velocitatem tid-viginti particulas perve-
+
+’ sit in punctum B esse
+
+ 
+
+ 
+
+eulae, ideoque est velocitas pulsus ut
+
+' nire, et spectemus spematim motum quem dece-
+
+ma particula a puncto A suscipiet, quae particu-
+' la dicatur X, illa particula X motum puncti A
+non suscipit nisi post novem particulas antece-
+dentes, tum ipsa particula X motum puncti A
+suspicit et uniformiter cum eo movetur durante
+reliquo tempusculo‚ tunc ex hypothesi mutatur
+
+· celeritas puncti A, interea tamen uniformis ma-
+, net celeritas puncti X donec nova &a celeritas ad
+ipsam pervenire potuerit, hoc est postquam suc-
+cessive pervenit ad pmiculas novem anteceden-
+tes, sed nova haec celeritas per novem particulas
+antecedentes particulam X propagatur eodem
+tempore quo prima celeritas per easdem novem
+paniculas propagata fuerat; ergo prima celeritas
+
+ι tanto diutius permanet in particula X quanto
+
+tardius eam receperat, ergo ea prima celeritas
+tamdiu durat in particula X quamdiu duraverat
+-iu particula A; cumque idem de singulis suc-
+cessivis motibus puncti A dici possit, hinc quae-
+
+285
+
+libet particula X ipsis-imum habet motum ac
+particula A, nisi· quod tardius in ea incipiat et
+desinat. Ideoque etiam manifestum est in hoc
+casu, spatia a particulis A et X descripta aequa-
+lia fore et similiter descripta.
+
+Secundus Casus. Ponatur nnnc motus
+puncti A aequabilis non maneat durante singulo
+tempusculo‚ velocitates tamen siicceesivae puncti
+X erunt inae quas in fine singuli tempusculi
+quam minimi punctum A acquisiverit, ut liquet
+ex tertio casu notae 24, ideoque punctum X
+suscipiet velocitates correspondentes velocitatibus
+puncti A sumptis per saltus, sed quoniam ciim
+primum punctum A spatium linitum descripsit,
+agere incipit in punctum proximum, saltus illi
+quamminimi intelligi debent, ideoque physice
+nulli, hinc physice particula X et particula A
+eosdem motus habebunt.
+
+Pariter describent spatia aequalia et similia3
+quippe abscissae curvae cnjusvis repraesentent
+tempus quo durante punctum A movetur, et
+ejus ordinatae repraesenteut correspondentes velo-
+citates, et dividatur axis curvae in partes quam-
+miuimas sed finitas, eriganturque ordinatae, illae
+repraesentabunt velocitates aequabiles puncti X
+initio singuli tempusculi, et parallelogrammata
+contenta sub ordinata et portione axis respon-
+dente repraesentabunt spatia a puncto X descrip-
+ta, areae vero mixtilineae inter easdem ordinatas
+easdem axis portiones et arcus curvae compre-
+hensae repraesentabunt spatia correspondentia a
+puncto A descripta, sed quando portiones axis
+sunt quamminimae, summae omnium eorum pa-
+rallelogrammatum et arearum mixtilinearum cor-
+respondentium pro aequalibus habentur. Ergo
+spatia a particulis A et X descripta suut aeqnalia
+et similiter descripta saltem quam proxime.
+
+81. Ideo uniformiter motus fibrae propagatur
+trans particulas medii ; singulae vero ejus parti-
+culae successive motum fibrae suscipiunt et ejus
+ad instar moventur, sed in fibra clastica vires
+suut semper proportionales distantiae fibrae a
+puncto medio motus sui, ut per experimenta
+constat, et illarum virium actio sensibiliter non
+turbatur per resistentiam a‘eris, propter ejus rari-
+tatem, nec per ejus elaterium quia hinc inde a
+fibra aar datur qui sere aequaliter premit, ide&
+fibra elastica ac per consequens particulae ip-
+sae medii moventur secundum legem Prop.
+XXXVIII. Lib. Ι. Sed eadem est lex motus
+penduli in cycloide oscillantis Prop. LI. Lib. Ι.
+
+¹ Ergo pulsibus per fluidum propagatis singulte
+
+particulae motu reciproco brevissimo euntes et re-
+deantes accelerantur semper et retardantur pro
+lege oscillantis penduli. Q. e. d.
+
+32. Sumatur tempus quodvis, simulque illud
+intervallum inter particulas pulsus, quod tale est
+ut'eo tempore assumpto motus fibrae a prima
+particula ejus intervalli ad ultimam perveniat.
+Dico, quod tempus illud erit ad totum vibratio-
+nis tempus ut illud intervallum ad totius pulsus
+longitudinem; res est evidentissima ex praece-
+dentibus; nam cum motus propagetur in pulsu
+uniformiter qualiscumque sit celeritas, hoc est,
+cum ad totidem particulas dato tempore perve-
+niat, manifestum est quod sic ut est totum vibra-
+

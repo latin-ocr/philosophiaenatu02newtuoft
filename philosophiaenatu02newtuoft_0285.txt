@@ -1,0 +1,96 @@
+’ Luam smum] PRINCIPIA MATHEMATICA. 271
+
+In circumferentia P H S h capiantur aequales arcus H I, I K vel h i,
+i k, eam habentes rationem ad circumferentiam totam quam habent aequa-
+les rectae E F, F G ad pulsuum intervallum totum B C. Et demissis
+perpendiculis I M, K N vel i m, k n ; quoniam puncta E, F, G motibus
+similibus successive agitantur, et vibrationes suas integras ex itu et reditu
+compositas interea peragunt dum pulsus transfertur a B ad C; si P H vel
+P H S h sit tempus ab initio motfis puncti E, (¹) erit P I vel P H S i
+tempus ab initio motus puncti F, et P K vel P H S k tempus ab initio
+motus puncti G3 et propterea E ε, F φ, G y erunt ipsis P L, P M, P N
+in itu punctorum vel ipsis P l, P m, P n in punctorum reditu, (5) aequales
+respective. Unde ε y seu E G ÷ G y -— E ε in itu punctorum aequalis
+erit E G — L N, in reditu autem aequalis E G -1- l n. (Ζ) Sed ε y lati-
+tudo est seu expansio partis medii E G in loco ε 73 et propterea expansio
+partis illius in itu est ad ejus expansionem mediocrem, ut E G — L N
+(³)adEG3 in reditu autem ut EG 4- ln seu EG÷ LN ad EG.
+Quare (b) cum sit L N ad K H ut I M ad radium Ο Ρ, (⁰) et K H ad
+E G ut circumferentia P H S h P ad B C, id est, si ponatur V pro radio
+circuli circumferentiam habentis aequalem intervallo pulsuum B C, (d) ut
+Ο Ρ ad V; et ex aequo L N ad E G ut I M ad V: erit expansio partis
+E G punctive physici F in loco ε γ ad expansionem mediocrem, quam
+
+pars illa habet in loco suo primo E G, (Β) ut V — I M ad V in itu, ut-
+
+(¹) ' Erit P Ivel P HSt'· Quoniam puncta
+Ε, F, G, et alia deinceps, motibus similibus per
+medii compressionem et dilatationem communi-
+catis successive agitantur, pulsus per aequalia
+spatia E F, F G, &c- aequalibus temporibus
+propagatur, ideoque tempus quo mnsfertur ab
+Ε ad F, vel ab Fau G, est ad tempus totum
+quo transfertur a. B ad C, et quo singula puncta
+E, F, G vibrationes suas integras ex itu et redi-
+tu compositas perficiunt, ut spatium E F vel
+F G ad spatium B C, in qui ratione etiam est
+arcus H Ι, vel 1 K, ad totam circumferentiam
+P H S P, (per Hyp.) quae tempus toturn quo
+
+pulsus a B ad C transfertur, exponit, et differem.
+
+tia inter tempus sumptum ab initio motus puncti
+E et tempus sumptum ab initio motus puncti F,
+est tempus illud quod pulsus transfertur ab E ad
+F. QuaresiPHvelPHSlaemonat tempus
+ab initiamentis puncti E, P I vel P H 815 ez·-
+ροηεε tempus ab initio nwm's puncti F, cum H 1
+vel h inponat differentiam inter tempus ab ini-
+tio motus puncti E, et tempus ab initio similis
+motus puncti Rae.
+
+(Ὺ) * Λῖριωὶεε respective (pet Prop. LII. vel
+XXXVIII. Lib. 1.).
+
+(²) ’ Sed ι σγ est ἱαιίιιαὶο seu expansio μανείς
+medii E G, in loco ι y, *quia punctum Ε transla-
+tum est in locum ι, et punctum G in locum oy.
+
+puncta tria medii quiescentis seu motu impresso
+nondum condensati vel arefacti, expansio medii
+in loco E G, mediocris seu quasi media est in-
+ter minimam ipsius expansionem in locis pul-
+suum densissimis, et maximam in locis rarissimis-
+
+(b) 815. '⁶ Cum sitL Nad KH. Anguli
+adoentrum Ι Ο Pmensuraestarcus lPaequa-
+lis dimidio arcui I P i. seu K P k, et anguli ad
+circumferentiam K H k,- urensumflest etim
+ἴωέιὼὶῗ 32.ss {21¹3 θ’ὲῗεῗοᾛέἒᾈὶἕὲἐξ
+demissum intelligatur ad H L, perpendiculum
+aequale L N, hoc perpendiculum cum ordinata-
+rum H L et K N differentia et cum arcu mini-
+mo K H triangulum constituet simile triangulo
+IOM. Est igitur LNad KH, ut ῙΜ ad
+1 Ο seu Ο Ρ.
+
+(²) ' Et KHad E G (per Hyp. supra).
+
+(⁴¹) ⁸ Ut 0 Ρ ad V. Sunt enim ’circulorum
+peripheriae PH SPetB eradiissuisOPet
+V proportionales.
+
+(ε) ⁸ Ut V-IM ad V. Quia enlm (ex
+
+ 
+
+dan.)1.N=EG}}¹.M‚eritEG-LN
+-Q,etffinfflo-
+
+LNadEGutxis—IMadv. Etsimiliter
+obLN=1n,et1M=im,eritEG-}-ln
+
+(²)·AdE G. Nam cum E, F, G sint adEGutV4imadV.
+
+N
+

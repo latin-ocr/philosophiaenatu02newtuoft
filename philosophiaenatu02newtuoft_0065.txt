@@ -1,0 +1,44 @@
+ann Suetium] PRINCIPIA MATHEMATICA. 51
+
+gumento, in ascensu corporis, sumendo, ad contrariam partem puncti A,
+aequales areas A B m i, im n k, k n ol, διο. constabit quod vires absolutae
+A C, i C, k C, l C, διο. sunt continue proportionales. Ideoque si spatia
+omnia in ascensu et descensu capiantur aequalia3 omnes vires absolutae
+l C, k C, i C, A C, I C, K C, L C, &c. erunt continue proportionales.
+Q. e. d.
+
+Corol. 1. Hinc si spatium descriptum exponatur per aream hyperboli-
+
+cam A B N K; exponi possunt vis gravitatis, velocitas corporis et re—
+sistentia medii per lineas A C, A P et A K respective3 (¹¹) et vice
+versa. ' „
+
+Corol. 2. Et velocitatis maximae, quam corpus in infinitum descendendo
+potest unquam acquirere, (b) exponens est linea A C.
+
+Corol. 3. Igitur si in data aliqua velocitate cognoscatur resistentia me-
+dii, invenietur velocitas maxima, sumendo ipsam ad velocitatem illam da-
+tam in subduplicatfi ratione, quam habet vis gravitatis (ο) ad medii resis-
+tentiam illam cognitam.
+
+ApxlCXIQhocaeuobdatumrectangu- (²³)·ExponemestlineaAc.F·menimAP
+lum l C χ 1 ο, ut A p. Ergo, co'e’untibus = A C, et quia (pei-constr.) A P²= A K
+¹ punctis k, l, area hyperbolicaknol=klx >< A C, eritetiam A K= AC,ide6quecoin-
+lo, est ut A p. Componitur igitur areu tota cidente ordinant K N, cum asymptoto C H,
+hyperbolica 2 A B ο 1 ex particulis k n ο l velo- area hyperbolica A Β N K, infinita evadet, et
+citati A p semper proportionalibus et propterea spatium descendendo descriptum huic propor-
+spatio velocitate istri descripto proportionalis tionale erit quoque infinitum, gravitas vero, re-
+est. Dividatur jam area illa in partes aequales sistentia et velocitas corporis exponentur per li-
+A B m ἰ; ἰ m n k, k n ol, διε. et vires absolutae ⁷ neam A C, eritque proinde resistentia gravitati
+A C, i C, k C, l C, &c- erunt in progressione aequalis, et propterea velocitas A C maxima.
+geometrici. Q. e. d. (ο) ⁰ Aa medii resistemiam illam cognitam.
+
+(⁸) ⁴ Ee vice versii. Simili modo siin ascensu Cum enim velocitates siut in subduplicatfi ra-
+corporis, spatium usque ad motus extinctionem tione resistentiamm (per Hyp.) et resistentia sit
+describendum exponatur per aream hyperbolicam gravitati aequalis, ubi velocitas maxima est, (per
+A B n k exponi pomum vis gravitatis, velocitas v Cor. 2.)xveloeitas maxima erit ad velocitatem da-
+corporis et resistentia medii per lineas A C, A p, tam in subduplicata ratione gravitatis ad medii
+A k. · resistentiam illam cognitam.
+
+De
+

@@ -1,0 +1,123 @@
+86
+
+PHILOSOPHIAE NATURALIS [Mor. Conmn.
+
+Quae de hyperbolis dicta sunt facile applicantur ad parabolas. Nam
+si XA G K parabolam designet quam recta X V tangat in vertice X,
+
+sintque ordinatim applicatae Ι A, V G ut
+quaelibet abscissarum X Ι, X V dignitates
+X 1¹², X V¹¹; agantur X T, G T, AH;
+quarum X T parallela sit V G, et GT,
+A H parabolam tangant in G et A: et
+corpus de loco quovis A, secundum rec-
+tam A H productam, justa cum velocitate
+projectum, describet hanc parabolam, si
+modo densitas medii, in locis singulis G,
+sit reciproce ut tangens G Τ. Velocitas
+autem in G ea erit quacum projectile per-
+geret, in spatio non resistente in parabola
+
+ 
+
+conica verticem G, diametrum V G deorsum productam, et latus rectum
+
+2GTq
+ἱῖἶι-ἶη-Ξξ-ΧΤἙ
+
+habente.
+
+G T ad Q v G. Unde si N A K lineam horiz'ontalem
+
+n—-2
+
+que per D ordinata G D, haec ergtlpmnium ma-
+m
+
+xima. Quoniam vero ἶ = a-—a et proinde
+[nx-'- a = l-'a—b, erit maxima ordinata G D seu c —
+'Ea-*Ll'=c-2⁷bb-—}N X—eAlxNA
+
+ 
+
+n a . a D N ⁸
+Quare G D ordinata maxima aequalis est dif-
+ferentiae inter verticalem N X et quartam pro-
+portionalem ad D N, A N et 2 A Ι. Q. e. i.
+
+125. Problema. Datis longitudinibus A Ι et
+A H, angulum projectionis H A N maximae
+omnium amplitudini A K convenientem inve-
+nire. Dicantur A H = a, A I = b, H X =
+2 A1=2b,A K=e,AN=x, H N=
+y, eteritx—e=KN=M A= A E, ac
+b = A 1 = A C (per Reg. 8.), proindeque
+E N = A K = e. Triangula similia Ε Α C,
+E N H hanc proportionem suppeditant, A E
+(x*—e): E N (e) =‘A C (b) : H N (y), et
+componendo x ι e = b -ᾖ- y z y, unde habetur
+bz-yy, xn=bessey,etxx=
+
+e effl. Est etiam, ob angulum A N H rec-
+
+> ΝΥ
+tum, aa-yyzx x=eelbssny², et
+
+hinc aayy—y4=ee [b-l-y]². Capia-
+tur hujus aequationis fluxio, et amplitudinis ma-
+
+ 
+
+ 
+
+ 
+
+ΕΞ
+
+ 
+
+Et resistentia in G erit ad vim gravitatis ut
+
+de-
+
+ximae e fluxione nihilo aequatss 48), erit illa
+2a²ydy—4y³dy=2e eib 45] d‘y.
+et, dividendo per 2 d y, tay—2y³=ee><
+
+-E, et idea e e==
+b ÷y
+, ac ominde e e (b÷y)
+
+[b -1- y]. Erat autem e =
+
+ΗΠ ,ΗΠ-Υ*
+[b-l-y]² [b -l- 1] ²
+= aagz-zyf. Quare erit a a 5-253
+a a y y - y ⁴
+
+b ÷ y , ,
+- ‘2 γ* =aay² — y⁴‚ unde, reductione ,
+facta et divisis terminis per y, eruitur a a b =
+2 b y y -1- y ³. Hac igitur aequatione resoluta,
+invenitur y seu H N sinus anguli H A N, ex-
+istente sinu toto A H. Q. e. d.
+
+126. Corol. Manifestum estin aequatione a ι b
+== 2 b y y -}- y ³, quantitatem 2 b y y minorem
+esse quantitate a a b, et proinde quadratum y y,
+seu H N ², minus dimidio quadrato ξ a a ,vel
+ὲ A H ²3 unde sequitur angulum quaesitum
+H A N semitecto minorem esse, qui, si medium
+non resisteret, foret semin-ectus. Sit medii den-
+sitas, adeoque et resistentia, admodum parva, et
+eritferey=a5l {,atqueaab=2byy†
+
+ay-yffh et hinc γγεῑὺ-ῘΙ-Ξα-Π ae
+y=a4l ffq-b——fffquh'mpmfimss κ Ι
+
+ 
+
+,siveaab54aay2—2b53
+
+=
+

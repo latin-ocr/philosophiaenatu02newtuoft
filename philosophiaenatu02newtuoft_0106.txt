@@ -1,0 +1,219 @@
+92
+
+exponit quamlibet amplitudinem V B, sumatur
+tangens b variabilis et sumptis fluxionibus pona-
+tur d x = o (48). Calculo enim inito invenie-
+tur4f>< gl—ebb)²=5ab><(1-bb)
+Χ 4( l 4- b b. Quoniam vero tangens anguli
+projectionis est b, sinus totus 1, et proinde secans
+3! 1 4- b b; si ejusdem anguli sinus dicatur s,
+erit&1÷bbzb=1:s,ade6quel÷bb:
+bb= 1 : ssetdividendo 1 ι bb= l—ss:
+
+ss etb= s
+
+ 
+
+ 
+
+ssatqueitabb=l—ss,
+
+ 
+
+Μ l—ss⁸
+s
+
+ 
+
+ 
+
+Loco b substituatur in aequatione
+
+1 — s s
+modo inventa et illa in hanc mutabitur, 4 f χ
+(——-—-¹ -3⁵⁵)2 = ἔδαε χ (—--—¹ *2⁵8),hocest,
+(l—ss)2 (1—ss)²
+4f><(1-3ss)2=5as χ (1 - 2ss).
+Ex qua aequatione, si eruatur valor sinus s dabi-
+tur angulus quaesitus. Per approximationem
+ita potest obtineri. Scribatur in aequatione
+8 a s = 3 a 4! ἧς nam si trajectoria in medio
+non resistente describeretur, angulus T V B
+
+ 
+
+foret semirectus, et proinde sinus ejus μ -ξ,
+cum sit sinus totus = 1 ; et ide& in medio valde
+raro est fere s = 4! ἧς aequatio igitur erit 4 f ><
+(l—Sss)2=(l —2ss) ><3a4l{;quae
+facillime resolvetur ad instar aequationis duarum
+dimensionum. Hinc autem invenitur s paulo
+minor quam V {; adeoque angulus projectionis
+semitecto paulo minor.
+
+136. Corol. 9. Si medium esset paulo densius,
+assumenda foret aequatio ad trajectarum, y =
+
+(1÷bbb){
+12af
+
+— h 14 ς aut etiam alia plurium terminorum.
+In illa autem ita determinatur valor co’e'fficientis h.
+
+5
+Pro co'effieientibus datis [ΣΞ-μ, (¹ ῖξ ξ ζῇ,
+
+δι-κκχ(-Ῑ-“ξΤΜ’).-χ3χ
+
+ 
+
+ 
+
+scribantur c, e, ut sit aequatio y = b x — c x ²
+—e 1³ —h x 4, et sumptis ut supra (181)
+fluxionibus primis, secundis et terti‘izsz1 ⁸3factae'i
+d s d (ζ’-ᾗ
+
+Χ
+
+ 
+
+d x, constante, invenietur (129)
+
+— 6ae÷24ahx
+““ (2e-ff-oex-1- lznxji
+
+=1
+
+PHILOSOPHIAE NATURALIS [Mo'r. Comma,
+
+1
+
+- sae-§amahx
+
+—2c-ff-6exx4li—4b—b-ss-2bozx
+VIT—Tb
+
+neglectis terminis ubi x 2 occurrit et extracta ra-
+dice per formulam Newtonianam. Ut sumn
+haec quantitas constans sit et aequalis unitati, ter-
+
+mini homologi in numeratore 6 a e -Ι- 24 a hx,
+
+et ᾶεὲιῗηίηειωῐε 2 c «βπ-μς e x vm
+c c x
+
+1 bb
+save=÷2c4lTss3Thet24 nhx=
+6 e x μ ι-ι-ι) ῡ-νῖὺ-ζζιὴψῗῑιιῐε
+c
+
+5a -
+
+bec
+
+δη] 1÷bb
+
+-(1÷¹›b)2-b><(1‡. bug, Quare
+48a2f 96aff
+aequatio assumpta erit y= b x—x2 Χ
+
+(ῌῡὴ)-Χ3χ(ι-ι-Μ»)ἓ
+af 12³1·
+
+ 
+
+ 
+
+ 
+
+ponendi sunt aequales, id est,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppositionibus eruitur e =
+
+ffl-l-bb-
+4f
+
+ 
+
+(14bb){
+
+12af
+
+ 
+
+‚ eth=e
+
+ 
+
+ 
+
+ 
+
+-χιχ
+
+ 
+
+(1÷¹2b)-²4 nb χ §¹ -ι- hm}
+48 a 2 f 96 a f f
+
+Et eodem modo determinarentur co‘efficientes
+in aequationibus plui'ium terminorum seu
+ad parabolas superiorum generum.
+
+137. Corol. 10. Si resistentia medii uni-
+formis, partim constans supponeretur et par-
+tim velocitatis quadrato proportionalis, pos-
+set etiam trajectoria V P B quamproxime
+definiri. Sit enim resistentioe pars uniformis
+ἓξὲξ, et τεείειειηὶαιοωτΞΙ-ςῖε-ὶ-ἑ-Ξ, et
+
+kgds÷v²ds
+2a
+
+=—vdv
+adeoque (127) v d v
+
+ 
+
+ 
+
+etit(28)gdy÷ 2
+
+et (so) νεΞ-ᾗῇῗ
+
+-τ-εᾶῖψΜ--ξ-’ν
+= 2ddy
+
+ 
+
+his valor-ibus loco
+
+ 
+
+v ² et v d v, in priori aequatione substitutis sit
+³²¹⁷÷k-g2‘¹⁸-52‘‡12³ Ξεᾱῑ-ἒ-ῗῖιῗί
+. - d s ² yd s d ³ y .
+
+ldeQuek—a-—dE-y— W. σω 81 re-
+
+sistentia tota r, exigua fuerit, ponatur aequatio ad
+trajectoriam V PB, y=bx—cx²—ex³, et
+facta d x, constante, capiantur fluxiones primoe,
+secundae et tertioe quae coincidente puncto C,
+cum V‚-e1·unt d y =bdx, ddy=—2edx²‚
+etd ³ y= -6edx ³(.131); unde invenitur
+ut (in Corol. 4. 131.) b, tangens angulliffljeg-
+
+tionis, existente sinu toto 1, et c = 4 f ,
+

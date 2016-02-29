@@ -1,0 +1,79 @@
+298 PHILOSOPHIAE NATURALIS
+
+v SECTIO IX.
+
+De motu circulari fluidorum.
+
+HYPOTHESIS.
+
+Resistentiam, quce oritur ea· defectu lubricitatis partium fluidi, caeteris
+paribus, proportionalem esse velocitati, qud partes fluidi separantur
+(Β) ab invicem.
+
+PROPOSITIO LI. THEOREMA XXXIX. ·
+
+Si cylindrus solidus infinite longus in fluido uniformi et irfinito circa axem
+positione datum uniformi cum motu revolvatur, et ab hujus impulsu solo
+agatur fluidum in orbem, perseveret autem fluidi pars unaquaeque unifor-
+miter in motu suo ; dico quod tempora periodica partium fluidi sunt ut
+ipsarum distantiae ab ame cylindri.
+
+Sit A F L cylindrus uniformiter circa axem S in orbem actus, et cir- .
+culis concentricis B G M, C H N, D I O, E K P, &c. distinguatur
+fluidum in orbes cylindricos innumeros concentricos solidos ejusdem cras·
+situdinis. Et quoniam homogeneum est fluidum, impressiones conti-
+guorum orbium in se mutuo factae erunt (per Hypothesin) (⁸) ut eorum ,
+
+portionalish est (per Hyp.). Unde si superficie·
+contiguae,h omogeneae et aequalis ubique esposi-
+tatis sese viribus aequalibus premant, et pretem-
+
+⁶) ⁶ Ab invicem. Resistentia quae oritur ex
+d ectu lubricitatis partium fluidi, caeteris pari-
+bus, est semper eadem in spatiis aequalibus, quae-
+
+[Moneom’om' . ’
+
+cumque fuerit mobilis velocitas; cum in omni-
+
+bus spatiis aequalibus idem defectus lubricitatis
+superandus sit. Est igitur haec resistentia, cae-
+teris paribus, ut spatium quod mobile describit,
+hoc est, dato tempore, ut velocitas. Quia vero
+partes contiguae quae simul pari velocitate mo-
+
+ventur, sese mutuo non atterunt3 capienda hic
+est velocitas partium relativa, quii. partes sepa-
+
+rantur ab invicem. Sed de hac Hypothesi vide
+scholium sequens.
+
+(3) 326. ⁸ Ut eorum translationes ab mvicem
+et superficies contiguoe, διο. Si superficies con-
+tiguae null& velocitate relativa inter se moveren-
+tur, eut si essent perfecte lubricae, nulls foret
+earum frictio· at si superficies sint asperae et
+alia super aliam incedat, nascetur ex partium at-
+tritu resistentia, quae, dato tempore et coeteris
+paribus, velocitati* superficierum re tivae pro-
+
+superficies quae super alias sibi contigui-⁸⁸ inee-
+dunt, aequales sint; resistentie ex attritu dnto
+tempore genitae proportionales erunt translatio-
+nibus superficierum contiguarum ab invicem,
+cum hujusmodi translationes sint spatia velocita- ’
+tibus relativis dato tempore descripta. Si νετό
+translationes illae seu velocitates relative φρει·-
+ficierum configunt-um ponantur aequales; resinen-
+tiae, caeteris paribus, erunt ut superficIes eonfi-
+guae quae sese mutuo atterunt. Quare si nee
+superficies con ω, nec earum velocitates re-
+lativae seu transixtiones ab invicem aequantur,
+resistendis, caeteris paribus, erunt in rationo
+composita ex ratione superficierum contiguarum
+et ratione translationum ab invicem dato tem-
+pore factarum.1mpress10nes vero contiguorum
+orbium m se mutuo factae‚ sunt ut resistentie
+
+quibus producuntur.
+

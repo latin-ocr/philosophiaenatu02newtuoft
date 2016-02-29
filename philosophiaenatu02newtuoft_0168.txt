@@ -1,0 +1,124 @@
+154
+
+PROPOSITIO XXVII.
+
+PHILOSOPHIAE NATURALIS [Mor. Consort-
+
+Ti-IEOREMA XXII.
+
+Si corporibus funependulis resistitur in duplicatd ratione velocitatum, dif-
+serentioe inter tempora oscillationum in medio resistente ac tempora oscil-
+lationum in ejusdem gravitatis specifi'cae medio non resistente, erunt arcubus
+oscillando descriptis proportionales quam prooeime.
+
+(²) Nam pendulis aequalibus in medio resistente describantur arcus
+inaequales A, B 3 et resistentia corporis in arcu A, erit ad resistentiam,
+
+(²) ‘¹ Nam pendulis aequalibus in medio resis- qui ergo aequalibus temporibus describentur, sed
+
+tente describantur arcus inaequales A et B, ⁸* ad tempus quo describitur arculus a est T -Ι-
+
+pleniorem hujus demonstrationis evidentiam,
+fingatur illos arcus in totidem partes quam mini-
+mas inter se aequales dividi, singulae in utroque
+arcu erunt totis arcubus proportionales dican-
+turque a et b, si medium aut non resisteret aut
+resisteret in ratione velocitatum, velocitates initio
+particularum quarumvis correspondentium a et
+b, forent ut arcus ipsi A et B ; at in medio re-
+sistente in ratione duplicata velocitatis paulo di-
+versa erit haec velocitatum ratio, sed propter exi-
+guam rationem resistentiae ad velocitatem, negligi
+poterit haec differentia, et supponi potest veloci-
+tates manere in ratione arcuum quam proxime3
+quod si ita supponatur resistentia corporis in
+quovis puncto arcus A erit ad resistentiam corpo-
+ris in parte correspondente arcus Β, sicut quadrata
+velocitatum in punctis illis correspondentibus
+eorum arcuum, id est ut quadrata ipsorum ar.
+cuum A A et B B quam proxime. Designetur
+vero velocitas initio arcus a per v A, et initio
+arcus b perv B. Designetur porro resistentia
+initio arcus a per m A A, et resistentia initio
+arcus b per m B 133 in medio non resistente
+tempuscula quibus singulae particulae a et b
+describentur erunt aequalia, (per Prop. 11. Lib.
+Ι.) designentur vero per T; cum ergo in medio
+resistente propter velocitatem imminutam longius
+fiat tempus in inversa ratione velocitatum ut x
+excessus ille tempusculi quo arcus a describitur
+iu medio resistente supra tempusculum quo idem
+arcus in medio non resistente percurritur habe·
+biturque ex hypothesibus v A — m A A: v A =
+T: T -1- x.
+
+Ut inveniatur ratio hujus excessus x ad ex-
+cessum tempusculi quo arcus describitur in medio
+resistente secundum legem duplicatam velocita-
+tis, supra tempusculum Τ, quo idem arcus in
+medio non resistente percurritur ; supponatur
+arcum B in tali medio describi ut resistentia in
+punctis a arcus A, sit ad resistentiam in punctis
+correspondentibus b arcus B, sicut A est ad B,
+ideoque sicut velocitates initio arcuum illorum,
+sive cum resistentia in a sit m A A resistentia
+in b fingatur esse rn A B, cum ergo resistentiae
+sint in ipsa ratione velocitatum. velocitates
+demptis resistentiis manebunt in eadem ratione,
+in ratione nempe arcuum describendorum a et b,
+
+x ergo
+si resistentia in arcu B, siveb sit ru A Β ideoque
+velocitas sit v B — m A B tempus quo descri-
+betur arcus b erit etiam T 4 x.
+
+Cum autem revera resistentia initio arcus b
+non sit m A B sed m B B, si y sit excessus
+tempusculi in quo b describitur in medio resis-
+tente juxta quadrata velocitatum supra tempus
+quo idem arcus in medio non resistente percur-
+ritur, erit tempus T 4- x ad tempus '1¹4- y
+reciproce sicut velocitas v B — m A B quae sup-
+ponebatur, ad velocitatem v B - m B B, erit-
+que ideo vB—mBBade—mAB=
+T ή- x, ad T -ἦ- y, cum ergo subtractio quan-
+titatum m B B, m A B ex velocitate v B pro-
+ducat excessus x et y supra tempus T, oportet
+ut illae quantitates m-13 B, m A B, sint reci-
+proce utxety‚ sed m A B etm B Bsunt ut
+A ad B, ergo A est ad B, sicut x est ad y, ideo-
+que excessus x temporIs arcus A in medio resis-
+tente in duplicata ratione velocitatis supra tem-
+pus in eodem arcu A in medio non resistente,
+est ad excessum y temporis arcus B in eodem
+medio supra tempus in eodem arcu B in medio
+non resistente, ut arcus A ad arcum B, cumque
+idem ratiocinium in omnibus arcubus quam-
+minimis a et b instituti possit, summas omnium
+excessuum tempusculorum in arcu A, erit ad
+summam omnium excessuum tempusculorum in
+arcuButAadB. Q„ e. d.
+
+⁸* Quod excessus x et y tempusculorum quibus
+describuntur arcus a et b, in medio resistente
+juxta rationem duplicatam velocitatum, supra
+tempus quo describerentur in medio non resis-
+tente sint ut A et B, ex superiori demonstratione
+alio modo erui potest. Nam manentibus qua
+illic posueramus est. j
+
+vA—mAA:vA=T:T-{—xestetiam
+simili rationev B—m B B:v B=T2T÷y
+et dividendo in utraque proportione fit
+
+vA—mAAzmAA=T:x
+
+vB—mB B:mB B=T:y.
+Sed ob exiguitatem resistentiae velocitatis re-
+spectu assumi potest v A — m A A pro v Ἀ,
+et v 'B—mB Β pro v Β, unde est quam
+
+proxime
+vAthA=T=1
+szmBB=szetreducendopri=
+

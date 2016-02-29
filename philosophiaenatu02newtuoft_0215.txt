@@ -1,0 +1,169 @@
+Lmen stonum] PRINCIPIA MATHEMATICA.
+
+201
+
+resistatur: (¹) biseca altitudinem O D in Q et produc Ο Q ad S ut sit Q S
+aequalis *Q C, et erit S vertex coni cujus frustum quaeritur.
+
+describit, erit p z y d y, et inde solidum ex ro·
+tatione figurae C P H E, genitum, etit S.pz ydy,
+fluente haic ita sumpta ut facta y = o ea eva-
+nescat. ” Quare cum cylindrus convolutione rec-
+tanguli C P V 1, descriptus sit ἦ p a 5 y, resis-
+tentia solidi cx revolutione figurae A B R geniti,
+erit od resistentiam baseos ipsius circuli radio
+β Rdaecriptiut S. pzydyadgpayy, seu
+urs-zydyadgayy.
+
+196. Sit K Β A ellipsis vel hyperbola
+cujus vertex A axis principalis A 1. Sit semi-
+αἱς principalis = b, semi-latus rectum,= c,
+Δ R=x, R B=y, et erit byy=
+ebcx-cxx aequatio ad ellipsim3 etbyy
+=2 b c ¹40 xx, aquatio ad hyperbolum.
+Priorisaequationis fluxio byd5=bcdx
+
+—cxdnuquihabeturdx²=b²y²dy²
+
+(δε-σιμ
+b²y²dy² — by²dy²
+
+-b2cc—-2bccx4-ccxx—bcc—cyy
+Hincaequatiotlffl)ady²=zdx²²d†:d5²‚
+’Μ y
+—cy'²v÷bcc÷
+z d y ² sive dividendo per <1 y ² et ad commu-
+nem denominatorem revocando utrumque aequaa
+tionis membrum fit- a c y²-}-a b c c=
+b y ² z— c y ² z4b'c'c z'ergo est 2=
+—a c 5² -Ιι- a b c c
+*b—cx524b cc
+ab²c²
+
+b-04 (b—c) χ (b—c >< y²÷bch²¹
+edtzydffifflQ—T—
+(b—c)><(.b—c><y -ζδο-ἑ)
+
+sumptisque fluentibus eet S. z y d
+
+ 
+
+ 
+
+in hanc abit· ad yss²=
+
+et facts divisione z =
+
+ 
+
+ 
+
+nde
+
+ 
+
+—·acy²v ab²c² ——··——·2—··
+2-ὦω-ω--ὶ-2(ι)--ο),ῐ...Ι)-ιε><)7 ÷bcc
+
+4 Q const. (ut patebit si hujus quantitatis
+fluxio sumatur): facta autem y = o ent o =
+ᾖξ’-ἑὲ L. b c c 4 Q const. ideoque Q,
+
+a b ² c 2
+
+W L. b c c, unde tandem
+
+oonst. =‘—
+
+ 
+
+acy² „bzcz
+habetur 8⁶²5d5=—{(b:‘c)÷2(b-c)²x
+
+(Lssc-xy——T-f-—bt-:c—L. bcc)siveS.zydy
+
+⁸05² ⁸b²c² b—cxy24bcc
+2 (b-c)÷2 Ρ 1⁴⁶ b c e ¹
+⁸⁵¹ ergo resistentia concidis elliptici A B R.
+ad resistentiam suae baseos, seu circuli radio
+-Ψ- ÷ ,ι’-Ἐ- χ
+2 (b—c) 2 (b—c)²
+
+L· ψ ad y y. Pro conoide
+zby²dy²
+
+4- z d y 2 unde eodem iterato {2³1ssssssss
+dibit ratio ejus resistentie ad resistentiam ba-
+
+ 
+
+B R descripti ut -
+
+ 
+
+hyperbolico, invenietur a d y 2 =
+
+ 
+
+, c 2 b²c²
+’ω’ ”²42(b5÷c)42(b÷c)2 Χ
+ῙΛὺ--ἱι-(ῑχ y²÷bccady
+b c c
+parabolice, fiat in formulz‘i. resistentiae conoidis
+elliptici axis b infinitus caeterisque terminis in
+quibus b non occurrit deletis, erit conoidis
+parabolici resistentia ad resistentiam suae baeeos
+
+b²c²thby²÷bc<c
+
+². Pro conoide
+
+ 
+
+ 
+
+ad y ², sive ut
+
+2b² bec
+{ny-Zsssscadyz
+
+197. Sit K B A linea recta, et quia chorda
+
+1 S parallela est recta> K A, (192) punctum H
+est semper in linea recta T H Q, ideoque rosis-
+tentia coni revolutione trianguli K A C circd
+A C geniti erit ad resistentiam circuli radio C K
+’ ', ut cylindrus ex rotatione rectanguli
+
+C K Q Τ ad cylindrum ex rotatione rectanguli
+CKGIcircaCI,ides-t‚obcommunem
+ulttritzslqize ογὲὶῐίἀῐί basim& '1113 ειιιέὴὲῑιιῐάο. C ’ξι ad
+a ι em 3 et est ‚ m ra one
+duplicati CSadCIvelsscadKA, seuin
+
+ 
+
+ratione duplicata sinfis anguli K A C ad sinum
+totum. Simili modo resistentia coni quem reem
+Β A rotata describit est ad resistentiam circuli
+radio B R. descripti in eadem ratione duplicata
+K C ad K A; et (dividendo) resistentia annuli
+conici quem recta K B, circa C A rotata descri-
+bit est ad resistentiam annuli circularis quem in
+effidem convolutione describit recta K P in eadem
+duplicata ratione K C ad K A. Resistentia
+νει-ὀ coni truncati convolutione figurae K B R
+circa C R, geniti, est ad resistentiam baseos
+ipsius sive circuli radio C K, descripti ut solidum
+quod figura C K Q H V 1, circa C 1 rotando
+describit, ad cylindrum ex rotatione rectanguli
+C K G I ortum. Est nutem solidum prius
+summa duorum cylindrorum, revolutione rectan-
+gulorumCKQTetTHVIcircaCI pro-
+ductorum, hoc est, (ob areas circulorum radio-
+rum quadratis proportionales) ut summa C K ²
+Χ C T -Ι- C P 2 Χ Τ Ι.
+
+(¹) 198. ¹⁸ Biseca altitudinem, διο. Datis
+C K et C R invenienda sit positio rectae K B
+

@@ -1,0 +1,65 @@
+Lmen Summa] PRINCIPIA MATHEMATICA. 47
+
+incrementis totis a et‘b generatur rectanguli incrementum a B 4- b A.
+
+. . d.
+QCZS. 2. Ponatur A B semper aequale G, et contenti A B C seu G C
+
+momentum (per Cas. 1.) erit g C -Ι- c G, id est (si pro-G et g scribantur
+A BetaB ÷bA)aBC ÷bAC÷ cAB. Et par est ratio con-
+tenti sub lateribus quotcunque. Q. e. d.
+
+Cas. 3. Ponatur latera A, B, C sibi mutuo semper aequalia; et ipsius
+A ², id est rectanguli A B, momentum a B ÷ b A erit 2 a A, ipsius au-
+tem A⁵‚ id est contenti A B C, momentum a B C -Ι- b A C -Ι- c A B
+erit 3 a A ². Et eodem argumento momentum dignitatis cujuscunque A ¹²
+estnaA”-¹. Q.e.d. ⁷
+
+Cas. 4. Unde cum ,ἑ in A sit 1, momentum ipsius ὲ ductum in-A,
+
+unfi curn IX ducto in a, (¹) erit momentum ipsius 1, id θείς nihil. Proinde
+
+ 
+
+momentum ipsius ἑ seu ipsius A ···· ¹ est ΣΞ. Et generaliter cum ᾖ
+in A ¹¹ sit 1, momentum ipsius n ductum in A '¹' unfi cum ᾗ in
+
+seu A-¹²
+
+ 
+
+n a A ¹¹ ““- ¹ erit nihil. Et propterea momentum ipsius n
+
+erit ft- §.fi-23. Q. e. d.
+
+Cas. 5. Et cum A ὲ in A ἐ sit A, momentum ipsius Α’ὲ ductum in
+
+ 
+
+2 A ὲ erit a, per Cas. 3: ideoque momentum ipsius A} erit sive
+2 Αὲ
+citas conjunctim, etquod incrementum ejusdem = 1, sed momentum rectanguli A Β est n B
+
+rectanguli O A C B ex motu lineae B C natum, -}- b A (per Cas. 1.) et momentum constantis
+est utilia linea B C et ejus velocitas conjunctim, l nullum est 3 quare erit a B 4 b A = o, et
+ideoque totum momentum rectanguli O A C B . - — 8 nd&
+est summa factorum linearum A C et B C per hmc b A *⁶ ““ ⁸ B ““·““ - 'K’ u momentum
+velocitates quibus feruntur respective ductarum, ι , 1 .- a
+ideoque ut summa rectangulorum A C χ e f et b ¹1>ssssss Β ⁵²¹¹ X ‘³⁵² b = -Δ-’ᾱ = ““· ³ Α *²⁹
+B C χ g h, sive denique ut summa trapeziorumf 1 1
+EFfQEth. aad. Similiter si ponatm -5=B‚ et ideo-—nx
+2¹¹³. flatus. Facile haec applicantur ad eos ca- A n .- A a B - Α . c 3 Δ 1
+sus ubi vel ambae lineae O A, Ο Β decrescunt, ““· ““““ ¹¹ ΘΠ* Ῥω ⁸⁵¹ ' et ⁶
+vel uni crescente altera decrescit, quippe vai-ian· ¹¹ ⁸ A Β - ¹ B 4¹ b A n = 0ῃῖἱῖ Α ¹ = ’-
+da sunt solummodo signa juxta has hypotheses. n a Α ¹² — ¹ B = ““ ¹¹ ³¹ A — ⁸- ¹¹ ⁸
+Vide aliam hujus casus demonstrationem A '¹ Α
+(num. 160. Lib. Ι.)
+(¹) ⁶ Erit momentum ipsius 1, ia est nihil.
+- n n
+
+Ponatur enim ἐξ Β et ειῑι-ῙᾹ χ A= A 13 W„ Simu modo patent oasus5. ets.
+
+ 
+
+atque adeo b, seu momentum ipsius —Al—n, erit
+

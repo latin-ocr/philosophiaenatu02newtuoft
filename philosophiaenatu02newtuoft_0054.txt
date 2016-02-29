@@ -1,0 +1,117 @@
+40
+
+Corol. 5. Et vice versz‘i, si datur
+proportio resistentiae ad datam
+quamvis vim centrip etam3 (†) datur
+tempus A C, quo vis centripeta re-
+sistentiae aequalis generare possit
+velocitatem quamvis A B: et inde
+datur punctum B per quod hyper-
+bola asymptotis C H, C D, descri-
+bi debet3 (q) ut et spatium A B G D,
+quod eorpus incipiendo motumx
+suum cum velocitate illa A B,
+
+quas dato tempore producunt (13. Lib. Ι.) et
+ideo erit resistentia prima ad gravitatem ut ve-
+locitas quam producit vis centripeta uniformis
+cui resistentia illa aequalis supponi potest, ad ve-
+locitatem quam vis gravitatis eodem tempore
+generat.
+
+(Τ) Datur tempus A C quo vis ressstemiae σφω-
+lis generare possit velocitatem A B. Si enim de-
+tur vis quaedam centripeta, dabitur tempus quo
+velocitatem A B generare potest: tempora
+autem quibus diversae vires centripetae eamdem
+velocitatem generare possunt, sunt inverse ut
+illae vires3 ergo si datur ratio vis centripetae cui
+resistentia est aequalis ad aliam vim datam, da-
+bitur ratio temporis quo haec vis velocitatem
+A B generare potest ad tempus quo vis cui re-
+sistentia est aequalis eam *velocitatem generat,
+hoc est datur tempus A C.
+
+(⁸¹) ³¹⁵ Ut et ,matium A Β G D. His enim
+datis, datur turn area A Β G D, tum rectangu-
+lum A Β >< A D, tum spatium quod corpus
+ternpore A D, cum data velocitate uniformi A Β,
+describeret in medio non resistente. ideoque cum
+sit AB><AD‚ ad A B G D, ut spatium
+tempore A D et velocitate A B in medio non
+resistente descriptum ad spatium eodem tempore
+descriptum in medio resistente (per Cor. 2.)
+hoc spatium dabitur.
+
+81. Scholium. Hujus propositionis construc-
+tio ad logaritlmiicam reduci facile posset, sed id
+relinquimus lectoris arbitrio, generalis proble-
+matis quod sequitur, solutionem analyticam tra-
+dituri ut inventionis fons ipse aperiatur.
+
+PROBLEMA.
+
+82. Definire motum corporis solii vi insitfi
+lati in medio quod resistit in ratione composita
+ex simplici ratione densitatis medii, et quavis ra-
+tione multiplicata celeritatis mobilis.
+
+PHILOSOPHIAE NATURALIS [Mor. Gomon.
+
+ 
+
+C AKI. M.
+
+tempore quovis A D, in medio similari resistente describere po-
+test.
+
+Τ
+
+Ε loco A egrediatur corpus cum velocitate
+data c et tempore t describat rectam A M = ο,
+sitque ejus velocitas in M = v densitas medii in
+eodem loco = k, et resistentia r erit (17.) r d s
+
+ 
+
+= — v d v. Ponatur resistentia r-= 1ἕνῃ-’,ιζ
+sitque a quantitas data, et habebitur k vannd ⁸
+
+=—vdv‚ ethinckds=—2⁸v¹-¹·dv.
+Per punctum M, erigatur ad A M, perpendicu-
+lum M P quod exponat medii densitatem k in
+
+    
+
+A Mm B
+
+loco Μ, sitque D P p curva quam punctum P
+
+perpetuo tangit, et erecto altero perpendiculo
+
+m p priori M P infinite propinquo ut sit M m
+
+= d s, erit elementum M P p m = k d s =
+
+-— a ‘¹ v ¹ — ¹¹ d v, sumptisque fluentibus, area
+
+A DPM=——Q-a³v2 ‘¹⁸
+2 — n
+
+nescente area A D P M, evanescit quoque s, et
+
+Q-—za—”Za--n' ωἶάεό
+
+constans Q=a'¹c²····'¹, atqueitAADPM
+
+fln02—n—8nV²-n
+2—n,
+
+uisk, scu P M, estut functio quaevis spatii de-
+
+; quia vero evn-
+
+fit v=c‚ erito=
+
+. Ροιτό si densi-
+

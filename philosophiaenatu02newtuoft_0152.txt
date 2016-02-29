@@ -1,0 +1,154 @@
+138
+
+PROPOSITIO XXII.
+
+PHILOSOPHIAE NATURALIS
+
+[Mo'r. Conmm
+
+THEOREMA XVII.
+
+Sit fluidi cujusdam densitas compressioni proportionalis, et partes ejus a.
+gravitate quadratis distantiarum suarum a centro reciproce proportionali
+deorsum trahantur .- dico (⁰) quod, si distantiae sumantur in progressione
+musica, densitates fluidi in his distantiis erunt in progressione geome-
+
+tried.
+
+Designet S centrum, et S A, S B, S C, S D, S E distantias 111 pro·-
+
+gressione geometrica.
+
+(⁰) '¹ Quod, si distantiae sumantur in progres-
+sione musicd, aut, quod idem est, si tales su-
+mantur distantiae ut earum reciprocae sint in
+progressione arithmetica.
+
+²* Scilicet tres quantitates dicuntur esse in
+continu& proportione musica sive harmonice, si
+prima sit ad tertiam ut differentia primae et se-
+cundae ad differentiam secundae et tertiae. Et
+si sit series plurium quantitatum talium ut ter-
+minus quivis sit ad subsequentem, ut differentia
+prioris a termino intermedio, ad differentiam
+hujus intermedii a posteriore termino, ea series
+dicitur progressio musica.
+
+Corol. 1. In progressione musica factum
+duorum priorum terminorum est adjacium duo-
+rum quorumvis immediate sibi succedenti um ut
+differentia inter duos primos terminos ad d fferen-
+tiam inter lios ultimos. Nam sunto termini pro-
+gressionis mus icae A, B, C, D, Ε, F, διο. et
+differentiae inter singulos M, N, P, Q, R, &c.
+erit per definitiAonem hujus progressionis
+
+.—C — M: N
+‚D— .- N: P
+C: E— = P: Q
+D2F= Q: R, unde ex com-
+positione rationum patet quod est
+A >< Β : Ε χ F = M : R.
+
+Corol. 2. Differen'tia inter duos primos ter-
+minos est ad differentiam inter duos quosvis alios,
+ut secundus terminus, toties mulctatus different-ici
+sua a primo quot sunt termini inter primum et
+ultimum, ad eum ultimum
+
+Nam (iisdem litteris adhibitis quae in supe-
+riore Corollario) cum ex natura progr. sit A· C
+·--Μ· N,sitqueA=B— Μ, estB— M
+z C— = . Ν, ετςοὴῐι hoc casu, differentia M
+inter duent} primos terminos A et B est ad dif-
+ferentiam N inter Β et C ut secundus terminus
+B semel mulctatus differentis susi a primo. οὔπη
+sit unicus terminus inter primum A et ultimum
+C, ad eum ultimum C.
+
+cum ergo sit Β - Μ : C = M ε N, vicissim
+B -M2 M= C: N, et dividendo B—2M:
+M=C—N: N; cumquesitc-N= Β,
+est 13—2M: M=132 N, sed, perdefin.
+progress. estB: N= D: PergoB—2M:
+
+Erigantur perpendicula A H, Β I, C K, διο.
+
+M= D: PetvicissimB—2M· D=M=
+P, sunt vero duo termini inter A et D, uncie
+rursus in hoc casu constat Corollarii veritas.
+
+ItemcumsitB—2M: D=M= Petvi-
+
+Α cissim Β - 2 M ε Μ = D z Ρ, erit dividendo
+
+B-3M2M=D—P: P. cumque sit D
+-P= C erit B—3M2M=C:P1:u‘m-
+que per defin. progr. sit C : P = E : Q ‚erit
+Β-3 M2M= E: Qetvicissim B-3M2
+E = M ι Q. sunt vero inter A et E tres ter-
+mini: cumque eadem recurrat semper demon-
+stratio εἰ numerus terminorum progressionis
+inter primum et ultimum sit n; si secundus ter-
+minus dicatur B, differentia a primo M, ultimus
+terminus sit F, differentia a praecedente R erit,
+M: R=B—nM: F. Q.e.d.
+
+Corol. 3. In Jnogressione musica secundus
+terminus toties mulctatus suli differenti& a primo
+quot sunt termini inter eum et ultimum est ad
+ultimum ut sactum duorum primorum termino-
+rum progressionis ad sactum duorum postremo-
+rum.
+
+Liquet utique ex collatione ouorum praecedeu-
+tium Corollariorumz unde est„ semper, B -
+nM=F=A><BzE><R '
+
+Theor. I. Quilibet terminus progressionis
+musica est aequalissacto duorum pn'morum ter-
+minorum diviso per secundum terminum toties
+ntulctatum differenti& sud α primo quot eunt ter-
+mini a primo ad eum ultimum terminum·
+
+B
+sed A = B — M ergo secundus ter-
+
+Axis
+
+B — M·
+semper per Corol.
+
+Primus terminus est
+
+ 
+
+, secundus termi-
+
+A><B
+A
+
+minus est
+
+nuz
+
+ 
+
+ 
+
+Pm reliquis terminis habenu-
+
+5. B —- n M ι F = A χ
+Β z E >< F divisis ergo consequentibus per F„
+eritB—nM:1=A>< BzE unde eotE
+A >< Β
+
+Β — n M
+terminorum inter A et F hic exprimit numerum
+terminorum ι primo ad E hoc ultimo annume-
+rato, unde patet Theor. veritas.
+
+Theor. 11. Termini omnes magr-essionis mu·
+
+sed cum n designaret numerum
+

@@ -1,0 +1,149 @@
+Lmen Saeuum] PRINCIPIA MATHEMATICA.
+
+ι E G comprimitur, estad pondus lineolae E G, ut
+A ad E G, adeoque ex aequo, vis qua lineola Ε G
+in singulis punctis urgetur, est ad ejus pondus ut
+0 R><A ad E G >< V, seu ut semi. -parameterin
+'A, ndvv(estenimo Rad E GutTtadB C,
+atque ided ut semi- -parameter ad V) vel ut 8 P S
+andB 0², obVq ad BCqutsemi- --parame
+tri quadratum ad Τι(1 quad. (atque ideo ut 8 P S
+ad semi-parametrum.) Quare cum tempora qui-
+bus aequalia corpora per aequalia spatia impellun-
+tur, sint reciproce in subduplicata ratione virium,
+erit tempus vibrationis unius, urgente vi illa
+clastica, ad tempus unius vibrationisurgente vi
+ponderis, ιιι subduplicata ratione Β C ²ad 8 P S
+Χ A. Atque adeo ad tempus descensus ex
+altitudine ὲ A, in subduplicata ratione B C² ad
+8 P S >< A et subduplicata ratione 8 P S ad A,
+hoc est ιιι ratione integra B C ad A. Sed tem-
+pore unius vibrationis pulsus progrediendo con-
+ficit latitudinem suam B C. Ergo tempus quo
+pulsus percurrit spatium B C est ad tempus
+descensus ex altitudine «ξ A, ut B C ad A. .Tem-
+pus autem quo pulsus percurrit spatium A est
+ad tempus quo percurrit spatium B C, ut A ad
+B C, adeoque aequale tempori descensus ex alti-
+tudine -1- A. -
+
+Hic notandum, quod absurda sit, et facile re-
+futanda hypothesis hic assumpta, quod nempe
+pulsus propagetur, particulis euntibus et re-
+deuntibus pro lege gravis ascendentis et descen-
+dentis. Verum id ipsum est quod demonstra-
+tionem Newtonianam evertit, ostendendo nimi-
+rum eam ipsam absurdae hypothesi probandae
+aeque mservu'e·
+
+Hactenus vir doctissimus,- sequuntur ea qui-
+bus restitui posse Newtom'anam demortua-atumem
+credimus.
+
+De Motibus in Fluido Elantico Genitis.
+
+1. Hypotltesis. Suppono medium elasticum
+constare punctis, quantitate exigua sed finita ase
+dissitis, et vi repulsiva donatis quae distantiae il-
+lorum punctorum sit reciproce proportionalis3
+nec ad alia, puncta praeter ea quae immediate
+proxima sunt sese extendit: hoc enim modo quae-
+cumque sit partium medii elastici natura, satis fe-
+liciter repraesentantur effectus qui ex eorum ela-
+terio pendent.
+
+2. Corol. 1. Medii elastici status naturalis est
+ut puncta ejus elastica a se mutuo aequaliter dis-
+ten!-
+
+8. Corol- 2. Puncta elastica velocitatem fini-
+tam suscipere possunt vel per immediatum con-
+tactum eorporis moti, velocitate sua finita punc
+tum elasticum urgentis vel per actionem conti-
+nuatam vis repulsivae punctorum elasticorum si
+ab una parte fortior sit quam ab alia. Reliqum
+causas motus, ut gravitatem, vires centrales, &c-
+hic non consideramus.
+
+4.Theor.1. Si velocitas finita quomodocum-
+que excitetur in puncto elasam, distantiae ejus a
+proximo puncto versus quod movetur minuetur
+finita quantitate antequam in reliquo medio fac
+tus sit ullus motus ullaque compressio: sint A,
+B, C, tria puncta medii clastici aequidistantia,
+
+275
+
+moveatur A versus B velocitate finita, et tem-
+pore infinite parvo describat spatium infinite
+parvum prImi ordinis A a, vis motrix puncti 15¹
+erit differentia virium repulsivamm puncti A et
+C, est autem vis repulsiva puncti A ubi perve-
+nitin a, ad vim puncti C (si ἱιιιρ
+ιιιοιιιιιι supponatur) ut B C ad B a,
+etdividendo vis motrix puncti B, ¹
+ad vim repulsivam puncti C, ut A ⁸ B C
+B c—Ba(=Aa)adBa. Sed
+A a, est infinite parvum ex hypothesi et B a est
+finita quantitas, ergo vis motrix puncti B, est
+infinite parva vis respectu vis repulsivae puncti
+C, quae vis repulsiva pro ipsa vi naturali elaterii
+assumi potest; vis autem elasticitatis est ex ge-
+nere pressionum, tempore infinite parvo velo-
+citatem infinite parvam generaret, quae velocitas
+infinite parva durante tempore infinite parvo,
+spatium infinite parvum secundi ordinis descri-
+bere faceret: ergo siquidem vis motrix puncti B
+hujus vis respectu est infinite parva, tempore
+infinite parvo spatium infinite parvum duntaxat
+tertii ordinis describere faceret; nullus ergo mo-
+tus in puncto B generabitur nisi spatium descrip-
+tum A a sit finita quantitas, nulla ergo erit com-
+pressio iuter puncta Β et C. Q. e. d. ·
+
+5. Cor-⁰1. 1. Nullus ergo motus ex puncto me-
+dii elastici in punctum proximum transfertur nisi
+post tempus finitum, nam spatium finitum A a,
+nonnisi tempore finito percurri potest per velo-
+citatem finitam.
+
+6. θοι-οῖ. 2. Et velocitas finita in puncto elas-
+tico excitata non mutabitur nisi post tempus
+finitum et postquam quantitate finini processerit.
+Sint enim medii particulae Z, A. B, procedat
+punctum A velocitate finita utcumque in id
+punctum producta, et tempore infinite parvo
+describat spatium infinite parvum
+A a, vis qua sistetur ea velocitas Ζ A Β
+orietur ex differentia virium elasti-
+carum puncti Z et puncti B, astque -1—-.-·—.
+vis puncti B ad vim puncti Ζ ιιι A B a
+
+-1- A aad A 13- Aa, et dividen-
+do vis sistens punctum A ad vim puncti Z, ·
+ut 2AaadAB—Aa, sed Aa est infinite
+parvum respectu quantitatis A B — A a, ergo,
+vis sistens punctum A est infinite parva, respec-
+tu vis puncti Z, quae est vis elaterii naturalis,
+ideo (eodem modo ac in Theorematis demon-
+stratum suit) probabitur, vim illam tempore in-
+finite parvos spatium infinite parvum tertii ordinis
+producturam. quare etiamsi singula puncta a
+parte B posita aequali vi agerent eorumque nu-
+merus infinitus foret, vires illae omnes non nisi
+spatium infinite parvum secundi ordinis infinite
+parvo tempore ex spatio A a eodem tempore
+descripto detraherent, maneret itaque idem, ve-
+locitas ergo puncti A non mutabitur ex actione
+omnium punctorum medii elastici, nisi post tem-
+pus finitum et postquam finita quantitate pro-
+amerit.
+
+7. Corol. 3. Si considerenturinnumera puncta
+elastica ordine· m linea recta posita, nec attenda-
+tur ad alia quae circumquaque solidum spatium
+constituunt, si unum velocitate finita quacumque
+ex causa urgeatur, quae constans in eo maneat,
+
+S2
+

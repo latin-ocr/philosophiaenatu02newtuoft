@@ -1,0 +1,53 @@
+met Saeuum] PRINCIPIA MATHEMATICA 45
+
+ut indeterminatas et instabiles, et quasi motu fluxuve perpetuo crescentes
+vel decrescentes, hic considero 3 ,et earum incrementa vel decrementa mo-
+mentanea sub nomine momentorum intelligo: ita ut incrementa pro mo-
+mentis addititiis seu affirmativis, ac decrementa pro subductitiis seu nega-
+tivis habeantur. Cave tamen intellexeris particulas finitas. Particulae
+finitae non sunt momenta, sed quantitates ipsae ex momentis genitae. In-
+telligenda sunt principia jamjam nascentia finitarum magnitudinum.
+Neque enim spectatur in hoc Lemmate magnitudo momentorum: sed
+prima nascentium proportio. Eodem recidit si loco momentorum usur-
+pentur vel velocitates incrementorum ac decrementorum (quas etiam mo-
+tus, mutationes et fluxiones quantitatum nominare licet) vel fixi'itae quaevis
+quantitates velocitatibus hisce proportionales. (f) Lateris autem cu-
+jusque generantis coEfficiens est quantitas, quae oritur applicando genitam
+ad hoc latus.
+
+Igitur sensus (ὅ) Lemmatis est, ut, si quantitatum quarumcunque per-
+petuo motu crescentium vel decrescentium A, B, C, ὅτε. momenta, vel
+his proportionales mutationum velocitates dicantur a, b, c, &c. momentum
+vel mutatio geniti rectanguli A B fuerit a B 4- b A, et geniti contenti
+A B C momentum fuerit a B C -ί- b A C -ι- c A B: et genitarum dig-
+
+nitatumAzAzAaA'z ΑΞΑᾶ, ΑΞ, A-1‚A—², ειΑ-ὲ mo-
+menta 2 aA, SaA2, 4aA3, ὲ εΑ-ὲ, ξαΑΞΗ-ξαΑ-ἕ,
+
+ξαΑ-ὲ,-εΑ-9, —2aA-3, et—{aA -ἓ respective. Etge-
+n n n—m
+
+neraliter‚ ut dignitatis cujuscunque A ἰι-ι momentum fuerit —ffi a A m .
+
+Item ut genitae A2 Β momentum fuerit 2 a A B -1- b A⁹3 et genitae Αξς
+Β* C²momentum saA2B¹C2 4- 4bA³B³C2 «1- 20A⁵B⁴C3
+
+etgenitaeg} siveA⁵ B-2m0mentum 3aA² B-2-2 b Α3 B-³:
+
+ 
+
+et sic in caeteris. Demonstratur vero Lemma in hunc modurn.
+' Cas. 1. Rectangulum quodvis motu perpetuo auctum A B, ubi de la-
+
+(f) Lateris autem. Sic lateris x, in quang‘ 830. ‘quibus variabiles quantitates consuevimus
+tate genita x ¹¹ 5¹¹¹ positi, co‘dfficiens est ¹ ’,ἶ , agym 302‘25‘522235’13512313 εἶ”ῗέἑῖῗέῃῖἱζὶ
+⁵⁶¹¹ ¹ '³ ‘¹ 5 '¹²’ ῗῶξζέἶῗξὲἰῑὲῗῗὲἴῖἒζ Ἢέἶι.“ζέἷ”
+
+(⁸) '¹⁵ Sensus Lemmatis est, ut, si quantitatum Ἰ- x y d ²2 et geniirffl'ssm qugmitsstum ¹ ²³ Χ ἕ
+*λ’ᾒῗὴἪῖῖξᾼἪῃὲὲῑὲᾎῖθεἒβῗ ¹ ⁴2 ἃ &zemma esse 2 ¹ ‘¹ ¹2 ³ ¹² <¹ τ’
+ἃς.. momentum vel mutatio geniti rectanguli 4 x ³ d x, ἦ x ² d x, διο.. respective3 et genitae
+A B, erit a B -ξ- bA, ἃς. vel si loco litterarum x ¹² y ¹¹¹, momentum esse, n y ¹¹¹ x ¹¹ — ¹ d x -{-
+A, B, C, ἃς. utamur litteris minusculis x, y, z, m x ¹¹ y ¹¹¹ - ¹ d y, &a
+
+ 
+

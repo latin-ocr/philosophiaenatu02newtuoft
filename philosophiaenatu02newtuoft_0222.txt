@@ -1,0 +1,77 @@
+208 PHILOSOPHIAE NATURALIS [Moneonron. ,
+
+PROPOSITIO XXXV. PROBLEMA VII.
+
+Si medium rarum ex particulis quam minimis quiescentibus aequalibus et ad
+cequales ab invicem distantias libere* dispositis constet .- invenire resisten-
+
+tiam globi in hoc medio uniformiter progredientis.
+
+Cas. 1. Cylindrus eadem diametro et altitudine descriptus progredi
+intelligatur effidem velocitate secundum longitudinem axis sui in eodem
+medio. Et ponamus quod particulae medii, in quas globus vel cylindrus
+incidit, vi reflexionis quam maxima resiliant. Et clim resistentia globi
+(per Propositionem novissimam) sit duplo minor quam resistentia cylin-
+’ dri, et globus sit ad cylindrum ut duo ad tria, et cylindrus incidendo
+perpendiculariter in particulas, ipsasque quam maxime reflectendo,
+(¹) duplam sui ipsius velocitatem ipsis communicet: cylindrus, quo tem-
+pore dimidiam longitudinem axis sui uniformiter progrediendo describit,
+communicabit motum particulis, (5) qui sit ad totum cylindri motum ut
+densitas medii ad densitatem cylindri; et globus, quo tempore totam lon-
+gitudinem diametri suae uniformiter progrediendo describit, (²) communi-
+cabit motum· eundem particulis3 (ὃ) et quo tempore duas tertias partes
+diametri suae describit, communicabit motum particulis, qui sit ad totum
+globi motum ut densitas medii ad densitatem globi. Et propterea
+globus resistentiam patitur, quae sit ad vim qua totus ejus motus vel
+auferri possit vel generari quo tempore duas tertias partes diametri
+suae uniformiter progrediendo describit, ut densitas medii ad densitatem
+globi. '
+
+ob resistentiam globi resistentis cylindri duplo
+
+(¹) ³¹¹ Dupzizm sui ipsius velocitatem, διο. .
+minorem (Prop. XXXIV. Lib. 11.)
+
+cum singulae particulae, cylindri respectu,
+
+minimae sint, si nulla esset particularum me-
+dii reflexio, eadem cum cylindro velocitate
+moverentur; ac accedente vi reflexionis per-
+fecta, velocitas illa duplicatur (53. Lib.
+(Ὺ) ⁴* Qui sit ad totum cylindri motum, &c.
+Quantitates motfis sunt ut velocitates et mussae
+conjunctim3 massae verr} sunt ut volumina et
+densitates 3 ideoque quantitates motus ut veloci-
+tates et voluminaet densitates conjunctim. cum
+igitur cylindrus quo tempore dimidiam longitu-
+dinem axis sui uniformiter progrediendo descri-
+bit, medii volumen dimidio volumini cylindri
+oequale dupla cum velocitate moveat, sitque
+proinde factum ex volumine cylindri in ipsius
+velocitatem aequale facto ex volumine medii moto
+in ejus velocitatem, motus particulis medii com-
+municatus, erit ad totum cylindri motum ut den-
+sitas medii ad densitatem cylindri.
+(Ζ) * Communicabit motum eundem particulis,
+
+(²) Et quo tempore duas tertias partes, &e-
+* Huc redit compositio rationum a Newtono in-
+dicata: totus globi motus est ad cylindri motum,
+ut 2 ad 3, haec enim est utriusque massa ratiog
+totus cylindri motus est ad motum a cylindm
+communicatum quo tempore dimidiam suam lon-
+gitudinem describit ut densitas cylindri (sive
+globi) ad densitatem medii, motus ille a cylindro
+communicatus idem est cum motu a globo com-
+municato dum totam suam diametrum percurrit3
+denique motus ille a globo communicatus dum
+totam suam diametrum percurrit est ad motum
+ab eo globo communicatum dum percurrit dun
+diametri suae tertias panes ut 3 ad 2, ideoque
+totus globi motus est ad motum ab eo com-
+municatum dum percurrit duas diametri m-
+partes conjunctim ut 2 ad 5, ut densitas'globi
+ad densitatem medii, et ut 3 ad 2, sive primi
+ratione et hac ultim& sese compensantibus ut
+densitas globi ad densitatem medii. Q. e. d.
+

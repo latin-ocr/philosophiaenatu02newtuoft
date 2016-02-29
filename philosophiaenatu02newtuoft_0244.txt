@@ -1,0 +1,117 @@
+230
+
+nec auget nec minuit.
+
+PHILOSOPHIAE NATURALIS [MoT.Com>on·..
+
+Certe actio fluidi, quae ab ejus compressione ori·-
+
+tur, fortior esse non potest in partes posticas corporis moti quam in ejus
+partes anticas, ideoque resistentiam in hac Propositione descriptam mi-
+nuere non potest: et sortior non erit in partes anticas quam in posticas,
+si modo propagatio ejus infinite velocior sit qudm motus corporis pressi.
+Infinite autem velocior erit et propagabitur in instanti, simodo fluidum sit
+
+continuum et non elasticum.
+
+(¹) Corol. 1. Cylindrorum, qui secundum longitudines suas in mediis
+continuis infinitis uniformiter progrediuntur, resistentiae sunt in ratione
+quae componitur ex duplicata ratione velocitatum et duplicata ratione dia-
+metrorum et ratione densitatis mediorum. ’
+
+(¹) Corol. 2. Si amplitudo canalis non augeatur in infinitum, sed cylin-v
+drus in medio quiescente incluso secundum longitudinem suam progre- ,
+
+(¹⁵) Cor-ol. 1. Sic demonstratur. Resistentia
+cylindri cujusque est directe ut densitas medii et
+vis uniformis qua totus cylindri motuS, quo tem-
+pore quadruplum longitudinis suae describit vel
+generari vel tolli possit, et inverse ut densitas
+cylindri (ex dem.) ; sed vis illa uniformis est in
+ratione composita ex rationibus directis longitu-
+dinis cylindri, quadrati diametri, densitatis et
+quadrati velocitatis et ex ratione inversa spatii
+descripti, seu ex ratione inversa longitudinis
+cylindri (280.). Quare (per compositionem ra-
+tionum et ex aequo), resistentia cylindri cujus-
+cumque, si conferatur cum resistentia alterius
+cylindri, est in ratione quae componitur ex ra-
+tione densitatis medii, et ratione duplicata dia-
+metri et duplicata ratione velocitatis.
+
+(¹) '⁶ Corol. 2. Sic demonstratur. * Si canalis
+non sit infinitus respectu baseos cylindri inclusi,
+resumantur ea quae sub initium Theor. istius
+XXXVII. dicebantur3 primo nempe quod
+ascendente circello in canali clauso, velocitas re-
+lativa aquae semper sit ad ejus velocitatem ut
+basis canalis E F ad annulum E P sive ad dif-
+ferentiam circulorum E F et P Q sive ut E F²
+ad E F ² —- P Q ²3 quaeratur igitur altitudo
+1 G talis ut velocitas lapsu per earn acquisita sit
+ad velocitatem circelli‚ ut E F ² hd E F ² —
+P Q ², et si fingatur circellus immotus in medio
+foraminis E F et aqua cadens ex altitudine 1 G
+ex vase amplissimo A B D B per illud foramen,
+cum velocitas aquae juxta circellum transiens
+eadem sit ac velocitas respectiva aquae juxta
+cylindrum in canali clauso motum, actio aquae
+in circellum utrinque aequalis censenda est, sed
+actio aquae sive ejus pondus in circellum per
+Cor. lo. Prop. XXXVI. est ad cylindrum
+cujus basis est circellus altitudo ξ Ι G sicut
+E F2 ad E 1²²—4 P Q2, haec itaque erit
+ratio resistentiae nd pondus cylindri aquei cujus
+basis est circellus et altitudo ξ Ι G ; sed gravitas
+est vis quae tempore quo percurritur uniformiter
+quadruplum longitudinis -ξ 1 G sive 2 Ι G ve-
+locitate lapsu per 1 G acquisita, generare potest
+
+eam ipsam velocitatem, et pondus cylindri est
+ipsa gravitas per massam cylindri multiplicata,
+ergo pondus cylindri, est vis quae dum percurri-
+tur quadruplum longitudinis cylindri velocitate
+lapsu per Ι G acquisita, generare potest motum
+ejus cylindri ea velocitate moti.
+
+cnm vero celeritas quae lapsu per I G acqui-
+ritur sit ad eam cum qua cylindrus movetur ut
+E F²ad E F2— P Q2. Quadruplumlon-
+gitudinis cylindri propria sua eeleritate alio tem-
+pore percurret quam si moveatur celeritate lapsu
+per'I G acquisita. Gravitas ergo cylindri, orit
+ad eam vim quii cylindri velocitas acquiritur
+tempore quo quadruplum longitudinis suae pro-
+pria sua celeritate describitur, directe ut celeri- .
+tates quae iis viribus acquiruntur et invene ut
+tempora quibus acquiruntur, quae tempora (cum
+agatur de describendo uniformiter eodem “
+quadruplo nempe longitudinis cylindri) sunt in·
+verse ut velocitates, ideoque pondus cylindri cst
+ad vim qua ejus cylindri motus acquiritur tem-
+pore quo quadruplum longitudinis suto propri&
+sua⁴ celeritate describitur bis directe ut celerius
+lapsu per Ι G acquisimad celeritatem cylindri,
+sivebisutEF²,adE F2—1’Q2.
+
+Ergo ex aequo resistentia est ad eam vim sicut
+Ε F²adE F2-4PQ2etbisutE lund
+E 1⁴¹²- P Q2. At, necraeistentianeceavis
+mutantur longitudine cylindri mutata. sed tan·
+tum densitate mutata ut ex ipsa Propositionis
+demonstratione liquet, est autemcvis qua motus
+in cylindro aquen generatur, dato tempore quo >
+quadruplum suae longitudinis suti cum velocitas
+percurrit, ad eam vim qua motus in equali
+cylindro, sed diversae densitatis aequali cum vo-
+locitate moto, eodem tempore generatur, ut den-
+sitas aquae sive medii, ad densitatem cylindri,
+ergo tandem resistentia est ad vim qua mottuin
+cylindro generari vel tolli potest quo tempore
+quadruplum suae longitudinis proprii cum ve·
+locitate describit. ut E F ² ad E F2-2} P Q²
+et bisut EF²ad E F² —PQ2 etutdensitas
+medii ad densitatem cylindri. Q. e. d.
+
+ 
+

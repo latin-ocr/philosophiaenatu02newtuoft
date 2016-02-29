@@ -1,0 +1,76 @@
+Lmen seculum] PRINCIPIA MATHEMATICA. 153
+
+PROPOSITIO XXVI. THEOREMA XXI.
+
+Corporum fhnependulorum, quibus resistitur in ratione velocitatum, oscilla-
+tiones in cycloide sunt isoclzronae. -
+
+(5) Nam si corpora duo, a centris suspensionum aequaliter distantia
+oscillando describant arcus inaequales, et velocitates in arcuum partibus
+correspondentibus sint ad invicem ut arcus toti3 resistentiae velocitatibus
+proportionales, erunt etiam ad invicem ut iidem arcus. Proinde si viri-
+bus motricibus a gravitate oriundis, quae sint ut iidem arcus, auferantur
+vel addantur hae resistentiae, erunt differentiae vel summae ad invicem in
+eadem arcuum ratione: cumque velocitatum incrementa vel decrementa
+sint ut hae differentiae vel summae, velocitates semper erunt ut arcus toti:
+igitur velocitates, si sint in aliquo casu ut arcus toti, manebunt semper in
+eadem ratione. Sed in principio motuS, ut corpora incipiunt descendere
+et arcus'illos describere, vires, cum sint arcubus proportionales, genera-
+bunt velocitates arcubus proportionales Ergo velocitates semper erunt
+ut arcus toti describendi, et propterea arcus illi simul describentur.
+
+Q. e. d.
+
+(ys, Nam si corpora duo, exempli causa B tionales.
+
+Vires igitur, et velocitates, et arcus
+et D. α centro suspensionis equaliter distantia,
+
+descripti, ac proinde et arcus describendi, ma-
+
+osculando describant arcus imquales B a, D e,
+ee velocitates m arcuum partibus correqmzdenti-
+bus. seu in arcuum B a, D e quadrantibus, par-
+tibus tertiis, δια, sint ad invicem ut arcus toti
+B a, D e. resistentia· velocitatibus proportio-
+noles, erunt etiam ad invicem ut iidem arcus.
+Proinde si viribus matricibus α gravitate oriundis
+(secundum tangentes cycloidis agentibus)
+
+sint ue iidem arcus B a, D e, au feramur 3ιῖιῖ
+corpus descendit, υι l addantur dum corpus
+ascendit, 12oe resistentiae5 erunt d fferentue vel
+summae ‘²¹¹2' mvicem in eadem arcuum ratione:
+cumque velocitamm incrementa vel decrementa,
+dato temporis momento genita, siut ut 71ae dzffe-
+rentiae vel summae 88), velocitates semper erunt
+ut arcus toti B a, e· igitur velocitates, si sint
+in aliquo casu ut arcus toti, manebunt semper in
+eadem ratione. Sed in Jninciffl'o motus, ubi
+corpora incipiunt e locis B, D descendere et or-
+cus illos B a, D e describere, ideoque ubi re-
+sistentia nulla est, vires sum arcubus illi propor-
+
+nent semper in data ratione. Quare corpora
+duo simul perveniunt ad punctum infimum (ἒς
+et eodem modo probatur quod arcus C a, C e
+simul describant. '
+
+Scholium. ¹Newtonus in duabus Ptopositioni-
+bus praecedentibus ostendit cycloidem esse cur-
+vam isochronam, (quam alii tautochronam ap-
+pellant,) non tantum in medio non resistente,
+sed etiam in medio quod in ratione momentorum
+temporis, et in medio quod ratione simplici ve-
+locitatis resistit3 verum quaenam sit curva illa
+tautochrona in hypothesi resistentiae velocitatum
+quadrato proportionalis non indicat. Elegan-
+tissimas hujusce Problematis solutiones dedere
+celeberrimi mathematici Eulerus Tom.IV. Aoad.
+Petrop. et Tom. 11. Mechanicae, necnon claris.
+Bernoullius in Monumemis Acad. Reg. Scien-
+tiarum Paris. an. 1730. Novam viam qua cur-
+vae tautochronae in medio quolibet resistente
+possint inveniri aperuit D. Fontaine in iisdem
+Monumeutis anni 1754.
+

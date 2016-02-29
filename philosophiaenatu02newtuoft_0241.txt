@@ -1,0 +1,53 @@
+met Secum] PRINCIPIA MATHEMATICA. 227
+
+PROPOSITIO XXXVII. THEOREMA XXIX.
+
+cylindri, qui in fluido compresso infinito et non elastico secundum longitu-
+dinem suam uniformiter progreditur, resistentia, quae oritur a magnitudine
+sectionis transversae, est ad vim qua totus ejus motus, interea dum qua-
+druplumtongitudinis suae describit, vel tolli possit vel generari, ut densitas ·
+
+medii ad densitatem cylindri quamproxime.
+
+Nam si vas A B D C fundo suo C D superficiem aquae stagnantis
+tangat, et aqua ex hoc vase per canalem cylindricum E F T S horizonti
+perpendicularem in aquam stagnantem effluat, locetur autem circellus
+P Q horizonti parallelus ubivis in medio
+canalis, et producat‘ur C A ad K, ut sit
+A K ad C K in duplicata ratione quam
+habet excessus orificii canalis E F supra
+circellum P Q ad circellum A B: mani-
+festum est* (per Cas. 5. Cas. 6. et Cor. 1.
+Prop. XXXVI.) quod velocitas aquae
+transeuntis per spatium annulare inter ⁷
+circellum et latera vasis, ea erit quam aqua
+cadendo et *casu suo describendo altitudi-
+nem K C vel I G acquirere potest.
+
+Et (per Corol. 10. Prop. XXXVI.) si ’
+vasis latitudo sit infinita, (Β) ut lineola
+H Ι evanescat et altitudines I G, H G
+aequentur: vis aquae defluentis in circellum erit ad pondus cylindri cujus
+basis est circellus ille et altitudo est ὲ Ι G, ut E F q ad E F (1-ὲ Ρ Q q
+quamproxime. Nam vis aquae, (ὓ) uniformi motu defluentis per totum
+canalem, eadem erit in circellum P Q in quacunque canalis parte
+locatum.
+
+Claudantur jam canalis orificia E F, S T, et ascendat circellus in fluido
+
+ς undique compresso, et ascensu suo cogat aquam superiorem descendere
+per spatiumrannulare inter circellum et latera canalis: et velocitas circelli -
+ascendentis erit ad velocitatem aquae descendentis (⁰) ut differentia circu-
+lorum E F et P Q ad circulum P Q, et velocitas circelli ascendentis ad
+
+ 
+
+(²) ⁸ Ut lineola H I evanescat. Per Cor. 1. uniformes sunt ut spatia eodem tempore descrip-
+
+Prop. XXXVII. aut (per not. 275.). 1a; sed intereadum circulus P Q spatium soli-
+(ὓ) 0 Ungfiwmi motu defluentis (per Cas. 6. dum, seu cylindrum P Qx R describit, descen-
+Prop. XX XVI. ). ' dit aquae quantitas huic cylindro aequalis, et prop-
+
+(⁸) ³ Ut differentia circulorum. velocitates terea altitudo verticalis per quam aqua descen-
+P 2
+

@@ -1,0 +1,99 @@
+Lama smum] PRINCIPIA MATHEMATIdA.
+
+189
+
+pyxidis plenae resistentiam totam A -ξ- 78 Β ut 77 ad 78, et divisim
+A ÷ B ad 77 B, ut77edl, indeque A -Ι- BadBut77 >< 77ad1,
+
+egere hic necessum non est3 si enim corpus in
+linei recte A C ad horizontem B C utcumque
+inclinata ascendat vel descendat, resistentia et
+
+A
+
+Β
+
+celeritas in quibuscumque locis et spatium de-
+scriptum actempus quo descriptum eet, definiun-
+tur per Prop. ΙΙΙ. Sect. 1., 8. et 9.
+Sect. 11.‚ 13. et 14. Sect. 111. ac per
+notas iisdem locis adjunctas. Cum enim
+vis gravitatis secundum directionem
+A B urgentis sit ad ipsius partem quae
+agit juxt& directionem A C, in data ra-
+tione lineae A C ad A B, seu in deta
+ratione sinus totius ad sinum anguli
+inclinationis A C 133 si loco vis gravi-
+tatis‘horizonti perpendicularis adhiben-
+tur in calculis et constructionibus pers
+illius data quae secundum directionem
+Α C agit, constructiones calculique in
+citatis locis non mutantur. Superest
+igitur ut corporis in cur-vii lineae'i asten-
+dentis aut descendentis motum definit-
+mus.
+
+Descendat primum corpus eloco dato
+A per curvam A M, ducatur verticalis
+A P, ad quam ex punctis M, et m, in-
+finite propinquis demittantur perpendi-
+cula M P, m p, et ex M {id p m per-
+pendiculum M n. Gravitas constans
+oecundum’directionem verticuli A P
+
+A
+P M
+P ι ι
+
+tempus quo describitur A M = t, A P = x,
+A M=s, Pp=Mn=dx,etMm=ds.
+Jam verde, estad Mn, seudsaddx, ut
+vis gravitatis g ad ipsius partem in directione
+3:8¹3 subdu-
+catur vis resistentiae r, et vis residua qua corpu
+in loco M, juxt& directionem M m urgetur, erit
+
+g d x
+— d s -
+v d v. Hujus autem oequationis fluens ita sumi
+debet ut evanescentibus x et s evanescat quoque
+v si velocitas corporis in loco A nulla sit, et fiat
+v=c',sivelocimscorporisin A, sit=c.
+Simili modo si
+A M ascendat, etvomnia ut modo su
+maneant, erit (18) gd x÷ rds=—vdv,
+cujus aequstionis fluentem ita sumi oportet ut
+fositis x et s = o, fiat v, aequalis velocitati in
+oco A datae.
+
+M m agentem quae ideo erit =
+
+ 
+
+ 
+
+-ιω Unde (18) fitgdvx-—rds=
+
+corpus eloco dato A per arcum
+rmus
+
+ 
+
+Siabscissaxin verticuli B Cper curvaeA C D
+punctum infimum C dueta capiatur. sitque
+B P = x, et caeteru maneant ut supra, erit adhue
+pro corporis descensu gdx—rds=vav‚r
+at pro ascensu per arcucrn C μ.1 siAdZta sin—tpunctn
+ὲ- {t de’ sscsstgrgpg -pv dev, seu gdh—ucssg ΤΧ.
+- r d s = v d v, quia crescente s decrescit x et
+conti-5. sivero dicatur C P = x et C M=n‚
+quia hae quantitates respectu aliarum Β Ρ, et
+A M negativae sunt, fiet pro descensu — g <1 x
+÷r d s=v d v, seugdx.-rds==—·-v»dv,
+
+llelam semper agens sit = g, resistentia in et pro ascensu si dicatur C μ = s erit g d x -Ι-
+
+loco M = r, velocitas corporis ibidem = v;
+
+rds==vdvquarumaequationumaltmin
+

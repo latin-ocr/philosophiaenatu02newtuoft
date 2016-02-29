@@ -1,0 +1,85 @@
+ 
+
+Luma Saeuum] PRINCIPIA MATHEMATICA.
+
+299
+
+translationes ab invicem, et superficies contiguae in quibus impressiones
+
+fiunt. Si impressio in orbem aliquem major est vel minor ex parte con-
+cava quam ex parte convex53 praevalebit impressio fortior, et motum or-
+
+bis vel accelerabit vel retardabit,
+prout in eandem regionem cum
+ipsius motu vel in contrariam diri-
+gitur. Proinde ut orbis unusquis-
+que in motu suo uniformiter per-
+severet, debent impressiones ex
+parte utraque sibi invicem aequari
+et fieri in regiones contrarias.
+(b) Unde cum impressiones sunt
+ut contiguae superficies et harum
+translationes ab invicem, erunt
+translationes inverse ut superficies,
+hoc est, inverse ut superficie-
+rum distantiae ab axe. (⁰) Sunt
+autem differentiae motuum angula..
+rium circa axem ut hae translatio.-¹
+
+ 
+
+* nes applicatae ad distantias, sive ut translationes directe et distantiae in-
+verse3 hoc est, conjunctis rationibus, ut quadrata distantiarum inverse.
+Quare si ad infinitae rectae S A B C D E Q partes singulas erigantur
+perpendicula A a, Β b, C e, D d, E e, διο. ipsarum S A, S B, S C, S D,
+S E, διο. quadratis reciproce proportionalia, et per terminos perpendicu-
+larium duci intelligatur (⁶) linea curva hyperbolica3 erunt summae diffe-
+
+(⁵) ²¹¹ Unde cum (per Hyp.) orbis unusquis-
+que in motu suo uniformiter perseveret, et
+proinde* impressiones ex utraque parte cujusque
+orbis' in plagas contrarias factae aequales sint· , im-
+,pressiones iuae, dato tempore, datae sunt, et ide&
+ratio composita ex rationibus translationum et
+superficierum contiguarum, quae estut impres-
+sio, data ost. Translationes igitur dato tempora
+sactae, sunt inverse ut superficies, hoc est, inver-
+se ut superficierum distantiae ab axe: nam cylin-
+drorum ejusdem longitudinis superficies sunt ut
+distantiae ab axe cylindri, et hic omnes superfi-
+cies ογὶίιιάῐῐοως quae circa axem infinitum re-
+volvuntur, sunt ejusdem longitudinis infinitae
+(per Hyp.)
+
+( ι’) ⁸ 327. Sunt autem d fferenhae motuum an·
+gadarium, διε. Motus angulares dicuntur ii,
+quibus singula puncta A, B, C, D, E, διο. radiis
+ad axem cylindri perpendiculariter ductis angu-
+los describunt. Sunt igitur anguli ini quasi
+spatia uniformi motu descripta, et ide& motus
+angulares sunt ut anguli descripti directe et tem-
+
+pora quibus describuntur inverse, et dato tem-
+pore sunt ut anguli descripti. Hinc, dato tem-
+pore, motuum angularium differentiae sunt ut
+differentiae angulorum descriptorum, hoc est
+(154.Lib.1.) ut translationes punctorum seu
+superficierum ab invicem directe et distantiae ab
+axe inverse: nam translationes illae sunt arcus
+cimulares quos singula puncta per suam veloci-
+tatem relativam describunt, et distantiae ab axe
+sunt illorum arcuum radii. Sed translationes
+dato tempore factoe, sunt (ex demonstr.) ut dis-
+tantiae ab axe inverse. Quare differentiae mo-
+tuum angularium, dato tempore, sunt ut qua-
+drata distantiarum inverse.
+
+ις’) ⁸ Line a curva hyper-holwa- Quoniam
+or inatae A a, B b, ἃς. sunt inverse ut abscis-
+sarum S A, S B, &c. quadrata; crescente ab·
+scissa ac sine fine producta· , correspondens or-
+dinata decrescit et numquam evanescit, et ideo
+recta S Q est curvae asymptotus3 et simili ra-
+tione patet rectam per S ductam normaliter ad
+S Q esse alteram curvae asymptotum.
+

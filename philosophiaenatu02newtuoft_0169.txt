@@ -1,0 +1,46 @@
+met Suetium] PRINCIPIA MATHEMATICA. ‘155
+
+corporis in parte correspondente arcus B, in duplicata ratione velocita-
+tum, id est, ut A A ad Β Β, quam proxime. Si resistentia in arcu B
+esset ad resistentiam in arcu A ut A B ad A A, tempora in arcubus A et B
+forent aequalia, per Propositionem superiorem. Ideoque resistentia A A!
+in arcu A, vel A B in arcu B, efficit excessum temporis in arcu A supra
+
+ 
+
+tempus in medio non resistente 3 et resistentia B B efficit excessum tem-
+poris in arcu B supra tempus in medio non resistente. Sunt autem ex-
+cessus illi ut vires efficientes A B et B B quam proxime, id est, ut arcus
+A et B. Q. e. d.
+
+Corol. 1. Hinc ex oscillationum temporibus, in medio resistente, in
+
+arcubus inaequalibus factarum, cognosci possunt tempora oscillationum in
+ejusdem gravitatis specificae medio non resistente. Nam differentia tem-
+
+porum erit ad excessum temporis in arcu minore supra tempus in medio
+non resistente, ut (¹³) differentia arcuum ad arcum minorem.
+
+Corol. 2. (⁰) Oscillationes breviores sunt magis isochronae, et brevis-
+
+ores rationes utriusque proportionis ad minores ⁸ Tempus per arcum A est T 4- x, tempus
+
+terminos- per arcum minorem Β, est T -1- y, ergo dif-
+vzmA=sz ferendatemporumT÷x—T—y=x—y,
+v ι m B = Τ : y et vicissim et excessus temporis in minore arcu supra tem-
+v z T = m A ι x pus in medIO non resistente est y juxta denomi-
+v ι Τ = m B ι y, unde est ' nationes notae superioris, sed ex Theoremate est
+mA:x=mB:y,ide6vicissim x:y=A: Bergodividendox—y:y= A
+
+m A: m B=x:y,sedmA:mB= -Βι Β, hoc est differentia temporum est ad
+
+A ε Β, ide6que A ι Β = x t y. Ideoque ex· excessum, &c-
+coesus temporum in medio resistente in duplicata , ’(6) ⁸ Oscillationes brevwres sunt nwgis isochro.
+ratione vammum, supra tempora in medio non m et brevissimae iisdem temporibus lav-aguntur
+resistente in arcubus inaequalibus sunt ut illi ac in medio non resistente quamproxime. * Bre-
+πως, vissimae iisdem temporibus peraguntur ac in
+(b) ⁹ Differentia temporum erit ad excessum medio non resistente quim proxime3 sit A arcun
+temporis in arcu minure supra tempus in medio major, B minimus, inventum est (in nota ⁸) quod
+non resistente uc differentia arcuum ad arcu-m erat v A -m A A z v A = T: T -Ι- x, et
+minorem-t. etiamquoderath—mBB:vB-—mAB
+

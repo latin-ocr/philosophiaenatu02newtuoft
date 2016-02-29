@@ -1,0 +1,65 @@
+Lim-:n Saeuam] PRINCIPIA MATHEMATICA. 63
+
+PROPOSITIO X. PROBLEMA ΙΙΙ.
+
+Tendat uniformis vis gravitatis directe ad planum horizontis, sitque resisten-
+tia ut medii densitas et quadratum velocitatis conjunctim .- requiritur tum
+medii densitas in locis singulis, quaefacz‘at ut corpus in data qua'vis linea
+curva meveatur ,- tum corporis velocitas et medii resistentiam locis sin-
+gulis.
+
+Sit P Q planum illud plano schematis perpendiculare3 P F H Q linea
+curva plano huic occurrens in punctis P et Q; G, H, Ι, Κ loca quatuor
+corporis in hac curva ab F
+ad Q pergentis 3 et G B,
+H C, I D, K E ordi-
+natae quatuor⁴ parallelae ab
+his punctis ad horizontem
+demissae, et lineae horizontali
+P Q ad puncta B, C, D, E
+insistentes; et sint B C, OD,
+D E distantiae ordinatarum
+inter se aequales. A punctis P Α Β c D E a
+G et H ducantur rectae GL, ‘
+
+H N curvam tangentes in G et H, et ordinatis C H, D I sursum pro-
+
+ductis occurrentes in L et N, et compleatur parallelogrammum H C D Μ.
+(¹³) Et tempora, quibus corpus describit arcus G H, H I, erunt in sub-
+
+ 
+   
+
+aequationibus (109.) separationem admittunt. S. 2kdx . &211de —S.2kdx
+
+In hac hypothesi aequatio pro corporis aseensu =Qh -h S.2gh dx
+fit g d x -ῇ- k v ² d x = -- v d v, seu v d v 4- in ¹quibus aequationibus variabiles sunt seper-sue,
+k v ² d x = — g d x· Ponatur k d 1 = ξ-Ξι ἓὲΐρὲρῗιξῖζὲἲῑζ ‘³2²⁰‘322‘32‘23‘ {i {ffliffi
+
+ut ⁵st szdv 4 v2dz=—2 'dx’ et ex eo quod ubix=b,sitv=c,tempusve16
+sumptis fluentibus erit zv² = 0,- έΩειᾱι, definiturperaequafionem d t = {iv—xpm corporis
+
+Q—S.2gzdx .- x
+⁰ Qun vero k d x ascensu, et per aequationem d t= — ἐξ pro
+
+d 2 . ⁷
+= ἦ z 2 ³¹2 S· k d ¹ = ᾗ L· ² et s· 2 k d ¹ = corporis descensu, in quibus aequationibua si
+s· 2 k d ι loco v substituatur ipsius valor per x inventus,
+L. z. Atque ideo st tuerit L. h = 1, h vasiabiles erunt separatae· Sed de his vide Me-
+s, 2 k d ¹ chanicam clar. Euleri. .
+
+et v²=
+
+ 
+
+= z und& fit V⁴² = Q ·-· S· 2ss h d Χ, (b) 118. ¹* Ee tempora quibus corpus describit
+S. 2 k d x arcus evanescentes G H, H 1, erunt in subdu-
+' h plicat& ratione altitudinum L Η, Ν I· Eodem
+
+pm eorporis ascensu3 et pro descensu 1000 -Ι- k, enim temporis momento quo corpus vi motus in-
+—s.2kdx siti in G. describeret tangentem G L, vi gravi-
+
+.. ndo-k erit ² —Q—S.2gh dx tatis uniformi eederet per altitudinem L H qna-
+ΨΜ V --Σῖπ- lem in medio non resistente percurreret eo ipso
+tempore3 resistentia enim effectus altitudinem
+

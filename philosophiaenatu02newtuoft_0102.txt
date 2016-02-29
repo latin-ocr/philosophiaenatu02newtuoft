@@ -1,0 +1,152 @@
+88
+
+ideoque ob datum numerum
+
+vnn
+GT
+
+VQYxaffdo igitur corpus est in A, medii densitas
+
+est ut A·¹—H. et velocitas ut ἐ ΣΙ I 3 unde ma-
+
+nente tum densitate medii in A, tum velocitate
+quacum corpus projicitur, et mutato utcumque
+angulo N A H, manebunt A H, et &51⁹ ac
+proinde A 1. Quia porro Z Y2 = X Y² —
+xz2=GT²—DN2=AA><1÷QQ
+—AA=AAQQ‚et{de62Y=Q><A
+=nbAbn—{A = n V G — V Z, atque
+ZY÷V Z=VY=nVG; erit in loco
+A, Iy=n>< AI, et hinc Ay=XH=
+
+ 
+
+‚ut
+
+—n
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n A Ι - A I. Quare manente A Ι, manebit
+etiam H X, ob datum numerum n — 1. In-
+veniamur, uti Regula 73· pro hyperbol& factum
+est, longitudines A Η, A 1 et proinde H X; et
+inde dabitur punctum H, per quod si ducatur
+T H X ad horizontem perpendicularis, dat&³
+X H, dabitur positio rectae X Ῑ, et sumen-
+doVGadIAutxvfl ad XI¹·‚ dabuntur
+omnia parabolae puncta G, per quae projectile
+transibit.
+
+Problema elegantissimum de invenienda tra-
+jectoria quam corpus in medio juxta duplicatam
+velocitatum rationem resistente describit, in suis
+Principiis praetermisit Newtonus. Rem genera-
+liter postea confecerunt clarissimi Mathematici
+Joannes Bernoullius, Her-mannus, et Euleruz
+qui trajectoriam a projectili descriptam in medio
+quod in qualibet multiplicata velocitatum ra-
+tione resistit, analytice invenerunt. Horum ves-
+tigiis insistentes, tam elegans problema in nostris
+:onumentariis desiderari nolumus.
+
+PHILOSOPHIAE NATURALIS [Mor. Coum-13.
+
+PROBLEMA.
+
+127· Tendente vi gravitatis uniformi ubique
+perpendiculariter ad planum horizontis V Z, de·
+terminare curvam V P p, quam describit pro·
+jectile in medio uniformi quod in multiplicata
+qualibet velocitatum ratione resistit.
+
+    
+
+<1 {P
+
+'b
+
+cc'
+
+V
+
+Ductis ordinatis verticalibus P C, p c infinite
+propinquis, et ex puncto P ad p c perpendiculo
+P r; dicantur vis gravitatis = g, velocitas pro-
+
+5⁰2⁶}ss in loco P = v, resistentia ibidem = r=
+v
+
+π , ita ut sit a quantitas 'constans quae deter-
+
+minabitur ex determinatione resistentiam sit tan-
+gens Pp, arcusPs=dffiV C=x‚ Pc=
+y. et ideo pr=dy‚ acCc seu Pr=dx;
+fluxio hoec d x constans supponatur. ⁶ Resol.
+vatur actio gravitatis quae exprimitur per p s in
+actionem s q curvae perpendicularem; et actio-
+nem p q, curvae parallelam quae in ascensu cor-
+
+poris illud retardat in descensu accelerat, erit ·
+
+actio tota gravitatis ad ejus actionem quii motum
+in curva retardat in ascensu et accelerat In de-
+scensu ut est p s ad p q, et ob similia triangula
+pqs, Ppr, estpsadpqsicuthsivePsad
+p r, ideoque P s (ds) ad p r (d y) sicut gravitas
+tota g, ad gddsy
+dandum corpus in ascensu, et quia in demensa
+
+estpr=-dy‚ estzffactiogravitatisad
+accelerandum corpus in descensu3 unde tota re-
+tardatio corporis tam ex gravitate quam ex reds-
+
+tentiaormestr-fgddsytamin ascensu quam
+
+quae est actio gravitatis ad retar-
+
+ 
+
+ 
+
+in descensu.
+
+Decrementum autem velocitatis -- d v; est
+semper ut vis retardans et tempus quo durante
+ea vis agit conjunctim, idque tempus est semper
+aequale arcui descripto P s ad velocitatem v ap·
+plicato, hoc est, temporis incrementum dt==
+
+‘vi—3 unde velocitatis decrementum — d v = (r -ξ-
+
+gvdy ds rds-l-gdy
+ds)x'v-=
+
+ 
+
+ 
+
+ 
+
+et quiaex
+. v²'¹ v vnd-
+hypothesar=3a—,est—vdv= 2⁸--
+
+— g d y; ut autem obtineatur valor v, et d v
+expressione quae ad curvam reseratur, notandum
+quod lineola p s sive — d d y est spatiolum ur-
+gente gravitate tempore d t percursum, idedque
+est ut vis gravitatis g per temporis quadratum
+

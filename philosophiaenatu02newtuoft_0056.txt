@@ -1,0 +1,49 @@
+42 PHILOSOPHIAE NATURALIS [Mo'r. Commi.
+
+PROPOSITIO VI. THEOREMA IV.
+
+Corpora sphaerica homogenea et aequalia, resistentiis in duplicata ratione ve-
+locitatum impedita, et solis viribus insitis incitata, temporibus qua? sunt
+reciproce ut velocitates sub initio, describunt semper cequalia spatia, et
+amittunt partes velocitatum proportionales totis.
+
+Asymptotis rectangulis C D, C H
+descript& hyperbol& qufivis B b E e
+secante perpendicula A B, a b,
+D E, d e, in B, b, E, e, (Γ) exponan-
+tur velocitates initiales per perpen-
+dicula A B, D E, et tempora per
+lineas A a, D d. Est ergo ut A a .
+ad D d ita (per hypothesin) D E
+ad A B, et ita (ἵ) (ex natura hyper-
+bolae) C A ad C D; et componendo,
+ita C a' ad C d. (¹¹) Ergo areae
+A B b a, D E e d, hoc est, spatia descripta aequantur inter se, et veloci-
+tates primae A B, D E sunt ultimis ab, d e, et propterea dividendo parti-
+bus etiam suis amissis A B - a b, D E — d e proportionales. Q. e. d.
+
+  
+
+C Aa 1) dv*
+
+PROPOSITIO VII. THEOREMA V.
+
+Cmpora splzcerica quibus resistitur in duplicata ratione velocitatum‚ tempo-
+ribus, quae sunt ut motus primi directe et resistentioe primae inverse, amit-
+tent partes motuum proportionales totis, et spatia describent temporibus
+istis et velocitatibus primis conjunctim proportionalia.
+
+(¹) Namque motuum partes amissae sunt ut resistentiae et tempora con-
+junctim. Igitur ut partes illae sint totis oroportionales, debebit resisten-
+tia et tempus conjunctim esse ut motus. Proinde tempus erit ut motus
+
+(') '¹‘ Exponantur velocitates initiales, &c. in fine illorum temporum residuae per lineas ab,
+Cum enim corpora duo similia homogenea et d e, et spatia his temporibus descripta per areas
+aequaliu supponantur, eorum motus considerari hyperbolicas A B b a, D E e d.
+possunt tanquam motus unius ejusdemque cor· (ἴ) Δ* E: natura layperbolae. (Per Theor. IV.
+poris variis celeritatis gradibus acti (ut in Prop. de Hyperb.)
+
+V.) ,ideoque (per Corol. Ι. Prop. V.) veloci- (¹¹) ²* Ergo areae A Bba, D Ε ed, (378. Lib.
+tates initiales exponi possunt per lineas A B, 1.)
+D E, tempora per lineas A a, D d, velocitates ⁶ (Σ) * Namque motuum partes amissa, διο. (2.)
+

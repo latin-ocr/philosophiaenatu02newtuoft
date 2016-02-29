@@ -1,0 +1,131 @@
+Lim-:lt Saeuum] PRINCIPIA MATHEMATICA.
+
+215
+
+nis. bajus circularis ad diametrum venae ut 25 ad 21 quamproxime.
+Aqua igitur transeundo per foramen, convergit undique, et postquam
+effluxit ex vase, tenuior redditur convergendo, et per attenuationem acce-
+
+leratur donec ad distantiam semissis digiti a foramine pervenerit, et ad
+distantiam illam tenuior (⁰) et celerior fit quam inipso foramine in ra-
+tione 25 Χ 25 ad 21 Χ 21 seu 17 ad 12 quamproxime, id est in sub-
+
+duplicata ratione binarii ad unitatem circiter.
+
+iverim perexiguam aliquam differentiam interesse
+inter contractiones aquae effluentis ex minoribus
+foraminibus„ et aquae contractiones ex majoribus
+effluentis. Antea descripti foraminis in lamina
+ferrea diameter ad diametrum aqum conmctae
+suit in ea ratione quam habet numerus 52 ad
+41 ; cum Nevtoniana sit ratio numeri 50 ad 42.
+sic omnino eedem lege, non semper contrahi
+aquae venas ostendunt variae contractiones in
+aquae a variis frustis conicis effluxu observatae,
+quin etiam huc debebunt referri illae ani-
+madverti differentia inter diametros ad perpen-
+diculum sumptas, et diametros secundum lineam
+horizonti parallelam mensas. At quanta sit dif-
+ferentia inter aquae connectiones non ausim de-
+finire3 neque νει-ὂ illa Newtoniana ratio inter
+diametrum foraminis et conuactae aquae diame-
+trum sumi debet ceu praecisa, cum ipse vir sum-
+mus in citato opere haec habeat3 existente ejus
+}nempe aquae contractae) diametro ad diametrum
+oraminisut5ad6,ve15et42d6et{‚quam-
+proxime, si moda diametros recte dimensus
+sum.” Bernoullius vero Sect. IV. parag. 7.
+haec habet 3 “ iuterim assumptis lamini tenui,
+vase amplissimo, foramine ad 4 vel 6 lineas in
+diametro assurgente, solet ratio inter foramen et
+sectionem venae contractae non multum recedere
+ab illa quam Newtonus statuit-‘’ Verum utrius-
+que authoris experimenta demonstrant, rationem
+illam diametri venae conractae ad diametrum
+foraminis multum variari, si per oblongos variae-
+que figurae canales, non vero ex simplici serap
+mjne in tenuissimi lamina insculpto e vase
+effluat aqua.
+
+(⁰) ⁶ Et celerior fit quim in ipso flammine.
+Nam velocitates sunt reciproce ut circuli per
+
+quos aqua eodem ternpore transit (171), circuli*
+
+vero sunt in ratione duplicata diametrorum; et
+ider> velocitas aquae per sectionem circularem
+venae contractae transeuntis est ad velocitatem
+aquas per foramen effluentis ut 25 >< 25 ad 21
+Χ 21 hoc est, 625 ad 441; quod utrumque di-
+visum per 37 dat rationem 17 ad 12, vel utrum-
+que divisum per 441, dat rationem 1.41, διο. ad
+1, est vero radix binarii numeri 1.41, δια, est
+ergo velocitas aquae per venam contractam ad
+
+velocitatem per foramen in ratione radicis binarii
+numeri ad unitatem.
+
+(Ρ) Per aperi-nemu verb constat. Data
+quantitate aquae per datum foramen seu per da.-
+tam venae contracta· sectionem dato tempore
+effluentis, sic illius velocitas inquiritur. Quo-
+
+(Ρ) Per experimenta vero
+
+niam data aquae quantitas aequatur cylindro vel
+prismati cujus basis est foramen datum aut venae
+contractae sectio, et altitudo spatium quod aqua
+tempore dato cum illa velocitate quam in fora-
+mine aut vcnae sectione habet, uniformiter pro-
+grediendo describeret, dividitur quantitas aquae
+data per foraminis aut sectionis venae aream,
+et quotiens erit spatium quod aqua dato tempore
+uniformiter progrediendo describeret, atque its
+nota fit aquae velocitas cujus ‚dimidium est alti„
+tudo ex qua cadere debuit ut eam velocitatem
+acquireret. Sit jam a altitudo quam corpus grave
+tempore minuti unius secundi sine resistentia
+cadendo describit, v velocitas boc casu acquisita,
+et ideo 2 a spatium quod velocitate uniformi v
+tempore minuti unius secundi describi potest
+(30. Lib. 1.) sitb altitudo aquae in vase stag-
+nantis, c celeritas quam grave per altitudinem b
+sine resistentia cadendo acquirit, et s spatium
+quod cum celeritate c uniformiter progrediendo
+tempore minuti unius secundi describeret, erit
+a: b=vv: cc(28. Uh13)et2a:s=v:c
+(5. Lib. Ι.) ideoque a: b= 4 a a ι s s; unde
+habetur s s= 4ab, et s== ν 4ab. Si igitur
+aqua e vase per venae contractae sectionem effluat
+cum velocitate c quam grave cadendo et casu
+suo describendo altitudinem b aquoe in vase stag-
+nantis acquirit, spatium s quod ex quantitate aquae
+tempore minuti unius secundi e vase effluentis,
+ut supra dictum est, habetur, debet esse aequale
+ν 4 fl b, Hinc si altitudo a, sit pedum Paris.
+14, erit s s = 56 b, quae est ipsa regula quam
+D. Pitot in Monum. Acad. Paris. an. 1780.
+tradidit. At si altitudo a ponatur esse pedum
+Paris. ¹⁵T¹s seu ¹3⁸2AE (471. Lib. 1.) erit ss=
+
+i} b. Verum ut aquae in vase stagnantis alti-
+
+ 
+
+tudo et velocitas per foramen effluentis quo tem.
+pore experimentum eapitur, eadem ad sensum
+maneant, ut oportet, usurpari potest vas satis
+amplum exiguo pertusum foramine, vel si vas
+pauli> angu stius adhibentur, tantum aquae ›affundi
+superne debet quantum per inferius lumen effluit,
+et cavendum est ne affusa aqua cum aliquo im-
+petu cadendi extimam aqum invase stagnantis
+superficiem attingat. Quibus autem artibus id
+possit effici fuse exponunt locis supra citatis
+Marchio Polenus et Daniel Bemoullius quos
+lector consulere potest. Attamen his adhibitis
+cautelis, velocitas aqua! per venae contractae sec-
+tionem effluentis paulo minor per experimenta
+
+04
+
